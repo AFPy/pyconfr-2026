@@ -21,6 +21,7 @@ jobs:
         sudo apt-get install python3-venv
         mkdir -p ${HOME}/.ssh
         printf "%s\n" "$known_hosts" > ${HOME}/.ssh/known_hosts
+        cat ${HOME}/.ssh/known_hosts
         printf "%s\n" "$deploy_key" > ${HOME}/.ssh/id_ed25519
         chmod 600 ${HOME}/.ssh/id_ed25519
         make deploy
