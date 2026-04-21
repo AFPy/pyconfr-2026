@@ -10,13 +10,28 @@
 
 {% macro description(company, lang) %}
   <div class="description">
+    {% if lang == 'fr' %}
+      {% if company == 'estia' %}
+        <p>
+          L'ESTIA, un environnement d'apprentissage dynamique et stimulant qui favorise l'émergence de talents dans les domaines technologiques avancés.
+        </p>
+      {% endif %}
+    {% elif lang == 'en' %}
+      {% if company == 'estia' %}
+        <p>
+          ESTIA, a dynamic and stimulating learning environment that fosters the emergence of talent in advanced technological fields.
+        </p>
+      {% endif %}
+    {% endif %}
   </div>
 {% endmacro %}
 
 
 {% macro sponsors(lang, only_logo=False) %}
   {% set levels = {
-      'Platine' if lang == 'fr' else 'Platinum': {},
+      'Platine' if lang == 'fr' else 'Platinum': {
+          'estia': 'https://www.estia.fr/',
+      },
 
       'Or' if lang == 'fr' else 'Gold': {},
 
@@ -31,7 +46,7 @@
       },
   } %}
 
-  {% set png_logos = () %}
+  {% set png_logos = ('estia') %}
 
   {% if lang == 'fr' %}
     <p>

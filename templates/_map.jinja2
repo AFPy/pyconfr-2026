@@ -1,0 +1,10 @@
+{% macro map(fullscreen) %}
+  <iframe id="map" allowfullscreen width="100%" scrolling="no" src="https://framacarte.org/fr/map/pyconfr-2026_232282" loading="lazy" title="Carte d’accès au campus"></iframe>
+  {% if fullscreen %}
+    <ul class="buttons">
+      <li>
+        <a href="https://framacarte.org/fr/map/pyconfr-2026_232282">{{ fullscreen }}</a>
+      </li>
+    </ul>
+  {% endif %}
+{% endmacro %}

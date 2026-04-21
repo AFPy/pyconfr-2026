@@ -1,7 +1,10 @@
 {%- set MENU = (
   ('index', ('À propos', 'About')),
+  ('venue', ('Venir', 'Venue')),
+  ('financial', ('Bourses', 'Financial Assistance')),
   ('sponsors', ('Sponsors', 'Sponsors')),
   ('news', ('Actualités', 'News')),
+  ('faq', ('FAQ', 'FAQ')),
   ('conduct', ('Code de conduite', 'Code of Conduct')),
   ('support', ('Nous soutenir', 'Support Us')),
 ) -%}
@@ -14,6 +17,7 @@
 {%- set footer_label = 'Pied de page' if lang == 'fr' else 'Footer' -%}
 
 {%- from '_sponsors.jinja2' import brochures, sponsoring, sponsors -%}
+{%- from '_map.jinja2' import map -%}
 
 <!DOCTYPE html>
 
