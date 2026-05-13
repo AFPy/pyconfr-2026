@@ -8,7 +8,7 @@
       <span>17</span><sup>e</sup> édition
     </aside>
 
-    <p class="pycon-date">À l'automne 2026</p>
+    <p class="pycon-date">Du 29 octobre au 1<sup>er</sup> novembre 2026 à Biarritz</p>
 
     <p>
       Organisée par <a href="https://www.afpy.org">l'AFPy</a>, cette conférence de quatre
@@ -16,6 +16,32 @@
       au regroupement des personnes intéressées par le langage de
       programmation <a href="https://www.python.org/">Python</a>.
     </p>
+  </article>
+  <p><small>Photo par <a href="https://commons.wikimedia.org/wiki/File:Vue_sur_la_Villa_Belza_et_la_chaine_pyr%C3%A9n%C3%A9enne.jpg">Arno8892</a> sous licence CC-BY-SA.</small></p>
+
+  <article class="place">
+    <h2>Venir</h2>
+
+    <section>
+      <img src="{{ url_for('static', filename='images/partners/epsi.svg') }}" alt=""/>
+      <address><strong>École d’ingénieurs ESTIA</strong>
+        ESTIA BERRI​
+        Site technopolitain Izarbel​
+        90 Allée Fauste d’Elhuyar​
+        64210 BIDART - FRANCE
+      </address>
+      <ul class="buttons">
+        <li>
+          <a href="{{ url_for('page', name='venue', lang=lang) }}">
+            Plus de détails
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      {{ map() }}
+    </section>
   </article>
 
   <article class="afpy">

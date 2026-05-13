@@ -350,8 +350,8 @@ aside.subtitle {
     }
 
     &::after {
-      /* Photo by Serinus: https://www.pexels.com/photo/view-of-a-river-in-a-city-6561248/ */
-      /* background: center / cover url(../images/lyon.jpg); */
+      /* Photo by Arno8892: https://commons.wikimedia.org/wiki/File:Vue_sur_la_Villa_Belza_et_la_chaine_pyr%C3%A9n%C3%A9enne.jpg */
+      background: center / cover url(../images/biarritz.jpg);
       bottom: 0;
       content: "";
       left: 0;
