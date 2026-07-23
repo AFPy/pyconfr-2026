@@ -112,6 +112,7 @@
 
       <iframe src="{{ url_for('schedule', lang=lang) }}" loading="lazy"></iframe>
     </section>
+    #}
 
     <section id="register">
       <h3>Registration</h3>
@@ -128,11 +129,11 @@
       <ul>
         <li>200 places for sprints,</li>
         <li>1 000 places for talks and workshops,</li>
-        <li>150 places for <a href="#dinner">the Saturday night dinner</a>.</li>
+        <li>100 places for <a href="#dinner">the Saturday night dinner</a>.</li>
       </ul>
       <ul class="buttons">
         <li>
-          <a href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2025">PyConFR Registration</a>
+          <a href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2026">PyConFR Registration</a>
         </li>
       </ul>
       <p>
@@ -147,16 +148,8 @@
         will incur a fee for AFPy. <strong>No refunds will be possible after
         the event.</strong>
       </p>
-      <p>
-        Registration for <a href="#children-area">the children's area</a> is open until 15 days
-        before the start of the event, i.e. <strong>October 14<sup>th</sup></strong>.
-      </p>
-      <ul class="buttons">
-        <li>
-          <a href="https://www.helloasso.com/associations/afpy/evenements/espace-enfants-a-la-pyconfr-2025">Children Area Registration</a>
-        </li>
-      </ul>
 
+      {#
       <p>
         Registration for the <a href="{{ url_for('talks', lang=lang, category='lunch', _anchor='talk-MRHUVD') }}">PyLadies Lunch</a> is open until <strong>October 27th</strong>.
       </p>
@@ -165,6 +158,7 @@
           <a href="https://www.helloasso.com/associations/afpy/evenements/dejeuner-pyladies-a-la-pyconfr-2025">PyLadies Lunch Registration</a>
         </li>
       </ul>
+      #}
 
       <p>
         You can also support <a href="https://afpy.org/">AFPy</a>, the
@@ -175,47 +169,29 @@
       </p>
     </section>
 
-    <section id="children-area">
-      <h3>Children's Area</h3>
-
-      <p>
-        A children's area is set up <strong>during the four days</strong> of
-        the PyConFR and is hosted by <a href="https://www.babychou.com/">Babychou Services</a>.
-      </p>
-      <p>
-        The children's area accommodates <strong>a maximum of 18 children, aged 3 to 12 years</strong>.
-      </p>
-      <p>
-        Registration will be open at the same time as event
-        registration and will remain open until 15 days before the
-        start of PyConFR. Priority is given to people running sprints,
-        conferences and workshops.
-      </p>
-    </section>
-
     <section id="dinner">
       <h3>Saturday night dinner</h3>
       <p>
-        A dinner is organized on Saturday night, from 7:30 PM to 11:00 PM,
-        at <a href="https://www.letigre.eu/le-petit-tigre/presentation">Petit Tigre</a> (5 Rue du Faubourg-National, Strasbourg),
+        A dinner is organized on Saturday night from 7:30 PM to 12 AM,
+        near the campus,
         only for the ones who chose the option during their registration.
       </p>
       <p>
         This dinner includes a cocktail buffet with:
       </p>
       <ul>
-        <li>Mixed charcuterie/cheese boards,</li>
-        <li>Crudités,</li>
-        <li>Quinoa salad,</li>
-        <li>Vegetable wok and soy steaks,</li>
-        <li>Savory and sweet flambé tarts,</li>
-        <li>Two drinks (beer, wine, non-alcoholic drink, coffee, herbal tea).</li>
+        <li>Charcuterie &amp; cheese boards,</li>
+        <li>Gaspacho,</li>
+        <li>Padrons casserole (peppers),</li>
+        <li>French fries,</li>
+        <li>Hot meal (with or without meat),</li>
+        <li>Soft drinks,</li>
+        <li>Desserts.</li>
       </ul>
       <p>
         Other alcoholic drinks can be bought (not included in the price) during the
         dinner.
       </p>
     </section>
-    #}
   </article>
 {% endblock content %}
