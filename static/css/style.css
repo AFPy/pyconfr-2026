@@ -6,8 +6,13 @@
 }
 
 @font-face {
-  font-family: Archivo;
-  src: url(../fonts/Archivo.ttf);
+  font-family: Erode;
+  src: url(../fonts/Erode-Regular.ttf);
+}
+
+@font-face {
+  font-family: RadioCanadaBig;
+  src: url(../fonts/RadioCanadaBig-Regular.ttf);
 }
 
 /* Colors */
@@ -27,7 +32,7 @@
 html {
   background: var(--background-color);
   color: var(--main-color);
-  font: 14pt Archivo;
+  font: 14pt RadioCanadaBig;
   line-height: 1.4;
 }
 
@@ -47,7 +52,7 @@ main {
 }
 
 h1, h2, h3, h4 {
-  font-family: JetBrains;
+  font-family: Erode;
 }
 
 h1 {
