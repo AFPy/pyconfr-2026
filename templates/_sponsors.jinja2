@@ -15,6 +15,7 @@
         <p>
           L'ESTIA, un environnement d'apprentissage dynamique et stimulant qui favorise l'émergence de talents dans les domaines technologiques avancés.
         </p>
+
       {% elif company == 'Yaal Coop' %}
         <p>Yaal Coop est une société coopérative d'intérêt collectif (SCIC)
           spécialisée dans le conseil, le développement et l'hébergement de
@@ -42,18 +43,37 @@
          L'objectif est simple : garder votre branche principale verte, votre 
          CI rapide et économique, et vos développeurs concentrés sur le 
          code plutôt que sur le processus de merge.</p>
+
+      {% elif company == 'Navicat' %}
+        <p>
+          Navicat est la solution tout-en-un qui simplifie et accélère la gestion de vos bases de données.
+          Grâce à une interface intuitive et des fonctionnalités puissantes, vous administrez facilement MySQL,
+          PostgreSQL, Oracle, SQL Server, MariaDB, SQLite, MongoDB, Redis, SQLite ou Snowflake depuis un seul outil.
+          Sauvegardes, synchronisation, automatisation et visualisation deviennent rapides et fiables.
+        </p>
+        <p>
+          Conçu pour les développeurs, DBA et analystes, Navicat optimise la productivité tout en garantissant
+          sécurité et stabilité. Avec Navicat Cloud et On-Premise, vos équipes collaborent en toute fluidité, où qu’elles soient.
+        </p>
+        <p>
+          Édité par PremiumSoft CyberTech Ltd, société pionnière basée à Singapour depuis plus de 20 ans,
+          Navicat est adopté par des milliers d’entreprises dans le monde.
+          Notre mission : transformer la complexité des bases de données en une expérience simple, performante et collaborative.
+        </p>
       {% endif %}
     {% elif lang == 'en' %}
       {% if company == 'estia' %}
         <p>
           ESTIA, a dynamic and stimulating learning environment that fosters the emergence of talent in advanced technological fields.
         </p>
+
       {% elif company == "Yaal Coop" %}
         <p>
           Yaal Coop is a cooperative specialized in consulting, development and services hosting.
           The company is located in Bordeaux and has 5 salaried partners.
           Python is our favorite language to write web services, scripts, free software and almost every cooperative projects.
         </p>
+
       {% elif company == 'Mergify' %}
         <p>Mergify helps engineering teams ship code faster without breaking main.
         Our merge queue automatically tests and merges pull requests in the 
@@ -66,6 +86,22 @@
         largest engineering organizations in the world. The goal is simple: 
         keep your main branch green, your CI fast and cheap, and your developers
         focused on writing code instead of fighting the merge process.</p>
+
+      {% elif company == 'Navicat' %}
+        <p>
+          Navicat is the all-in-one solution that simplifies and accelerates your database management.
+          With an intuitive interface and powerful features, you can easily manage MySQL, PostgreSQL,
+          Oracle, SQL Server, MariaDB, SQLite, MongoDB, Redis, SQLite, or Snowflake — all from a single tool.
+          Backups, synchronization, automation, and visualization become fast and reliable.
+        </p>
+        <p>
+          Designed for developers, DBAs, and analysts, Navicat boosts productivity while ensuring security and stability.
+          With Navicat Cloud and On-Premise, your teams can collaborate seamlessly, no matter where they are.
+        </p>
+        <p>
+          Developed by PremiumSoft CyberTech Ltd, a pioneering company based in Singapore for over 20 years, Navicat is trusted by thousands of businesses worldwide.
+          Our mission: to turn database complexity into a simple, efficient, and collaborative experience.
+        </p>
       {% endif %}
     {% endif %}
   </div>
@@ -86,6 +122,7 @@
 
       'Bronze': {
           'Yaal Coop': 'https://yaal.coop/',
+          'Navicat': 'https://www.navicat.fr/',
       },
 
       'Cœur' if lang == 'fr' else 'Heart': {
@@ -97,7 +134,7 @@
       },
   } %}
 
-  {% set png_logos = ('estia') %}
+  {% set png_logos = ('estia', 'Navicat') %}
 
   {% if lang == 'fr' %}
     <p>
