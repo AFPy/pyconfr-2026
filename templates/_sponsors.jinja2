@@ -15,6 +15,7 @@
         <p>
           L'ESTIA, un environnement d'apprentissage dynamique et stimulant qui favorise l'émergence de talents dans les domaines technologiques avancés.
         </p>
+
       {% elif company == 'Yaal Coop' %}
         <p>Yaal Coop est une société coopérative d'intérêt collectif (SCIC)
           spécialisée dans le conseil, le développement et l'hébergement de
@@ -42,18 +43,30 @@
          L'objectif est simple : garder votre branche principale verte, votre 
          CI rapide et économique, et vos développeurs concentrés sur le 
          code plutôt que sur le processus de merge.</p>
+
+      {% elif company == 'Dynapps' %}
+         <p>Dynapps digitalise les entreprises dans Odoo.
+	 Premier partenaire français et européen, Gold Partner d'Odoo, nous
+	 aidons nos clients à optimiser leurs processus, à réduire leurs coûts
+	 opérationnels et à accélérer leur croissance grâce à une plateforme
+	 ERP intégrée. Avec 280+ consultants métier présents en 5 pays et 4
+	 bureaux en France (Toulouse, Bayonne, Nantes, Strasbourg), nos équipes
+	 maîtrisent les enjeux spécifiques des PME et ETI en transition
+	 digitale, avec une expertise verticale dédiée à chaque secteur.</p>
       {% endif %}
     {% elif lang == 'en' %}
       {% if company == 'estia' %}
         <p>
           ESTIA, a dynamic and stimulating learning environment that fosters the emergence of talent in advanced technological fields.
         </p>
+
       {% elif company == "Yaal Coop" %}
         <p>
           Yaal Coop is a cooperative specialized in consulting, development and services hosting.
           The company is located in Bordeaux and has 5 salaried partners.
           Python is our favorite language to write web services, scripts, free software and almost every cooperative projects.
         </p>
+
       {% elif company == 'Mergify' %}
         <p>Mergify helps engineering teams ship code faster without breaking main.
         Our merge queue automatically tests and merges pull requests in the 
@@ -66,6 +79,16 @@
         largest engineering organizations in the world. The goal is simple: 
         keep your main branch green, your CI fast and cheap, and your developers
         focused on writing code instead of fighting the merge process.</p>
+
+      {% elif company == 'Dynapps' %}
+         <p>Dynapps digitalizes businesses through Odoo.
+	 France’s leading Odoo implementation partner and Gold Partner, we help
+	 our clients optimize their processes, reduce operational costs, and
+	 accelerate their growth through an integrated ERP platform. With 280+
+	 industry consultants across 5 countries and 4 offices in France
+	 (Toulouse, Bayonne, Nantes, Strasbourg), our teams master the specific
+	 challenges facing SMEs and mid-market companies undergoing digital
+	 transformation, with dedicated vertical expertise in each sector.</p>
       {% endif %}
     {% endif %}
   </div>
@@ -82,7 +105,9 @@
           'Mergify': 'https://mergify.com/',
       },
 
-      'Argent' if lang == 'fr' else 'Silver': {},
+      'Argent' if lang == 'fr' else 'Silver': {
+          'Dynapps': 'https://www.dynapps.fr/',
+      },
 
       'Bronze': {
           'Yaal Coop': 'https://yaal.coop/',
