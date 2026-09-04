@@ -6,7 +6,7 @@ from urllib.request import Request, urlopen
 
 # Constants, should be changed each year.
 
-URL_BASE = "https://cfp.pycon.fr/api/events/pyconfr-2025/"
+URL_BASE = "https://cfp.pycon.fr/api/events/pyconfr-2026/"
 TALKS_URL = f"{URL_BASE}submissions/?expand=slots,slots.room,speakers,answers.options,submission_type"
 ROOMS_URL = f"{URL_BASE}rooms/"
 TOKEN_FILE = Path("token.key")

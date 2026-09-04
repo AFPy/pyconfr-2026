@@ -20,13 +20,12 @@
           Nous fournissons l'espace et le matériel nécessaire à l'organisation
           (tables, chaises, connexion internet… et café !).
         </p>
+        {#
         <ul class="buttons">
           <li>
             <a href="https://cfp.pycon.fr/pyconfr-2026/cfp">Proposer un sujet</a>
           </li>
         </ul>
-
-        {#
         <ul class="buttons">
           <li>
             <a href="{{ url_for('talks', lang=lang, category='sprint') }}">Voir la liste des sprints</a>
@@ -48,13 +47,12 @@
           <li>retours d'expériences</li>
           <li>partages d'idées</li>
         </ul>
+        {#
         <ul class="buttons">
           <li>
             <a href="https://cfp.pycon.fr/pyconfr-2026/cfp">Proposer un sujet</a>
           </li>
         </ul>
-
-        {#
         <ul class="buttons">
           <li>
             <a href="#calendar">Voir le programme</a>
@@ -113,6 +111,7 @@
 
       <iframe src="{{ url_for('schedule', lang=lang) }}"></iframe>
     </section>
+    #}
 
     <section id="register">
       <h3>Inscriptions</h3>
@@ -132,11 +131,11 @@
       <ul>
         <li>200 personnes pour les sprints,</li>
         <li>1 000 personnes pour les conférences et ateliers,</li>
-        <li>150 personnes pour <a href="#dinner">le repas du samedi soir</a>.</li>
+        <li>100 personnes pour <a href="#dinner">le repas du samedi soir</a>.</li>
       </ul>
       <ul class="buttons">
         <li>
-          <a href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2025">Inscriptions PyConFR</a>
+          <a href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2026">Inscriptions PyConFR</a>
         </li>
       </ul>
       <p>
@@ -151,15 +150,8 @@
         samedi soir entrainent des frais pour l’AFPy. <strong>Aucun
         remboursement ne sera possible après l’évènement.</strong>
       </p>
-      <p>
-        Les inscriptions à <a href="#children-area">l’espace enfants</a> sont ouvertes jusqu’à 15 jours avant le début de l’évènement, soit le <strong>14 octobre</strong>.
-      </p>
-      <ul class="buttons">
-        <li>
-          <a href="https://www.helloasso.com/associations/afpy/evenements/espace-enfants-a-la-pyconfr-2025">Inscriptions espace enfants</a>
-        </li>
-      </ul>
 
+      {#
       <p>
         Les inscriptions au <a href="{{ url_for('talks', lang=lang, category='lunch', _anchor='talk-MRHUVD') }}">déjeuner PyLadies</a> sont ouvertes jusqu’au <strong>27 octobre</strong>.
       </p>
@@ -169,6 +161,7 @@
           <a href="https://www.helloasso.com/associations/afpy/evenements/dejeuner-pyladies-a-la-pyconfr-2025">Inscriptions déjeuner PyLadies</a>
         </li>
       </ul>
+      #}
 
       <p>
         Vous pouvez également soutenir <a href="https://afpy.org/">l’AFPy</a>,
@@ -180,46 +173,28 @@
       </p>
     </section>
 
-    <section id="children-area">
-      <h3>Espace enfants</h3>
-
-      <p>
-        Un espace enfants est mis en place <strong>durant les quatre jours</strong> de la
-        PyConFR et est animé par <a href="https://www.babychou.com/">Babychou Services</a>.
-      </p>
-      <p>
-        L’espace enfants accueille <strong>un maximum de 18 enfants, de 3 ans à 12 ans</strong>.
-      </p>
-      <p>
-        Les inscriptions seront ouvertes en même temps que les inscriptions pour
-        l’évènement et jusqu’à 15 jours avant le début de la PyConFR.
-        Une priorité est donnée aux personnes animant des sprints, conférences et ateliers.
-      </p>
-    </section>
-
     <section id="dinner">
       <h3>Repas du samedi soir</h3>
       <p>
-        Un repas est organisé le samedi soir, de 19 h 30 à 23 h 00, au <a href="https://www.letigre.eu/le-petit-tigre/presentation">Petit Tigre</a>
-        (5 Rue du Faubourg-National, Strasbourg),
+        Un repas est organisé le samedi soir de 19h30 à minuit, à la brasserie <a href="https://www.spot-izarbel.fr/">LE SPOT'</a> à 500m du campus (<i>Voie Technopole Izarbel, 64210 Bidart</i>),
         uniquement pour les personnes ayant réservé lors de leur inscription.
       </p>
       <p>
         Ce repas comprend un cocktail dînatoire comprenant :
       </p>
       <ul>
-        <li>Planches mixte charcuterie / fromages,</li>
-        <li>Crudités,</li>
-        <li>Salade de quinoa,</li>
-        <li>Wok de légumes et steaks de soja,</li>
-        <li>Tartes flambées salées et sucrées,</li>
-        <li>Deux verres (bière, vin, boisson sans alcool, café, infusion).</li>
+        <li>Planches de charcuterie &amp; fromages,</li>
+        <li>Gaspacho,</li>
+        <li>Cassolettes de padrons (poivrons),</li>
+        <li>Cocottes de frites,</li>
+        <li>Plats chauds (avec ou sans viande),</li>
+        <li>Boissons soft,</li>
+        <li>Desserts.</li>
       </ul>
       <p>
         L’achat d’autres boissons alcoolisées (non comprises dans le prix) est possible
         lors du repas.
       </p>
     </section>
-    #}
   </article>
 {% endblock content %}

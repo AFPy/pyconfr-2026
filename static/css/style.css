@@ -6,27 +6,33 @@
 }
 
 @font-face {
-  font-family: Archivo;
-  src: url(../fonts/Archivo.ttf);
+  font-family: Erode;
+  src: url(../fonts/Erode-Regular.ttf);
+}
+
+@font-face {
+  font-family: RadioCanadaBig;
+  src: url(../fonts/RadioCanadaBig-Regular.ttf);
 }
 
 /* Colors */
 
 :root {
-  --blue: #1f2041;
-  --green: #00e49b;
-  --light-blue: #e3f2fd;
-  --purple: #6369d1;
-  --white: white;
+  --main-color: #000A29;
+  --title-color: #2554FF;
+  --title-front-color: #FFFAF5;
+  --popup-color: white;
+  --link-color: #2554FF;
+  --background-color: #FFFAF5;
 }
 
 
 /* Common tags */
 
 html {
-  background: var(--white);
-  color: var(--blue);
-  font: 14pt Archivo;
+  background: var(--background-color);
+  color: var(--main-color);
+  font: 14pt RadioCanadaBig;
   line-height: 1.4;
 }
 
@@ -46,7 +52,7 @@ main {
 }
 
 h1, h2, h3, h4 {
-  font-family: JetBrains;
+  font-family: Erode;
 }
 
 h1 {
@@ -83,7 +89,7 @@ h4 {
 }
 
 a {
-  color: var(--purple);
+  color: var(--link-color);
 }
 
 article {
@@ -95,9 +101,9 @@ article {
 header,
 footer {
   align-items: center;
-  background: var(--blue);
+  background: var(--main-color);
   box-sizing: border-box;
-  color: var(--white);
+  color: var(--background-color);
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
@@ -113,7 +119,7 @@ footer {
     li.active &,
     &:hover {
       text-decoration: underline;
-      text-decoration-color: var(--green);
+      text-decoration-color: var(--title-color);
       text-underline-offset: 0.3em;
     }
   }
@@ -157,7 +163,7 @@ ol {
   padding: 0 1.5em;
 
   li::marker {
-    color: var(--green);
+    color: var(--title-color);
   }
 }
 
@@ -191,7 +197,7 @@ table {
 
   th,
   td {
-    border: 1px solid var(--light-blue);
+    border: 1px solid var(--popup-color);
     padding: 0.25em;
   }
 }
@@ -210,8 +216,8 @@ ul.buttons {
     display: block;
 
     a {
-      background: var(--green);
-      color: var(--blue);
+      background: var(--title-color);
+      color: var(--title-front-color);
       display: block;
       padding: 0.75em;
       text-decoration: inherit;
@@ -234,7 +240,7 @@ ul.buttons {
 }
 
 aside.subtitle {
-  color: var(--green);
+  color: var(--title-color);
   font-weight: bold;
   font-size: 1.3em;
   text-transform: uppercase;
@@ -255,7 +261,7 @@ aside.subtitle {
   gap: 1em;
 
   section {
-    background: var(--light-blue);
+    background: var(--popup-color);
     flex: 1 0;
     padding: 2em;
 
@@ -309,9 +315,9 @@ aside.subtitle {
     }
 
     aside {
-      background: var(--green);
+      background: var(--title-color);
       border-radius: 100%;
-      color: var(--blue);
+      color: var(--title-front-color);
       height: 3.5em;
       font-size: 0.9em;
       letter-spacing: -0.03em;
@@ -333,12 +339,12 @@ aside.subtitle {
     }
 
     .pycon-date {
-      color: var(--green);
+      color: var(--title-color);
       font-weight: bold;
     }
 
     &::before {
-      background: var(--white);
+      background: var(--background-color);
       bottom: 4rem;
       content: "";
       display: block;
@@ -389,8 +395,8 @@ aside.subtitle {
   }
 
   .afpy {
-    background: var(--blue);
-    color: var(--white);
+    background: var(--main-color);
+    color: var(--background-color);
     display: grid;
     gap: 1em;
     grid-auto-flow: column;
@@ -419,7 +425,7 @@ aside.subtitle {
     text-align: center;
 
     .contact-sponsor {
-      background: var(--light-blue);
+      background: var(--popup-color);
       margin: 2em auto;
       padding: 1em;
       width: 70%;
@@ -449,7 +455,7 @@ aside.subtitle {
     }
 
     dl {
-      background: var(--light-blue);
+      background: var(--popup-color);
       border-radius: 1em;
       display: flex;
       flex-direction: column;
@@ -491,7 +497,7 @@ aside.subtitle {
           text-decoration: inherit;
 
           &::before {
-            color: var(--green);
+            color: var(--title-color);
             content: "“";
             font-size: 4em;
             left: 0;
@@ -512,7 +518,7 @@ aside.subtitle {
           position: relative;
 
           &::before {
-            color: var(--green);
+            color: var(--title-color);
             content: "“";
             font-size: 5em;
             left: 1rem;
@@ -535,7 +541,7 @@ aside.subtitle {
 }
 
 #full-schedule {
-  background: var(--white);
+  background: var(--background-color);
   min-width: 65em;
   padding: 0;
 
@@ -682,13 +688,13 @@ aside.subtitle {
       align-items: center;
       background: center / cover;
       border-radius: 0.1em;
-      color: var(--white);
+      color: var(--background-color);
       display: flex;
       font-size: 2em;
       font-weight: 600;
       justify-content: center;
       position: absolute;
-      text-shadow: 0 0 0.15em var(--blue);
+      text-shadow: 0 0 0.15em var(--main-color);
     }
   }
 
@@ -896,7 +902,7 @@ aside.subtitle {
         top: 0;
 
         th:not(:empty) {
-          background: var(--blue);
+          background: var(--main-color);
         }
 
         &.rooms tr > :first-child::before {
@@ -922,7 +928,7 @@ aside.subtitle {
         padding: 0 0.5em 2.2em 0.5em;
 
         &:not(:empty) {
-          outline: 0.1mm solid var(--light-blue);
+          outline: 0.1mm solid var(--popup-color);
         }
       }
 
