@@ -42,6 +42,10 @@
          L'objectif est simple : garder votre branche principale verte, votre 
          CI rapide et économique, et vos développeurs concentrés sur le 
          code plutôt que sur le processus de merge.</p>
+      {% elif company == 'Descartes' %}
+        <p>Descartes est un acteur de l'assurance pour les entreprises et les institutions né de la conviction que la complexité croissante des risques climatiques exige une nouvelle approche. Descartes utilise la technologie associée à des sources de données météorologiques, pour modéliser, évaluer et gérer les risques.<br/>
+        Combinant expertise scientifique et technologique, Descartes est reconnu dans le secteur de l'assurance paramétrique. Lorsqu'un événement dépasse le seuil d’une police, l'assurance paramétrique indemnise les clients en quelques jours sur la base de sources de données et de structures de paiement prédéfinies. Le processus est rapide et transparent. Descartes a reçu plusieurs prix et fait partie de la cohorte 2026 Next40 de la FrenchTech.<br/>
+        Descartes compte plus de 250 employés. C’est la plus grande équipe de modélisation du secteur, avec des scientifiques en physique et en climatologie, des développeurs, ainsi que des vétérans de l'assurance et des souscripteurs.</p>
       {% endif %}
     {% elif lang == 'en' %}
       {% if company == 'estia' %}
@@ -66,6 +70,12 @@
         largest engineering organizations in the world. The goal is simple: 
         keep your main branch green, your CI fast and cheap, and your developers
         focused on writing code instead of fighting the merge process.</p>
+      {% elif company == 'Descartes' %}
+        <p>Descartes is an insurance group for companies and institutions. It was born from a conviction that the growing complexity of climate risks demands a new approach. At the forefront of data analysis, Descartes uses technology combined with weather data sources, to model, assess and manage risks.<br/>
+
+        Descartes has secured a leading position in parametric insurance combining scientific & technological expertise. When a specific triggering event occurs, parametric insurance indemnifies clients within days based on pre-defined data sources and payout structures. The process is fast and transparent. Descartes has received several awards and is a member of the 2026 edition of the Next40 by the French Tech.<br/>
+
+        Descartes’ diverse and specialized team of 250+ people includes the largest modelling team in the industry featuring tech and modeling innovators, scientists in physics and climatology, as well as insurance veterans and underwriters.</p> 
       {% endif %}
     {% endif %}
   </div>
@@ -86,6 +96,7 @@
 
       'Bronze': {
           'Yaal Coop': 'https://yaal.coop/',
+          'Descartes': 'https://descartesunderwriting.com/',
       },
 
       'Cœur' if lang == 'fr' else 'Heart': {
@@ -97,7 +108,7 @@
       },
   } %}
 
-  {% set png_logos = ('estia') %}
+  {% set png_logos = ('estia', 'Descartes') %}
 
   {% if lang == 'fr' %}
     <p>
