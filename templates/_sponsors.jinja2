@@ -77,6 +77,23 @@
           solution est développée en Python, sur le cadriciel Django ; outils
           quasi exclusifs dès qu'il faut développer quelque chose à Entr'ouvert.
         </p>
+
+      {% elif company == 'Navicat' %}
+        <p>
+          Navicat est la solution tout-en-un qui simplifie et accélère la gestion de vos bases de données.
+          Grâce à une interface intuitive et des fonctionnalités puissantes, vous administrez facilement MySQL,
+          PostgreSQL, Oracle, SQL Server, MariaDB, SQLite, MongoDB, Redis, SQLite ou Snowflake depuis un seul outil.
+          Sauvegardes, synchronisation, automatisation et visualisation deviennent rapides et fiables.
+        </p>
+        <p>
+          Conçu pour les développeurs, DBA et analystes, Navicat optimise la productivité tout en garantissant
+          sécurité et stabilité. Avec Navicat Cloud et On-Premise, vos équipes collaborent en toute fluidité, où qu’elles soient.
+        </p>
+        <p>
+          Édité par PremiumSoft CyberTech Ltd, société pionnière basée à Singapour depuis plus de 20 ans,
+          Navicat est adopté par des milliers d’entreprises dans le monde.
+          Notre mission : transformer la complexité des bases de données en une expérience simple, performante et collaborative.
+        </p>
       {% endif %}
     {% elif lang == 'en' %}
       {% if company == 'estia' %}
@@ -136,6 +153,22 @@
           tools when something needs to be written, be it a big software or a
           little script.
         </p>
+
+      {% elif company == 'Navicat' %}
+        <p>
+          Navicat is the all-in-one solution that simplifies and accelerates your database management.
+          With an intuitive interface and powerful features, you can easily manage MySQL, PostgreSQL,
+          Oracle, SQL Server, MariaDB, SQLite, MongoDB, Redis, SQLite, or Snowflake — all from a single tool.
+          Backups, synchronization, automation, and visualization become fast and reliable.
+        </p>
+        <p>
+          Designed for developers, DBAs, and analysts, Navicat boosts productivity while ensuring security and stability.
+          With Navicat Cloud and On-Premise, your teams can collaborate seamlessly, no matter where they are.
+        </p>
+        <p>
+          Developed by PremiumSoft CyberTech Ltd, a pioneering company based in Singapore for over 20 years, Navicat is trusted by thousands of businesses worldwide.
+          Our mission: to turn database complexity into a simple, efficient, and collaborative experience.
+        </p>
       {% endif %}
     {% endif %}
   </div>
@@ -159,6 +192,7 @@
 
       'Bronze': {
           'Yaal Coop': 'https://yaal.coop/',
+          'Navicat': 'https://www.navicat.fr/',
       },
 
       'Cœur' if lang == 'fr' else 'Heart': {
@@ -170,7 +204,7 @@
       },
   } %}
 
-  {% set png_logos = ('estia') %}
+  {% set png_logos = ('estia', 'Navicat') %}
 
   {% if lang == 'fr' %}
     <p>
