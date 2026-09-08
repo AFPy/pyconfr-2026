@@ -3987,9 +3987,26 @@
             "740": {},
             "750": {
                 "28": {
-                    "code": "",
-                    "title": "<i>To be confirmed</i>",
-                    "speakers": [],
+                    "code": "GPDP8U",
+                    "title": "One Prompt, Fifty Coroutines: What AI Agents Teach Us About Async Python",
+                    "speakers": [
+                        {
+                            "code": "DS3RQY",
+                            "name": "Aditi Gupta",
+                            "biography": "Aditi Gupta is a Software Engineer at Disney+ Hotstar, working on high-scale distributed systems serving millions of users. Her work focuses on performance, reliability, and observability under high-concurrency conditions.\r\nShe has experience in cloud-native technologies, including containerisation, microservices architecture, and Kubernetes-based orchestration. Her interests span across distributed systems, cloud-native platforms, and AI/ML-driven workflows with current focus on applying distributed systems and observability principles to AI-driven workflows - making agentic systems more traceable, debuggable, and production-ready.\r\nA specialist in Kubernetes orchestration and cloud-native reliability, she bridges AI-driven workflows and production observability - making agentic systems traceable, debuggable, and enterprise-ready. A recurring speaker at KubeCon NA and Open Source Summit, she presents on system behavior, complex workflow tracing, and debugging massive-scale cloud failures.",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/DS3RQY_zZ02UdN.jpeg",
+                            "answers": []
+                        },
+                        {
+                            "code": "W3SCUY",
+                            "name": "Shuva Jyoti Kar",
+                            "biography": "Shuva is a Principal Engineer at Palo Alto Networks, architecting secure enterprise AI platforms. An author of two upcoming books: Engineering the Data Agent Control Plane (O'Reilly) and Agent Skills in Action (Manning), he has also been an open-source contributor/maintainer; his work bridges experimental AI and 'Day 2' production reality. He is a ClickHouse Community Champion, Confluent Catalyst, and speaker at multiple Kubecon and Open Source Summits on scalable, zero-trust data architectures.",
+                            "submissions": [],
+                            "avatar_url": "",
+                            "answers": []
+                        }
+                    ],
                     "submission_type": {
                         "id": 22,
                         "name": {
@@ -4001,8 +4018,8 @@
                         "requires_access_code": false
                     },
                     "tags": [],
-                    "state": "accepted",
-                    "description": "",
+                    "state": "confirmed",
+                    "description": "Large language models spend surprisingly little time executing Python code. Most of an AI agent's lifetime is spent waiting for model responses, tool calls, vector databases, APIs, and sometimes even humans. Modern AI applications are fundamentally I/O-bound systems, making Python's asynchronous runtime one of the most important tools for building responsive, scalable software.\r\nIn this session, we'll build a functional AI agent and use it to explore the async programming patterns that power modern Python applications. As the agent evolves from making a single model call to coordinating multiple tools and concurrent workflows, we'll introduce practical techniques including asyncio. TaskGroup, structured concurrency, semaphores, cancellation, timeouts, streaming responses, and execution context with contextvars. Each concept will be demonstrated in the context of solving a real engineering problem rather than as an isolated language feature.\r\nAlthough AI agents provide the motivating example, this is fundamentally a talk about Python. The concurrency patterns we'll explore apply equally to FastAPI services, asynchronous APIs, background workers, data pipelines, and distributed applications. Along the way, we'll discuss common pitfalls, performance trade-offs, and practical techniques for writing concurrent code that is both responsive and maintainable.\r\nYou'll leave with a practical mental model of Python's asynchronous runtime and a toolkit of reusable patterns you can immediately apply to any modern I/O-bound Python application, whether it uses AI or not.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "en",
@@ -4031,7 +4048,27 @@
                             "duration": 25
                         }
                     ],
-                    "answers": [],
+                    "answers": [
+                        {
+                            "id": 513,
+                            "question": 4,
+                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
+                            "answer_file": null,
+                            "submission": "GPDP8U",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 15,
+                                    "answer": {
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
                     "pending_state": null,
                     "is_featured": false,
                     "access_code": null,
@@ -7443,6 +7480,22 @@
             "code": "DR3RTG",
             "name": "Denis Vivi\u00e8s",
             "biography": null,
+            "submissions": [],
+            "avatar_url": "",
+            "answers": []
+        },
+        "DS3RQY": {
+            "code": "DS3RQY",
+            "name": "Aditi Gupta",
+            "biography": "Aditi Gupta is a Software Engineer at Disney+ Hotstar, working on high-scale distributed systems serving millions of users. Her work focuses on performance, reliability, and observability under high-concurrency conditions.\r\nShe has experience in cloud-native technologies, including containerisation, microservices architecture, and Kubernetes-based orchestration. Her interests span across distributed systems, cloud-native platforms, and AI/ML-driven workflows with current focus on applying distributed systems and observability principles to AI-driven workflows - making agentic systems more traceable, debuggable, and production-ready.\r\nA specialist in Kubernetes orchestration and cloud-native reliability, she bridges AI-driven workflows and production observability - making agentic systems traceable, debuggable, and enterprise-ready. A recurring speaker at KubeCon NA and Open Source Summit, she presents on system behavior, complex workflow tracing, and debugging massive-scale cloud failures.",
+            "submissions": [],
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/DS3RQY_zZ02UdN.jpeg",
+            "answers": []
+        },
+        "W3SCUY": {
+            "code": "W3SCUY",
+            "name": "Shuva Jyoti Kar",
+            "biography": "Shuva is a Principal Engineer at Palo Alto Networks, architecting secure enterprise AI platforms. An author of two upcoming books: Engineering the Data Agent Control Plane (O'Reilly) and Agent Skills in Action (Manning), he has also been an open-source contributor/maintainer; his work bridges experimental AI and 'Day 2' production reality. He is a ClickHouse Community Champion, Confluent Catalyst, and speaker at multiple Kubecon and Open Source Summits on scalable, zero-trust data architectures.",
             "submissions": [],
             "avatar_url": "",
             "answers": []
