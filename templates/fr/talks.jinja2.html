@@ -1,0 +1,68 @@
+{% extends '_layout.jinja2' %}
+
+{% block header %}
+  {{ super() }}
+  <nav>
+    <ul id="categories">
+      {% for category_item_slug, category_item in categories.items() %}
+        <li class="{{ 'active' if category == category_item_slug }}">
+          <a href="{{ url_for('talks', lang=lang, category=category_item_slug) }}">{{ category_item.name[lang] }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+{% endblock header %}
+
+{% block content %}
+  <article>
+    <h2>{{ categories[category].name[lang] }}</h2>
+    {% if category == 'sprint' %}
+      <p>
+        La liste et les horaires des sprints sont définis. Pour les derniers détails d'organisation, consultez les personnes à l'accueil ou l'affichage proche.
+      </p>
+    {% endif %}
+
+    {% if category == 'sprint' %}
+      {% set talks = [schedule.sprints.items() | first] %}
+    {% else %}
+      {% set talks = schedule.schedule.items() %}
+    {% endif %}
+    {% for day, hours in talks %}
+      {% for minutes, slots in hours.items() %}
+        {% for talk in slots.values() %}
+          {% if talk.submission_type.name.en | slug == category %}
+            <section>
+              <h3 id="talk-{{ talk.code }}">
+                {{ talk.title | markdown | safe }}
+              </h3>
+              <p>
+                {% for speaker in talk.speakers %}
+                  {% if speaker.avatar_url %}
+                    <img class="avatar" src="{{ speaker.avatar_url }}" loading="lazy">
+                  {% endif %}
+                    <a href="{{ url_for('page', name='speakers', lang=lang, _anchor="speaker-" + speaker.code) }}">{{ speaker.name }}{{ "," if not loop.last }}</a>
+                {% endfor %}
+              </p>
+              <p>
+                <em>
+                  {% if category == 'sprint' %}
+                      {% set slot = talk.slots[0] %}
+                      Salle {{ slot.room.name[lang] }} −
+                      Jeudi et vendredi de 10 h 00 à 17 h 00
+                  {% else %}
+                  {% for slot in talk.slots %}
+                      Salle {{ slot.room.name[lang] }} −
+                      {{ day | format_day(lang) }} à {{ minutes | format_minutes(lang) }} −
+                      {{ talk.duration | format_duration }}
+                    {% endfor %}
+                  {% endif %}
+                </em>
+              </p>
+              {{ talk.description | markdown | safe }}
+            </section>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
+  </article>
+{% endblock content %}

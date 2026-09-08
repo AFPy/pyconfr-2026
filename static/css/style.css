@@ -699,27 +699,32 @@ aside.subtitle {
   }
 
   #saturday-breakfast div {
-    /* background-image: url(../images/breakfast.webp); */
+    background-image: url(../images/breakfast.webp);
     height: calc(8rem / 3 * 2 + 0.5rem);
     width: calc(400% + 0.9 * 3 * 0.5rem);
   }
 
   #sunday-breakfast div {
-    /* background-image: url(../images/breakfast.webp); */
+    background-image: url(../images/breakfast.webp);
     height: calc(8rem / 3 * 3 + 2 * 0.5rem);
     width: calc(400% + 0.9 * 3 * 0.5rem);
   }
 
-  #saturday-lunch div,
+  #saturday-lunch div {
+    background-image: url(../images/lunch.webp);
+    height: calc(8rem / 3 * 10 + 9 * 0.5rem);
+    width: calc(400% + 0.9 * 3 * 0.5rem);
+  }
+
   #sunday-lunch div {
-    /* background-image: url(../images/lunch.webp); */
+    background-image: url(../images/lunch.webp);
     height: calc(8rem / 3 * 6 + 5 * 0.5rem);
     width: calc(400% + 0.9 * 3 * 0.5rem);
   }
 
   #saturday-snack div {
-    /* background-image: url(../images/snack.webp); */
-    height: 8rem;
+    background-image: url(../images/snack.webp);
+    height: calc(8rem + 2 * 0.5rem);
     width: calc(400% + 0.9 * 3 * 0.5rem);
   }
 }

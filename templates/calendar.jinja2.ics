@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+NAME:PyConFR 2025
+PRODID:-//PyConFR//NONSGML PyConFR//{{ lang | upper }}
+{%- for day, hours in schedule.schedule.items() -%}
+  {%- for minutes, talks in hours.items() -%}
+    {%- for talk in talks.values() %}
+      {%- for slot in talk.slots %}
+BEGIN:VEVENT
+UID:{{ talk.code }}
+DTSTART:{{ slot.start | ical_datetime }}
+DTEND:{{ slot.end | ical_datetime }}
+SUMMARY:{{ talk.title | ical_text }} ({{ talk.speakers | map(attribute="name") | join(", ") }})
+DESCRIPTION:{{ talk.description | ical_text }}
+LOCATION:{{ slot.room.name[lang] }}
+END:VEVENT
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor %}
+END:VCALENDAR
