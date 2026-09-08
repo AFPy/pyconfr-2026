@@ -712,7 +712,7 @@ aside.subtitle {
 
   #saturday-lunch div {
     background-image: url(../images/lunch.webp);
-    height: calc(8rem / 3 * 10 + 9 * 0.5rem);
+    height: calc(8rem / 3 * 9 + 8 * 0.5rem);
     width: calc(400% + 0.9 * 3 * 0.5rem);
   }
 
@@ -895,6 +895,14 @@ aside.subtitle {
 
     header {
       display: none;
+    }
+
+    aside.type {
+      bottom: 0.15em;
+      line-clamp: 2;
+    }
+    aside.speaker {
+      margin-top: 0;
     }
 
     table {
