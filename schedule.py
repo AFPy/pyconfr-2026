@@ -18,19 +18,19 @@ else:
     exit()
 
 SPRINT_DAYS = (
-    date(year=2025, month=10, day=30),
-    date(year=2025, month=10, day=31),
+    date(year=2026, month=10, day=29),
+    date(year=2026, month=10, day=30),
 )
 CONFERENCE_DAYS = (
-    date(year=2025, month=11, day=1),
-    date(year=2025, month=11, day=2),
+    date(year=2026, month=10, day=31),
+    date(year=2026, month=11, day=1),
 )
 DAY_START_TIME = time(hour=8, minute=30)
 DAY_STOP_TIME = time(hour=18, minute=0)
 SLOT_MINUTES = 10
 
 EXTRA = {
-    "2025-11-01": {
+    "2026-10-31": {
         "510": {
             "id": "saturday-breakfast",
             "title": {
@@ -53,7 +53,7 @@ EXTRA = {
             }
         },
     },
-    "2025-11-02": {
+    "2026-11-01": {
         "510": {
             "id": "sunday-breakfast",
             "title": {

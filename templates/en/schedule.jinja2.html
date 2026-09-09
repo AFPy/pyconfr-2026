@@ -54,12 +54,12 @@
             <a href="https://cfp.pycon.fr/pyconfr-2026/cfp">Submit a proposal</a>
           </li>
         </ul>
+        #}
         <ul class="buttons">
           <li>
             <a href="#calendar">See Schedule</a>
           </li>
         </ul>
-        #}
       </section>
     </section>
 
@@ -88,8 +88,7 @@
       </dl>
     </section>
 
-    {#
-    <section class="calendar">
+    <section id="calendar">
       <h3>Calendar</h3>
       <p>
         The calendar is available below,
@@ -112,7 +111,6 @@
 
       <iframe src="{{ url_for('schedule', lang=lang) }}" loading="lazy"></iframe>
     </section>
-    #}
 
     <section id="register">
       <h3>Registration</h3>

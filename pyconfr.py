@@ -12,6 +12,7 @@ from slugify import slugify
 YEAR = 2026
 
 app = Flask(__name__, static_url_path=f'/{YEAR}/static')
+SCHEDULE = json.loads((Path(app.root_path) / 'schedule.json').read_text())
 _GIT_MAIN = Path(app.root_path) / '.git' / 'refs' / 'heads' / 'main'
 GIT_VERSION = _GIT_MAIN.read_text().strip()[:7]
 
@@ -19,6 +20,15 @@ GIT_VERSION = _GIT_MAIN.read_text().strip()[:7]
 @app.template_filter()
 def slug(string):
     return slugify(string, max_length=30)
+
+
+TALK_CATEGORIES = {
+    slug(talk['submission_type']['name']['en']): talk['submission_type']
+    for dates in
+    tuple(SCHEDULE['schedule'].values()) + tuple(SCHEDULE['sprints'].values())
+    for hours in dates.values()
+    for talk in hours.values()
+}
 
 
 @app.template_filter()
@@ -65,7 +75,33 @@ def version(url):
 @app.route(f'/{YEAR}/<lang>/<name>.html')
 def page(name='index', lang='fr'):
     return render_template(
-        f'{lang}/{name}.jinja2.html', page_name=name, lang=lang)
+        f'{lang}/{name}.jinja2.html', page_name=name, lang=lang, schedule=SCHEDULE)
+
+
+@app.route(f'/{YEAR}/<lang>/talks/<category>.html')
+def talks(lang, category):
+    return render_template(
+        f'{lang}/talks.jinja2.html', lang=lang, page_name='talks',
+        category=category, title=TALK_CATEGORIES[category]['name'][lang],
+        schedule=SCHEDULE, categories=TALK_CATEGORIES)
+
+
+@app.route(f'/{YEAR}/<lang>/full-schedule.html')
+def schedule(lang):
+    return render_template(
+        'schedule.jinja2.html', page_name='full-schedule', lang=lang,
+        schedule=SCHEDULE)
+
+
+@app.route(f'/{YEAR}/<lang>/full-schedule.pdf')
+def pdf_schedule(lang):
+    return render_pdf(url_for('schedule', lang=lang))
+
+
+@app.route(f'/{YEAR}/<lang>/calendar.ics')
+def calendar(lang):
+    ics = render_template('calendar.jinja2.ics', lang=lang, schedule=SCHEDULE)
+    return Response(ics, mimetype='text/calendar')
 
 
 @app.cli.command('freeze')
