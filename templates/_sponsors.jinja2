@@ -101,6 +101,12 @@
         Nous priorisons l’expérience et la satisfaction de nos clients avec des outils simples et agréables à utiliser.
         Présents dans une dizaine de pays européens, nous travaillons avec plus de 7500 grandes marques comme Sncf,
         Maisons du Monde, Nature & Découvertes, Etam, Printemps, Afflelou, Emma, Perfectstay…</p>
+
+      {% elif company == "Julien Lenormand" %}
+      <p>
+       (version courte) Je vous souhaite une bonne PyConFR 2026 !<br/>
+(version longue) En tant que sponsor Bronze, on a le droit à 1000 caractères pour transmettre un message. Je n'ai rien à vous vendre, juste de bonnes ondes à vous envoyer. Je suis content de contribuer à ce que cette conférence se tienne et à ce qu'elle soit accessible à tous et toutes. Pour les personnes qui n'auront pas eu la chance d'y assister, il y aura normalement les replays sur IndyMotion.fr ensuite. J'espère que les deux jours de sprints pour des projets Open Source, ainsi que toutes les conférences, les rencontres et les échanges auront un impact positif sur vous, directement ou indirectement. Python est bien connu pour sa communauté, n'hésitez pas à en faire partie, il n'y a que du bon à en tirer. Ainsi, je vous souhaite de passer une superbe PyConFR 2026, que vous la viviez en direct à Biarritz, ou bien plus tard en vidéo, en blog, en podcast, ... Passez une bonne journée :)
+       </p>
       {% endif %}
     {% elif lang == 'en' %}
       {% if company == 'estia' %}
@@ -179,6 +185,12 @@
 
       {% elif company == 'Alma' %}
         <p>Alma is a fintech founded in 2018. We offer flexible payment solutions for physical and online stores, with deferred payment and 2, 3, or 4 installments. We also help consumers stay in control of their budget with the Alma app and card. We prioritize the experience and satisfaction of our customers with simple and pleasant to use tools. We operate in ten European countries and work with more than 7500 major brands such as Maisons du Monde, Nature et Découvertes, Etam, Le Slip Français, Jacquemus, Maje…</p>
+
+      {% elif company == "Julien Lenormand" %}
+      <p>
+      (short version) I wish you a great PyConFR 2026!<br/>
+(long version) As a Bronze sponsor, we have the right to send a message of up to 1000 characters. I'm not selling anything; just sending good vibes your way. I'm happy to contribute to making this conference happen and accessible to everyone. For those who won't be able to attend, there will normally be replays on IndyMotion.fr later. I hope the two days of Open Source project sprints, as well as all the conferences, meetings, and exchanges will have a positive impact on you, directly or indirectly. Python is well-known for its community; don't hesitate to join in – it's only good things can come from it. So, I wish you a great PyConFR 2026, whether you're attending live in Biarritz or later through video, blog, podcast, etc. Have a great day! :)
+      </p>
       {% endif %}
     {% endif %}
   </div>
@@ -204,6 +216,7 @@
       'Bronze': {
           'Yaal Coop': 'https://yaal.coop/',
           'Navicat': 'https://www.navicat.fr/',
+          'Julien Lenormand': 'https://www.lenormand-julien.fr/',
       },
 
       'Cœur' if lang == 'fr' else 'Heart': {
@@ -218,7 +231,7 @@
       },
   } %}
 
-  {% set png_logos = ('estia', 'Navicat', 'LeBureau', 'Octopuce') %}
+  {% set png_logos = ('estia', 'Navicat', 'LeBureau', 'Octopuce', 'Julien Lenormand') %}
 
   {% if lang == 'fr' %}
     <p>
