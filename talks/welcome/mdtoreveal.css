@@ -1,0 +1,11 @@
+.reveal-viewport {
+    background: #fffaf5;
+}
+
+.reveal h2, .reveal h2 * {
+    color: #2454ff;
+}
+
+.reveal * {
+    color: #000a29;
+}
