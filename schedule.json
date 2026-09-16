@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3565,
+                            "id": 3717,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3567,
+                            "id": 3719,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3575,
+                            "id": 3724,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3672,
+                            "id": 3727,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3569,
+                            "id": 3721,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3692,
+                            "id": 3723,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3574,
+                            "id": 3722,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -613,7 +613,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3700,
+                            "id": 3725,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -675,7 +675,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3570,
+                            "id": 3726,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -761,7 +761,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3581,
+                            "id": 3732,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -843,7 +843,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3583,
+                            "id": 3733,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -925,7 +925,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3582,
+                            "id": 3734,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1007,7 +1007,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3572,
+                            "id": 3735,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1062,9 +1062,18 @@
             "680": {},
             "690": {
                 "28": {
-                    "code": "",
-                    "title": "<i>To be confirmed</i>",
-                    "speakers": [],
+                    "code": "CC38KR",
+                    "title": "Python and Excel: an overview and introduction to xlwings Lite",
+                    "speakers": [
+                        {
+                            "code": "YWN3NE",
+                            "name": "Ruud van der Ham",
+                            "biography": "I started programming in the 70s. I have done a lot of coding in Basic. Algol, Fortran, PL/1, assembler, Pascal, C and -of course- Python.\r\nMy speciality is simulation of logistic installations, like ports, airports, warehouses, factories, etc. \r\nI am the author of several open source software projects, including salabim (discrete event simulation), peek (debugging and benchmarking), istr (treats strings as if they were numbers). See www.salabim.org/foss for details.",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/YWN3NE_7s1xkW8.jpg",
+                            "answers": []
+                        }
+                    ],
                     "submission_type": {
                         "id": 22,
                         "name": {
@@ -1076,15 +1085,15 @@
                         "requires_access_code": false
                     },
                     "tags": [],
-                    "state": "accepted",
-                    "description": "",
+                    "state": "confirmed",
+                    "description": "Excel is still an important tool for data scientists as well as end users.\r\nUnfortunately, automation and modern techniques, like web scraping and API calls are rather awkward with tools lke VBA,Power Query and Office Scripts.\r\nPython is an attractive alternative. And there are several options, which might fit a paricular use case.\r\nIn this talk I will take a look at Python packages like openpyxl, pandas, etc that can read and write Excel workbooks, but don't really integrate with Excel.\r\nA different approach is to integrate Python in the Excel program: I will highlight Microsoft Python in Excel, Anaconda Code.\r\nSome other solutions integrate Python in Excell, but require installation of Python: xlwings and xpycode. \r\nFinally there's xlwings Lite, created by Felix Zumstein, which does not require any installation.\r\nIn this talk I will do live coding with this amazing tool and show some of its key features.\r\nFor information on xlwings Lite, see www.lite.xlwings.org.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "en",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3699,
+                            "id": 3842,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1106,7 +1115,27 @@
                             "duration": 25
                         }
                     ],
-                    "answers": [],
+                    "answers": [
+                        {
+                            "id": 483,
+                            "question": 4,
+                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
+                            "answer_file": null,
+                            "submission": "CC38KR",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 15,
+                                    "answer": {
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
                     "pending_state": null,
                     "is_featured": false,
                     "access_code": null,
@@ -1150,7 +1179,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3591,
+                            "id": 3742,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1232,7 +1261,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3590,
+                            "id": 3745,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1314,7 +1343,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3589,
+                            "id": 3743,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1396,7 +1425,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3588,
+                            "id": 3744,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1491,7 +1520,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3602,
+                            "id": 3757,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1573,7 +1602,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3599,
+                            "id": 3758,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1655,7 +1684,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3600,
+                            "id": 3754,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1737,7 +1766,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3604,
+                            "id": 3755,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1819,7 +1848,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3603,
+                            "id": 3753,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1901,7 +1930,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3601,
+                            "id": 3756,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1987,7 +2016,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3609,
+                            "id": 3764,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2069,7 +2098,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3612,
+                            "id": 3766,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2151,7 +2180,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3610,
+                            "id": 3765,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2233,7 +2262,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3611,
+                            "id": 3763,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2322,7 +2351,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3620,
+                            "id": 3774,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2404,7 +2433,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3619,
+                            "id": 3772,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2486,7 +2515,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3617,
+                            "id": 3771,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2568,7 +2597,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3681,
+                            "id": 3773,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2657,7 +2686,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3625,
+                            "id": 3779,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2739,7 +2768,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3626,
+                            "id": 3782,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2821,7 +2850,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3627,
+                            "id": 3780,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2903,7 +2932,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3688,
+                            "id": 3781,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2989,7 +3018,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3632,
+                            "id": 3784,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3065,14 +3094,14 @@
                         }
                     ],
                     "submission_type": {
-                        "id": 26,
+                        "id": 25,
                         "name": {
-                            "en": "Long talk",
-                            "fr": "Conf\u00e9rence longue"
+                            "en": "General Assembly",
+                            "fr": "Assembl\u00e9e g\u00e9n\u00e9rale"
                         },
                         "default_duration": 55,
                         "deadline": null,
-                        "requires_access_code": false
+                        "requires_access_code": true
                     },
                     "tags": [],
                     "state": "confirmed",
@@ -3083,7 +3112,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3633,
+                            "id": 3785,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3109,7 +3138,7 @@
                         {
                             "id": 562,
                             "question": 4,
-                            "answer": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
+                            "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
                             "answer_file": null,
                             "submission": "VEGADS",
                             "review": null,
@@ -3172,7 +3201,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3634,
+                            "id": 3786,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3230,15 +3259,15 @@
             "650": {},
             "660": {
                 "25": {
-                    "code": "K9RV3S",
-                    "title": "Made by community",
+                    "code": "MDGWNH",
+                    "title": "Ex\u00e9cution Durable: \u00e0 quoi \u00e7a sert et comment \u00e7a marche?",
                     "speakers": [
                         {
-                            "code": "UVTMPS",
-                            "name": "Steve Yonkeu",
-                            "biography": "Steve Yonkeu is a senior backend and platform engineer based in Cameroon. He is a PSF Fellow, a Microsoft MVP, and a member of the Django Software Foundation. He founded Python Cameroon and Django Cameroon, co-organizes PyCon Africa, and has spoken at PyCon US. He works daily with Python, PostgreSQL, and Kubernetes.",
+                            "code": "PSTZTH",
+                            "name": "Laurent Direr",
+                            "biography": null,
                             "submissions": [],
-                            "avatar_url": "",
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/PSTZTH_6xwIoPV.png",
                             "answers": []
                         }
                     ],
@@ -3254,14 +3283,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Mes premiers ateliers Django, je les ai donn\u00e9s \u00e0 Bamenda, dans une r\u00e9gion travers\u00e9e par une crise sociopolitique. Des salles emprunt\u00e9es, un vid\u00e9oprojecteur qui marchait une fois sur deux, des sessions annul\u00e9es pour des raisons qui n'avaient rien \u00e0 voir avec la tech. Personne ne me l'avait demand\u00e9. Je partageais ce que je venais d'apprendre la semaine d'avant.\r\n\r\nAujourd'hui je suis PSF Fellow, Microsoft MVP, membre de la Django Software Foundation, j'ai fond\u00e9 Python Cameroun et Django Cameroun, et j'ai parl\u00e9 \u00e0 la PyCon US. Entre les deux, aucun plan de carri\u00e8re. Des meetups, des talks rat\u00e9s, des ateliers o\u00f9 trois personnes se pr\u00e9sentent, et une communaut\u00e9 qui a continu\u00e9 \u00e0 me faire confiance.\r\n\r\nDans ce talk, je raconte ce chemin sans filtre. Ce que parler en public et animer des ateliers construit vraiment, en comp\u00e9tences comme en r\u00e9seau, ce que \u00e7a co\u00fbte, et pourquoi il reste ouvert \u00e0 n'importe qui dans cette salle.\r\n\r\nJe suis un produit de la communaut\u00e9.",
+                    "description": "Envoyer un email, \u00e7a ne peut pas \u00eatre bien compliqu\u00e9.  \r\nPourtant, dans une application web, garantir qu'un email est bien envoy\u00e9 n'est pas si \u00e9vident.\r\n\r\nC'est ce probl\u00e8me concret que nous \u00e9tudierons en Python, avec en fil rouge un exemple classique de fonctionnalit\u00e9 web.\r\nOn observera les limites d'une impl\u00e9mentation na\u00efve - certains emails ne sont jamais envoy\u00e9s! - avant d'introduire une solution robuste o\u00f9 les envois sont stock\u00e9s en base de donn\u00e9es puis trait\u00e9s de mani\u00e8re asynchrone ('Outbox pattern'). \r\nEnfin, on reconstruira cette solution avec un framework d\u2019ex\u00e9cution durable. Le r\u00e9sultat est tr\u00e8s diff\u00e9rent! \r\nComment ce code fonctionne-t-il? Quelles garanties apporte-t-il? \r\nEt quelle place peut prendre l'ex\u00e9cution durable dans nos applications web classiques?",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3641,
+                            "id": 3807,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3285,93 +3314,11 @@
                     ],
                     "answers": [
                         {
-                            "id": 501,
+                            "id": 556,
                             "question": 4,
-                            "answer": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
+                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
                             "answer_file": null,
-                            "submission": "K9RV3S",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 14,
-                                    "answer": {
-                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
-                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "26": {
-                    "code": "LWZU39",
-                    "title": "Comment modifier sa base de donn\u00e9es sans interruption de service",
-                    "speakers": [
-                        {
-                            "code": "CQ3D8R",
-                            "name": "Xavier Ordoquy",
-                            "biography": null,
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Les modifications des sch\u00e9mas des bases relationnelles peuvent \u00eatre compliqu\u00e9es si l'on veut garder un service avec du traffic et sans interruption.\r\nLa pr\u00e9sentation a pour but d'expliquer ce qui peut causer des interruptions de service et ce que l'on peut mettre en place pour les \u00e9viter.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 3643,
-                            "room": {
-                                "id": 26,
-                                "name": {
-                                    "en": "BASENDERIE",
-                                    "fr": "BASENDERIE"
-                                },
-                                "description": {
-                                    "en": "Conference room",
-                                    "fr": "Salle de conf\u00e9rence"
-                                },
-                                "uuid": "eb0808da-c7a5-50f0-aa7f-d43f9d07da58",
-                                "guid": null,
-                                "capacity": 50,
-                                "position": 2
-                            },
-                            "start": "2026-11-01T11:00:00+01:00",
-                            "end": "2026-11-01T11:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 529,
-                            "question": 4,
-                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
-                            "answer_file": null,
-                            "submission": "LWZU39",
+                            "submission": "MDGWNH",
                             "review": null,
                             "person": null,
                             "options": [
@@ -3425,7 +3372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3639,
+                            "id": 3788,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3507,7 +3454,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3642,
+                            "id": 3790,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3557,6 +3504,88 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
+                "26": {
+                    "code": "YSQLWF",
+                    "title": "Django Template Transpiler\u00a0: Django templates dans le navigateur",
+                    "speakers": [
+                        {
+                            "code": "VEFJUA",
+                            "name": "Christophe Henry",
+                            "biography": "Je suis un d\u00e9veloppeur luttant au quotidien avec TDAH. Toujours avide d'apprendre de nouvelles choses, j'aime cr\u00e9er des outils ergonomiquespour faciliter la vie desgens. Je travaille actuellement en tant que prestataire ind\u00e9pendant Python/Django pour le gouvernement fran\u00e7ais. Par le pass\u00e9, j'ai \u00e9galement occup\u00e9 d'autres postes, notamment en tant que d\u00e9veloppeur Java, web et full-stack, devops, et m\u00eame administrateur syst\u00e8me pendant un temps. Je contribue \u00e0 de nombreux projets, car je n'arrive pas \u00e0 me concentrer sur un seul. \r\n\r\n- https://blog.christophe-henry.dev/\r\n- https://github.com/christophehenry",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/VEFJUA_riMYnLq.jpg",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 22,
+                        "name": {
+                            "en": "Short talk",
+                            "fr": "Conf\u00e9rence courte"
+                        },
+                        "default_duration": 25,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Ces derni\u00e8res ann\u00e9es, la communaut\u00e9 Python a largement adopt\u00e9 Turbo de Hotwire ou HTMX comme frameworks front de pr\u00e9dilection. Leur principe consiste \u00e0 utiliser des requ\u00eates AJAX obtenir des morceaux de pages rendus par le backend. Cependant, il existe des situations o\u00f9 chaque requ\u00eate HTTP a un co\u00fbt. Que ce soit \u00e0 cause d'une mauvais bande passante, une limitation par des quotas de donn\u00e9es ou tout simplement une facturation au MB. Dans de telles situations, une application ne peut pas se permettre d'effectuer une requ\u00eate HTTP, par exemple \u00e0 ajout d'un formulaire dans un formset Django. \r\n\r\nApr\u00e8s avoir rencontr\u00e9 cette situation \u00e0 plusieurs reprises, j'ai d\u00e9cid\u00e9 de commencer \u00e0 travailler sur django-template-transpiler, un projet Rust pour transpiler les templates Django en fonctions de rendu JS de fa\u00e7on similaire \u00e0 React ou Vue. L'objectif est de permettre aux d\u00e9veloppeurs de rendre une page dynamique en minimisant le co\u00fbt en resources. DTT permet ainsi de rendre des templates Django suivant la situation, soit c\u00f4t\u00e9 serveur, soit c\u00f4t\u00e9 client, en utilisant les le m\u00eame template Django comme source de v\u00e9rit\u00e9.",
+                    "duration": 25,
+                    "slot_count": 1,
+                    "content_locale": "fr",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 3806,
+                            "room": {
+                                "id": 26,
+                                "name": {
+                                    "en": "BASENDERIE",
+                                    "fr": "BASENDERIE"
+                                },
+                                "description": {
+                                    "en": "Conference room",
+                                    "fr": "Salle de conf\u00e9rence"
+                                },
+                                "uuid": "eb0808da-c7a5-50f0-aa7f-d43f9d07da58",
+                                "guid": null,
+                                "capacity": 50,
+                                "position": 2
+                            },
+                            "start": "2026-11-01T11:00:00+01:00",
+                            "end": "2026-11-01T11:25:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 430,
+                            "question": 4,
+                            "answer": "Avanc\u00e9 / Expert - Sujets pointus ou scientifiques n\u00e9cessitant une forte expertise",
+                            "answer_file": null,
+                            "submission": "YSQLWF",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 17,
+                                    "answer": {
+                                        "en": "Advanced / Expert - Complex or scientific topics requiring strong prior expertise",
+                                        "fr": "Avanc\u00e9 / Expert - Sujets pointus ou scientifiques n\u00e9cessitant une forte expertise"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
                 "28": {
                     "code": "ZX7UCS",
                     "title": "Python Polars for Practitioners: When to Drop Pandas",
@@ -3589,7 +3618,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3640,
+                            "id": 3791,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3675,7 +3704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3689,
+                            "id": 3798,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3757,7 +3786,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3650,
+                            "id": 3799,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3822,9 +3851,9 @@
                         {
                             "code": "GUETU3",
                             "name": "Oluwakemi Jacobs",
-                            "biography": null,
+                            "biography": "Jacobs Oluwakemi is an educator committed to exploring the use of Python in data science, machine learning, and artificial intelligence for teaching and learning. Passionate about special needs learners and with the rise in the number of learners with disabilities to read and write in Nigeria (dyslexia), she desires to impact learners more to read, write, and attain academic excellence using the Python programming language",
                             "submissions": [],
-                            "avatar_url": "",
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/GUETU3_8isWFdu.png",
                             "answers": []
                         }
                     ],
@@ -3847,7 +3876,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3651,
+                            "id": 3797,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3929,7 +3958,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3649,
+                            "id": 3800,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4026,7 +4055,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3704,
+                            "id": 3805,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4077,15 +4106,15 @@
                     "is_anonymised": false
                 },
                 "25": {
-                    "code": "MDGWNH",
-                    "title": "Ex\u00e9cution Durable: \u00e0 quoi \u00e7a sert et comment \u00e7a marche?",
+                    "code": "LWZU39",
+                    "title": "Comment modifier sa base de donn\u00e9es sans interruption de service",
                     "speakers": [
                         {
-                            "code": "PSTZTH",
-                            "name": "Laurent Direr",
+                            "code": "CQ3D8R",
+                            "name": "Xavier Ordoquy",
                             "biography": null,
                             "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/PSTZTH_6xwIoPV.png",
+                            "avatar_url": "",
                             "answers": []
                         }
                     ],
@@ -4101,14 +4130,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Envoyer un email, \u00e7a ne peut pas \u00eatre bien compliqu\u00e9.  \r\nPourtant, dans une application web, garantir qu'un email est bien envoy\u00e9 n'est pas si \u00e9vident.\r\n\r\nC'est ce probl\u00e8me concret que nous \u00e9tudierons en Python, avec en fil rouge un exemple classique de fonctionnalit\u00e9 web.\r\nOn observera les limites d'une impl\u00e9mentation na\u00efve - certains emails ne sont jamais envoy\u00e9s! - avant d'introduire une solution robuste o\u00f9 les envois sont stock\u00e9s en base de donn\u00e9es puis trait\u00e9s de mani\u00e8re asynchrone ('Outbox pattern'). \r\nEnfin, on reconstruira cette solution avec un framework d\u2019ex\u00e9cution durable. Le r\u00e9sultat est tr\u00e8s diff\u00e9rent! \r\nComment ce code fonctionne-t-il? Quelles garanties apporte-t-il? \r\nEt quelle place peut prendre l'ex\u00e9cution durable dans nos applications web classiques?",
+                    "description": "Les modifications des sch\u00e9mas des bases relationnelles peuvent \u00eatre compliqu\u00e9es si l'on veut garder un service avec du traffic et sans interruption.\r\nLa pr\u00e9sentation a pour but d'expliquer ce qui peut causer des interruptions de service et ce que l'on peut mettre en place pour les \u00e9viter.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3618,
+                            "id": 3792,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4132,11 +4161,11 @@
                     ],
                     "answers": [
                         {
-                            "id": 556,
+                            "id": 529,
                             "question": 4,
-                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
                             "answer_file": null,
-                            "submission": "MDGWNH",
+                            "submission": "LWZU39",
                             "review": null,
                             "person": null,
                             "options": [
@@ -4190,7 +4219,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3658,
+                            "id": 3808,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4227,88 +4256,6 @@
                                     "answer": {
                                         "en": "Beginner / Discovery - Introduction with no prior knowledge required",
                                         "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "27": {
-                    "code": "YSQLWF",
-                    "title": "Django Template Transpiler\u00a0: Django templates dans le navigateur",
-                    "speakers": [
-                        {
-                            "code": "VEFJUA",
-                            "name": "Christophe Henry",
-                            "biography": "Je suis un d\u00e9veloppeur luttant au quotidien avec TDAH. Toujours avide d'apprendre de nouvelles choses, j'aime cr\u00e9er des outils ergonomiquespour faciliter la vie desgens. Je travaille actuellement en tant que prestataire ind\u00e9pendant Python/Django pour le gouvernement fran\u00e7ais. Par le pass\u00e9, j'ai \u00e9galement occup\u00e9 d'autres postes, notamment en tant que d\u00e9veloppeur Java, web et full-stack, devops, et m\u00eame administrateur syst\u00e8me pendant un temps. Je contribue \u00e0 de nombreux projets, car je n'arrive pas \u00e0 me concentrer sur un seul. \r\n\r\n- https://blog.christophe-henry.dev/\r\n- https://github.com/christophehenry",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/VEFJUA_riMYnLq.jpg",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Ces derni\u00e8res ann\u00e9es, la communaut\u00e9 Python a largement adopt\u00e9 Turbo de Hotwire ou HTMX comme frameworks front de pr\u00e9dilection. Leur principe consiste \u00e0 utiliser des requ\u00eates AJAX obtenir des morceaux de pages rendus par le backend. Cependant, il existe des situations o\u00f9 chaque requ\u00eate HTTP a un co\u00fbt. Que ce soit \u00e0 cause d'une mauvais bande passante, une limitation par des quotas de donn\u00e9es ou tout simplement une facturation au MB. Dans de telles situations, une application ne peut pas se permettre d'effectuer une requ\u00eate HTTP, par exemple \u00e0 ajout d'un formulaire dans un formset Django. \r\n\r\nApr\u00e8s avoir rencontr\u00e9 cette situation \u00e0 plusieurs reprises, j'ai d\u00e9cid\u00e9 de commencer \u00e0 travailler sur django-template-transpiler, un projet Rust pour transpiler les templates Django en fonctions de rendu JS de fa\u00e7on similaire \u00e0 React ou Vue. L'objectif est de permettre aux d\u00e9veloppeurs de rendre une page dynamique en minimisant le co\u00fbt en resources. DTT permet ainsi de rendre des templates Django suivant la situation, soit c\u00f4t\u00e9 serveur, soit c\u00f4t\u00e9 client, en utilisant les le m\u00eame template Django comme source de v\u00e9rit\u00e9.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 3657,
-                            "room": {
-                                "id": 27,
-                                "name": {
-                                    "en": "LANG5",
-                                    "fr": "LANG5"
-                                },
-                                "description": {
-                                    "en": "Sprint & conference room",
-                                    "fr": "Salle de conf\u00e9rence"
-                                },
-                                "uuid": "46a731bd-273f-5716-977c-fb39808d60d2",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 3
-                            },
-                            "start": "2026-11-01T12:30:00+01:00",
-                            "end": "2026-11-01T12:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 430,
-                            "question": 4,
-                            "answer": "Avanc\u00e9 / Expert - Sujets pointus ou scientifiques n\u00e9cessitant une forte expertise",
-                            "answer_file": null,
-                            "submission": "YSQLWF",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 17,
-                                    "answer": {
-                                        "en": "Advanced / Expert - Complex or scientific topics requiring strong prior expertise",
-                                        "fr": "Avanc\u00e9 / Expert - Sujets pointus ou scientifiques n\u00e9cessitant une forte expertise"
                                     },
                                     "position": 0
                                 }
@@ -4372,7 +4319,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3669,
+                            "id": 3819,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4462,7 +4409,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3668,
+                            "id": 3821,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4544,7 +4491,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3648,
+                            "id": 3820,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4626,7 +4573,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3667,
+                            "id": 3818,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4708,7 +4655,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3671,
+                            "id": 3817,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4798,7 +4745,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3673,
+                            "id": 3816,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4887,7 +4834,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3679,
+                            "id": 3828,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4969,7 +4916,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3678,
+                            "id": 3829,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5051,7 +4998,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3656,
+                            "id": 3826,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5141,7 +5088,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3680,
+                            "id": 3827,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -5227,7 +5174,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3686,
+                            "id": 3837,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5309,7 +5256,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3705,
+                            "id": 3835,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5382,7 +5329,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3703,
+                            "id": 3834,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -5444,7 +5391,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3670,
+                            "id": 3836,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5521,7 +5468,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3702,
+                            "id": 3839,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -5587,7 +5534,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3698,
+                            "id": 3841,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5692,7 +5639,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3556,
+                            "id": 3709,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5714,7 +5661,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3560,
+                            "id": 3714,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5796,7 +5743,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3559,
+                            "id": 3711,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5818,7 +5765,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3561,
+                            "id": 3716,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5908,7 +5855,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3557,
+                            "id": 3710,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5930,7 +5877,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3562,
+                            "id": 3713,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6012,7 +5959,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3558,
+                            "id": 3707,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6034,7 +5981,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3564,
+                            "id": 3715,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6116,7 +6063,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3555,
+                            "id": 3708,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6138,7 +6085,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3563,
+                            "id": 3712,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6280,7 +6227,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3556,
+                            "id": 3709,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6302,7 +6249,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3560,
+                            "id": 3714,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6384,7 +6331,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3559,
+                            "id": 3711,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6406,7 +6353,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3561,
+                            "id": 3716,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6496,7 +6443,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3557,
+                            "id": 3710,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6518,7 +6465,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3562,
+                            "id": 3713,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6600,7 +6547,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3558,
+                            "id": 3707,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6622,7 +6569,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3564,
+                            "id": 3715,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6704,7 +6651,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3555,
+                            "id": 3708,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6726,7 +6673,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3563,
+                            "id": 3712,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -7228,6 +7175,14 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/61ba6f6b1fb82707b9344259f74a81b3_MjsKE1N.jpg",
             "answers": []
         },
+        "YWN3NE": {
+            "code": "YWN3NE",
+            "name": "Ruud van der Ham",
+            "biography": "I started programming in the 70s. I have done a lot of coding in Basic. Algol, Fortran, PL/1, assembler, Pascal, C and -of course- Python.\r\nMy speciality is simulation of logistic installations, like ports, airports, warehouses, factories, etc. \r\nI am the author of several open source software projects, including salabim (discrete event simulation), peek (debugging and benchmarking), istr (treats strings as if they were numbers). See www.salabim.org/foss for details.",
+            "submissions": [],
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/YWN3NE_7s1xkW8.jpg",
+            "answers": []
+        },
         "GENJKT": {
             "code": "GENJKT",
             "name": "Samir Akarioh",
@@ -7404,20 +7359,12 @@
             "avatar_url": "",
             "answers": []
         },
-        "UVTMPS": {
-            "code": "UVTMPS",
-            "name": "Steve Yonkeu",
-            "biography": "Steve Yonkeu is a senior backend and platform engineer based in Cameroon. He is a PSF Fellow, a Microsoft MVP, and a member of the Django Software Foundation. He founded Python Cameroon and Django Cameroon, co-organizes PyCon Africa, and has spoken at PyCon US. He works daily with Python, PostgreSQL, and Kubernetes.",
-            "submissions": [],
-            "avatar_url": "",
-            "answers": []
-        },
-        "CQ3D8R": {
-            "code": "CQ3D8R",
-            "name": "Xavier Ordoquy",
+        "PSTZTH": {
+            "code": "PSTZTH",
+            "name": "Laurent Direr",
             "biography": null,
             "submissions": [],
-            "avatar_url": "",
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/PSTZTH_6xwIoPV.png",
             "answers": []
         },
         "7PC3SF": {
@@ -7434,6 +7381,14 @@
             "biography": null,
             "submissions": [],
             "avatar_url": "",
+            "answers": []
+        },
+        "VEFJUA": {
+            "code": "VEFJUA",
+            "name": "Christophe Henry",
+            "biography": "Je suis un d\u00e9veloppeur luttant au quotidien avec TDAH. Toujours avide d'apprendre de nouvelles choses, j'aime cr\u00e9er des outils ergonomiquespour faciliter la vie desgens. Je travaille actuellement en tant que prestataire ind\u00e9pendant Python/Django pour le gouvernement fran\u00e7ais. Par le pass\u00e9, j'ai \u00e9galement occup\u00e9 d'autres postes, notamment en tant que d\u00e9veloppeur Java, web et full-stack, devops, et m\u00eame administrateur syst\u00e8me pendant un temps. Je contribue \u00e0 de nombreux projets, car je n'arrive pas \u00e0 me concentrer sur un seul. \r\n\r\n- https://blog.christophe-henry.dev/\r\n- https://github.com/christophehenry",
+            "submissions": [],
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/VEFJUA_riMYnLq.jpg",
             "answers": []
         },
         "W9HVDJ": {
@@ -7471,9 +7426,9 @@
         "GUETU3": {
             "code": "GUETU3",
             "name": "Oluwakemi Jacobs",
-            "biography": null,
+            "biography": "Jacobs Oluwakemi is an educator committed to exploring the use of Python in data science, machine learning, and artificial intelligence for teaching and learning. Passionate about special needs learners and with the rise in the number of learners with disabilities to read and write in Nigeria (dyslexia), she desires to impact learners more to read, write, and attain academic excellence using the Python programming language",
             "submissions": [],
-            "avatar_url": "",
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/GUETU3_8isWFdu.png",
             "answers": []
         },
         "DR3RTG": {
@@ -7500,12 +7455,12 @@
             "avatar_url": "",
             "answers": []
         },
-        "PSTZTH": {
-            "code": "PSTZTH",
-            "name": "Laurent Direr",
+        "CQ3D8R": {
+            "code": "CQ3D8R",
+            "name": "Xavier Ordoquy",
             "biography": null,
             "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/PSTZTH_6xwIoPV.png",
+            "avatar_url": "",
             "answers": []
         },
         "FD7UPW": {
@@ -7514,14 +7469,6 @@
             "biography": "Avec plus de 10 ans d'exp\u00e9rience en tant qu'Ing\u00e9nieur Logiciel, Dorian s'est consacr\u00e9 au langage et \u00e0 l'\u00e9cosyst\u00e8me Python depuis 2018. Au fil des ann\u00e9es, il a occup\u00e9 de nombreux titres et assum\u00e9 diverses responsabilit\u00e9s, allant de D\u00e9veloppeur \u00e0 Chef Technique, Responsable Ing\u00e9nierie, Instructeur, Enseignant et Principal DevSecOps, pour des startups et grandes entreprises (RBI Inc, Alpiq, P1 Security). En tant que cr\u00e9ateur de plusieurs biblioth\u00e8ques Python ax\u00e9es sur la performance, l'optimisation et des objectifs \u00e9ducatifs, il a pass\u00e9 beaucoup de temps ces derni\u00e8res ann\u00e9es \u00e0 travailler sur un environnement CI/CD s\u00e9curis\u00e9, rapide et fiable pour GitLab.",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/FD7UPW_RIWmIni.jpg",
-            "answers": []
-        },
-        "VEFJUA": {
-            "code": "VEFJUA",
-            "name": "Christophe Henry",
-            "biography": "Je suis un d\u00e9veloppeur luttant au quotidien avec TDAH. Toujours avide d'apprendre de nouvelles choses, j'aime cr\u00e9er des outils ergonomiquespour faciliter la vie desgens. Je travaille actuellement en tant que prestataire ind\u00e9pendant Python/Django pour le gouvernement fran\u00e7ais. Par le pass\u00e9, j'ai \u00e9galement occup\u00e9 d'autres postes, notamment en tant que d\u00e9veloppeur Java, web et full-stack, devops, et m\u00eame administrateur syst\u00e8me pendant un temps. Je contribue \u00e0 de nombreux projets, car je n'arrive pas \u00e0 me concentrer sur un seul. \r\n\r\n- https://blog.christophe-henry.dev/\r\n- https://github.com/christophehenry",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/VEFJUA_riMYnLq.jpg",
             "answers": []
         },
         "9WR9T7": {
