@@ -1,11 +1,24 @@
 .reveal-viewport {
-    background: #fffaf5;
+    background-color: #FFFAF5;
+    background-image: linear-gradient(rgba(255, 250, 245, 0.9), rgba(255, 250, 245, 0.9)), url("../img/background.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.reveal * {
+    color: #000a29;
+}
+
+.reveal h1, .reveal h1 * {
+    color: #2454ff;
+    text-align: center;
 }
 
 .reveal h2, .reveal h2 * {
     color: #2454ff;
 }
 
-.reveal * {
-    color: #000a29;
+.reveal h3, .reveal h3 * {
+    color: #2454ff;
+    text-align: center;
 }
