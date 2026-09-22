@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3853,
+                            "id": 3990,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3855,
+                            "id": 3992,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3863,
+                            "id": 3999,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3859,
+                            "id": 3995,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3861,
+                            "id": 3994,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3857,
+                            "id": 3997,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3862,
+                            "id": 4000,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -591,9 +591,18 @@
                     "is_anonymised": false
                 },
                 "28": {
-                    "code": "",
-                    "title": "<i>To be confirmed</i>",
-                    "speakers": [],
+                    "code": "SXTEQ9",
+                    "title": "Staying Up When a Region Goes Down: Availability as a First-Class Property of Your Data",
+                    "speakers": [
+                        {
+                            "code": "E3MYDV",
+                            "name": "Vladyslav",
+                            "biography": "",
+                            "submissions": [],
+                            "avatar_url": "",
+                            "answers": []
+                        }
+                    ],
                     "submission_type": {
                         "id": 22,
                         "name": {
@@ -605,15 +614,15 @@
                         "requires_access_code": false
                     },
                     "tags": [],
-                    "state": "accepted",
-                    "description": "",
+                    "state": "confirmed",
+                    "description": "We obsess over keeping data consistent and durable, but availability is just as fundamental. When a region goes dark, every second of downtime costs revenue, trust, and someone's sleep. In this talk we show how at Redis we treat availability as a first-class property of your data and how you can deliver it at the client layer. We'll explore MultiDBClient, a client-side approach to graceful failover across geo-replicated databases with continuous health monitoring, millisecond failover to the next healthy endpoint, in-flight command retries, and automatic fallback when the home region recovers. You'll leave knowing how geographic failover really works and how to build apps that stay up.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "en",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3860,
+                            "id": 4110,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -635,7 +644,27 @@
                             "duration": 25
                         }
                     ],
-                    "answers": [],
+                    "answers": [
+                        {
+                            "id": 442,
+                            "question": 4,
+                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                            "answer_file": null,
+                            "submission": "SXTEQ9",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 16,
+                                    "answer": {
+                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
                     "pending_state": null,
                     "is_featured": false,
                     "access_code": null,
@@ -675,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3858,
+                            "id": 3996,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -761,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3868,
+                            "id": 4008,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -843,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3871,
+                            "id": 4006,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -925,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3870,
+                            "id": 4005,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1007,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3869,
+                            "id": 4007,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1093,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3873,
+                            "id": 4010,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1179,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3880,
+                            "id": 4015,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1261,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3879,
+                            "id": 4018,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1343,7 +1372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3878,
+                            "id": 4017,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1425,7 +1454,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3881,
+                            "id": 4016,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1520,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3894,
+                            "id": 4028,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1602,7 +1631,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3890,
+                            "id": 4031,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1684,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3892,
+                            "id": 4027,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1766,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3893,
+                            "id": 4029,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1848,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3891,
+                            "id": 4026,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1930,7 +1959,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3889,
+                            "id": 4030,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2016,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3899,
+                            "id": 4037,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2098,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3900,
+                            "id": 4038,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2180,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3902,
+                            "id": 4036,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2262,7 +2291,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3901,
+                            "id": 4039,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2351,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3910,
+                            "id": 4047,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2433,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3908,
+                            "id": 4046,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2515,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3907,
+                            "id": 4045,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2597,7 +2626,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3909,
+                            "id": 4044,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2686,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3917,
+                            "id": 4054,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2768,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3916,
+                            "id": 4053,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2850,7 +2879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3918,
+                            "id": 4055,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2932,7 +2961,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3915,
+                            "id": 4052,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3022,7 +3051,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 3920,
+                            "id": 4057,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3116,7 +3145,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3921,
+                            "id": 4058,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3205,7 +3234,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3922,
+                            "id": 4059,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3294,7 +3323,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3925,
+                            "id": 4064,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3376,7 +3405,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3924,
+                            "id": 4065,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3458,7 +3487,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3928,
+                            "id": 4062,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3540,7 +3569,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3926,
+                            "id": 4061,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3622,7 +3651,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3927,
+                            "id": 4063,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3708,7 +3737,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3934,
+                            "id": 4072,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3790,7 +3819,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3933,
+                            "id": 4071,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3880,7 +3909,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3936,
+                            "id": 4073,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3962,7 +3991,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3935,
+                            "id": 4070,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4059,7 +4088,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3942,
+                            "id": 4078,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4141,7 +4170,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3941,
+                            "id": 4079,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4223,7 +4252,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3943,
+                            "id": 4080,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4323,7 +4352,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3955,
+                            "id": 4087,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4413,7 +4442,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3952,
+                            "id": 4090,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4495,7 +4524,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3951,
+                            "id": 4089,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4577,7 +4606,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3950,
+                            "id": 4088,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4659,7 +4688,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3954,
+                            "id": 4092,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4749,7 +4778,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3953,
+                            "id": 4091,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4838,7 +4867,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3962,
+                            "id": 4097,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4920,7 +4949,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3960,
+                            "id": 4099,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5002,7 +5031,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3961,
+                            "id": 4100,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5092,7 +5121,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3963,
+                            "id": 4098,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -5146,6 +5175,88 @@
             "910": {},
             "920": {},
             "930": {
+                "28": {
+                    "code": "3JHBZY",
+                    "title": "Fusing Python with Java using GraalPy and Micronaut",
+                    "speakers": [
+                        {
+                            "code": "SQURVP",
+                            "name": "Graeme Rocher",
+                            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 26,
+                        "name": {
+                            "en": "Long talk",
+                            "fr": "Conf\u00e9rence longue"
+                        },
+                        "default_duration": 55,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Python is an excellent language for building APIs quickly, but once services grow, teams often run into familiar limits: tight coupling to the Python runtime, packaging friction,\r\n  dependency drift, and deployment complexity. In this talk, we\u2019ll explore a different path: using GraalPy and Micronaut to build Python services that can directly benefit from the Java\r\n  ecosystem without giving up Python.\r\n\r\nI\u2019ll show how Micronaut provides a modern application model for Python developers who want the ergonomics they expect from frameworks like FastAPI, but with a stronger focus on startup\r\n  time, memory efficiency, and scalability. We\u2019ll look at how Python code can run alongside Java libraries in the same application, how dependency injection and compile-time optimizations\r\n  reduce runtime overhead, and why this matters when you need to serve real traffic reliably.\r\n\r\nWe\u2019ll also cover the deployment story. Instead of juggling multiple runtime layers, container tweaks, and ad hoc process orchestration, this approach can produce a simpler, more\r\n  predictable artifact that is easier to ship and operate in production. That makes it attractive both for teams building small services that need to stay lean, and for larger systems that\r\n  need to scale without losing clarity.\r\n\r\n  If you build APIs in Python and want better performance, a cleaner path to production, and access to a much larger library ecosystem, this talk will show you what becomes possible when\r\n  Python and Java work together.",
+                    "duration": 55,
+                    "slot_count": 1,
+                    "content_locale": "en",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 4113,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-11-01T15:30:00+01:00",
+                            "end": "2026-11-01T16:25:00+01:00",
+                            "description": null,
+                            "duration": 55
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 479,
+                            "question": 4,
+                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
+                            "answer_file": null,
+                            "submission": "3JHBZY",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 15,
+                                    "answer": {
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
                 "25": {
                     "code": "7WBTU7",
                     "title": "\u00c9crire un analyseur de types en Python",
@@ -5178,7 +5289,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3969,
+                            "id": 4107,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5260,7 +5371,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3971,
+                            "id": 4108,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5310,59 +5421,6 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
-                "28": {
-                    "code": "",
-                    "title": "<i>To be confirmed</i>",
-                    "speakers": [],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "accepted",
-                    "description": "",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 3979,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T15:30:00+01:00",
-                            "end": "2026-11-01T15:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "26": {
                     "code": "MV3FK9",
                     "title": "Histoire secr\u00e8te des bonnes pratiques : 70 ans de le\u00e7ons pour coder mieux aujourd'hui",
@@ -5395,7 +5453,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3970,
+                            "id": 4106,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5448,90 +5506,7 @@
             },
             "940": {},
             "950": {},
-            "960": {
-                "28": {
-                    "code": "SXTEQ9",
-                    "title": "Staying Up When a Region Goes Down: Availability as a First-Class Property of Your Data",
-                    "speakers": [
-                        {
-                            "code": "E3MYDV",
-                            "name": "Vladyslav",
-                            "biography": "",
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "We obsess over keeping data consistent and durable, but availability is just as fundamental. When a region goes dark, every second of downtime costs revenue, trust, and someone's sleep. In this talk we show how at Redis we treat availability as a first-class property of your data and how you can deliver it at the client layer. We'll explore MultiDBClient, a client-side approach to graceful failover across geo-replicated databases with continuous health monitoring, millisecond failover to the next healthy endpoint, in-flight command retries, and automatic fallback when the home region recovers. You'll leave knowing how geographic failover really works and how to build apps that stay up.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 3976,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T16:00:00+01:00",
-                            "end": "2026-11-01T16:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 442,
-                            "question": 4,
-                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                            "answer_file": null,
-                            "submission": "SXTEQ9",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 16,
-                                    "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                }
-            },
+            "960": {},
             "970": {},
             "980": {},
             "990": {
@@ -5567,7 +5542,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3975,
+                            "id": 4112,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5672,7 +5647,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3845,
+                            "id": 3983,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5694,7 +5669,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3851,
+                            "id": 3987,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5776,7 +5751,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3843,
+                            "id": 3980,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5798,7 +5773,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3852,
+                            "id": 3986,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5888,7 +5863,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3847,
+                            "id": 3984,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5910,7 +5885,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3850,
+                            "id": 3988,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5992,7 +5967,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3844,
+                            "id": 3982,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6014,7 +5989,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3848,
+                            "id": 3985,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6096,7 +6071,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3846,
+                            "id": 3981,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6118,7 +6093,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3849,
+                            "id": 3989,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6260,7 +6235,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3845,
+                            "id": 3983,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6282,7 +6257,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3851,
+                            "id": 3987,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6364,7 +6339,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3843,
+                            "id": 3980,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6386,7 +6361,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3852,
+                            "id": 3986,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6476,7 +6451,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3847,
+                            "id": 3984,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6498,7 +6473,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3850,
+                            "id": 3988,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6580,7 +6555,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3844,
+                            "id": 3982,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6602,7 +6577,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3848,
+                            "id": 3985,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6684,7 +6659,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 3846,
+                            "id": 3981,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6706,7 +6681,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 3849,
+                            "id": 3989,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -7168,6 +7143,14 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/CPUYPE_E9AnQHz.jpg",
             "answers": []
         },
+        "E3MYDV": {
+            "code": "E3MYDV",
+            "name": "Vladyslav",
+            "biography": "",
+            "submissions": [],
+            "avatar_url": "",
+            "answers": []
+        },
         "WBWCRW": {
             "code": "WBWCRW",
             "name": "Julien Lenormand",
@@ -7616,6 +7599,14 @@
             "avatar_url": "",
             "answers": []
         },
+        "SQURVP": {
+            "code": "SQURVP",
+            "name": "Graeme Rocher",
+            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
+            "submissions": [],
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
+            "answers": []
+        },
         "UGZPGE": {
             "code": "UGZPGE",
             "name": "Pierre Verkest",
@@ -7630,14 +7621,6 @@
             "biography": "Tomb\u00e9 dans Python il y a 14 ans, je suis ravi de pouvoir transmettre aujourd\u2019hui ce que j'ai appris, et surtout ce que j\u2019ai aim\u00e9 apprendre.\r\n\r\nEnseignant, formateur, freelance, j'utilise Python pour transmettre des concepts parfois complexes de mani\u00e8re ludique et motivante.",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/NFUNXU_UFBnRvL.png",
-            "answers": []
-        },
-        "E3MYDV": {
-            "code": "E3MYDV",
-            "name": "Vladyslav",
-            "biography": "",
-            "submissions": [],
-            "avatar_url": "",
             "answers": []
         }
     }
