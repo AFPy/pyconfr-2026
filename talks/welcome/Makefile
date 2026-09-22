@@ -1,4 +1,4 @@
-SRC := intro.md
+SRC := pres.md
 HTML := $(SRC:.md=.html)
 
 .PHONY: all
