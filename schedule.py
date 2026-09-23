@@ -158,4 +158,4 @@ OUTPUT.write_text(json.dumps({
         for room in rooms.values()
         for speaker in room["speakers"]
     },
-}).replace('http://cfp.pycon.fr/', 'https://cfp.pycon.fr/'))
+}, indent=4).replace('http://cfp.pycon.fr/', 'https://cfp.pycon.fr/'))
