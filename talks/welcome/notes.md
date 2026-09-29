@@ -28,6 +28,8 @@
 
 # Sponsors
 
+- 2 minutes max par sponsor platine/or/argent
+
 # Repas
 
 - petits déjeuners
