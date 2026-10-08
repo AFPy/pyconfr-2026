@@ -9,11 +9,11 @@
 
 Thanks to them to welcome us here
 
-![](../../static/images/partners/estia.png)
+<div align="center"><img src="../img/estia.png" style="width: 15em;" /></div>
 
 ## AFPy
 
-![](afpy.svg)
+<div align="center"><img src="../img/afpy.svg" style="width: 8em;" /></div>
 
 - French Python Association, promoting Python langaugage to all users
 
@@ -38,11 +38,7 @@ Thanks to them to welcome us here
 
 - Special thanks to
 
-![](../../static/images/partners/Galae.png)
-![](../../static/images/partners/Octopuce.png)
-![](../../static/images/partners/Gentils nuages.svg)
-![](../../static/images/partners/LeBureau.png)
-![](../../static/images/partners/Annabelle Nicvert.svg)
+<div align="center"><img src="../img/partners.svg" style="width: 15em;" /></div>
 
 - that provide us mails, domain names, servers and graphics
 
@@ -55,16 +51,16 @@ Thanks to them to welcome us here
     - Be nice and respectful to everyone
     - Full version of the CoC can be found on [pycon.fr](https://pycon.fr)
 
-- You can contact the diversity team directly by email ([diversite@afpy.org](mailto:diversite@afpy.org)) or phone () for any issue you may encounter
-
-![](diversity_team.jpg)
+- You can contact the diversity team directly by email ([diversite@afpy.org](mailto:diversite@afpy.org)) or phone (+33 ) for any issue you may encounter
 
 ## Video recording
 
 - Thanks to Raffut for the video recording
 - Don't disturb or move the recording equipments
 
-![](raffut.png)
+<div align="center"><img src="../img/raffut.png" style="width: 10em;" /></div>
+
+[raffut.media](https://raffut.media)
 
 ## Workshops & talks
 
@@ -90,29 +86,29 @@ Thanks to them to welcome us here
 
 # Thanks to our great sponsors
 
-## ESTIA
+##  
 
-![](../../static/images/partners/estia.png)
+<div align="center"><img src="../img/estia.png" style="width: 15em;" /></div>
 
-## Mergify
+##  
 
-![](../../static/images/partners/Mergify.svg)
+<div align="center"><img src="../img/Mergify.svg" style="width: 15em;" /></div>
 
-## Dynapps
+##  
 
-![](../../static/images/partners/Dynapps.svg)
+<div align="center"><img src="../img/Dynapps.svg" style="width: 15em;" /></div>
 
-## Entr'ouvert
+##  
 
-![](../../static/images/partners/Entr'ouvert.svg)
+<div align="center"><img src="../img/Entr'ouvert.svg" style="width: 15em;" /></div>
 
-## Alma
+##  
 
-![](../../static/images/partners/Alma.svg)
+<div align="center"><img src="../img/Alma.svg" style="width: 15em;" /></div>
 
 ## Thanks to all sponsors
 
-![](all_sponsors.png)
+<div align="center"><img src="../img/all_sponsors.svg" style="width: 20em;" /></div>
 
 # Practical information
 
