@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4393,
+                            "id": 4524,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4395,
+                            "id": 4526,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4399,
+                            "id": 4533,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4403,
+                            "id": 4530,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4402,
+                            "id": 4534,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4400,
+                            "id": 4531,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4397,
+                            "id": 4532,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4401,
+                            "id": 4529,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4398,
+                            "id": 4528,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4410,
+                            "id": 4541,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4411,
+                            "id": 4542,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4409,
+                            "id": 4539,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4408,
+                            "id": 4540,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4413,
+                            "id": 4544,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1176,88 +1176,6 @@
             "700": {},
             "710": {},
             "720": {
-                "25": {
-                    "code": "3CTQHM",
-                    "title": "Que devez vous prendre en compte lors du d\u00e9ploiement d\u2019une application Django ?",
-                    "speakers": [
-                        {
-                            "code": "GENJKT",
-                            "name": "Samir Akarioh",
-                            "biography": "I'm Samir Akarioh, developer advocate at Scalingo. I work on cloud platforms and DevOps tools with a simple goal: to make developers' lives easier and systems more reliable. I enjoy sharing concrete feedback, talking about automation and best practices, and engaging with the tech community on pragmatic, field-oriented topics.",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/GENJKT_CkiTBEA.jpg",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Dans cette pr\u00e9sentation, nous passerons en revue les points essentiels d\u00e8s que votre application commence \u00e0 avoir de vrais utilisateurs : g\u00e9rer les param\u00e8tres et les secrets de mani\u00e8re s\u00e9curis\u00e9e, servir correctement les fichiers statiques et les fichiers m\u00e9dias, ex\u00e9cuter les migrations sans tout casser, et choisir la bonne configuration de serveur applicatif.\r\n\r\nNous aborderons \u00e9galement les erreurs fr\u00e9quentes li\u00e9es aux connexions \u00e0 la base de donn\u00e9es, aux t\u00e2ches en arri\u00e8re-plan, \u00e0 la mise en cache et aux d\u00e9lais d\u2019expiration, ainsi que les bonnes pratiques pour les \u00e9viter.\r\n\r\nIl s\u2019agit d\u2019une checklist pratique, fond\u00e9e sur des probl\u00e8mes rencontr\u00e9s lors de d\u00e9ploiements r\u00e9els. Vous repartirez avec une vision plus claire du fonctionnement d\u2019un d\u00e9ploiement et moins de mauvaises surprises lors de la mise en production de votre prochain site Django.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 4418,
-                            "room": {
-                                "id": 25,
-                                "name": {
-                                    "en": "MARI/SUGGAR",
-                                    "fr": "MARI/SUGGAR"
-                                },
-                                "description": {
-                                    "en": "Main conference room",
-                                    "fr": "Salle de conf\u00e9rence principale"
-                                },
-                                "uuid": "e474ea92-a0f9-547e-8082-04a1dbc85976",
-                                "guid": null,
-                                "capacity": 220,
-                                "position": 0
-                            },
-                            "start": "2026-10-31T12:00:00+01:00",
-                            "end": "2026-10-31T12:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 524,
-                            "question": 4,
-                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
-                            "answer_file": null,
-                            "submission": "3CTQHM",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 16,
-                                    "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "28": {
                     "code": "PKZPGE",
                     "title": "Breaking down the Model Before It Breaks Decisions",
@@ -1290,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4421,
+                            "id": 4551,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1372,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4420,
+                            "id": 4552,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1422,7 +1340,7 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
-                "27": {
+                "25": {
                     "code": "YWTPV3",
                     "title": "Faire de la collaboration temps r\u00e9el avec Django-channels",
                     "speakers": [
@@ -1454,21 +1372,21 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4419,
+                            "id": 4549,
                             "room": {
-                                "id": 27,
+                                "id": 25,
                                 "name": {
-                                    "en": "LANG5",
-                                    "fr": "LANG5"
+                                    "en": "MARI/SUGGAR",
+                                    "fr": "MARI/SUGGAR"
                                 },
                                 "description": {
-                                    "en": "Sprint & conference room",
-                                    "fr": "Salle de conf\u00e9rence"
+                                    "en": "Main conference room",
+                                    "fr": "Salle de conf\u00e9rence principale"
                                 },
-                                "uuid": "46a731bd-273f-5716-977c-fb39808d60d2",
+                                "uuid": "e474ea92-a0f9-547e-8082-04a1dbc85976",
                                 "guid": null,
-                                "capacity": 40,
-                                "position": 3
+                                "capacity": 220,
+                                "position": 0
                             },
                             "start": "2026-10-31T12:00:00+01:00",
                             "end": "2026-10-31T12:25:00+01:00",
@@ -1549,7 +1467,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4432,
+                            "id": 4561,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1631,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4435,
+                            "id": 4562,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1713,7 +1631,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4433,
+                            "id": 4563,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1795,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4436,
+                            "id": 4564,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1877,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4431,
+                            "id": 4565,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1959,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4434,
+                            "id": 4560,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2045,7 +1963,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4441,
+                            "id": 4573,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2127,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4444,
+                            "id": 4572,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2209,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4442,
+                            "id": 4570,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2291,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4443,
+                            "id": 4571,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2380,7 +2298,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4449,
+                            "id": 4581,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2462,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4450,
+                            "id": 4580,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2544,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4452,
+                            "id": 4579,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2626,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4451,
+                            "id": 4578,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2715,7 +2633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4457,
+                            "id": 4588,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2797,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4458,
+                            "id": 4589,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2879,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4459,
+                            "id": 4587,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2961,7 +2879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4460,
+                            "id": 4586,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3047,11 +2965,12 @@
                     "resources": [
                         83,
                         84,
-                        85
+                        85,
+                        86
                     ],
                     "slots": [
                         {
-                            "id": 4462,
+                            "id": 4591,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3145,7 +3064,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4463,
+                            "id": 4592,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3234,7 +3153,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4464,
+                            "id": 4593,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3323,7 +3242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4466,
+                            "id": 4598,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3405,7 +3324,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4470,
+                            "id": 4596,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3487,7 +3406,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4468,
+                            "id": 4599,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3569,7 +3488,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4467,
+                            "id": 4597,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3651,7 +3570,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4469,
+                            "id": 4595,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3737,7 +3656,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4476,
+                            "id": 4605,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3819,7 +3738,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4478,
+                            "id": 4606,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3909,7 +3828,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4477,
+                            "id": 4607,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3991,7 +3910,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4475,
+                            "id": 4604,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4088,7 +4007,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4483,
+                            "id": 4613,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4170,7 +4089,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4485,
+                            "id": 4612,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4252,7 +4171,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4484,
+                            "id": 4614,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4352,7 +4271,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4495,
+                            "id": 4626,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4442,7 +4361,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4493,
+                            "id": 4621,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4524,7 +4443,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4497,
+                            "id": 4624,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4606,7 +4525,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4492,
+                            "id": 4625,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4688,7 +4607,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4494,
+                            "id": 4623,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4778,7 +4697,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4496,
+                            "id": 4622,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4867,7 +4786,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4426,
+                            "id": 4632,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4949,7 +4868,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4504,
+                            "id": 4634,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5031,7 +4950,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4502,
+                            "id": 4633,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5113,7 +5032,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4505,
+                            "id": 4631,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5199,7 +5118,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4512,
+                            "id": 4640,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -5281,7 +5200,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4510,
+                            "id": 4639,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5363,7 +5282,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4513,
+                            "id": 4641,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5445,7 +5364,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4511,
+                            "id": 4642,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5534,7 +5453,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4515,
+                            "id": 4644,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5639,7 +5558,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4385,
+                            "id": 4519,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5661,7 +5580,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4391,
+                            "id": 4520,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5743,7 +5662,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4386,
+                            "id": 4516,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5765,7 +5684,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4392,
+                            "id": 4523,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5847,7 +5766,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4388,
+                            "id": 4518,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5869,7 +5788,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4390,
+                            "id": 4521,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5951,7 +5870,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4387,
+                            "id": 4517,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5973,7 +5892,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4389,
+                            "id": 4522,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6115,7 +6034,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4385,
+                            "id": 4519,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6137,7 +6056,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4391,
+                            "id": 4520,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6219,7 +6138,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4386,
+                            "id": 4516,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6241,7 +6160,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4392,
+                            "id": 4523,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6323,7 +6242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4388,
+                            "id": 4518,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6345,7 +6264,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4390,
+                            "id": 4521,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6427,7 +6346,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4387,
+                            "id": 4517,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6449,7 +6368,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4389,
+                            "id": 4522,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6964,14 +6883,6 @@
             "biography": "I started programming in the 70s. I have done a lot of coding in Basic. Algol, Fortran, PL/1, assembler, Pascal, C and -of course- Python.\r\nMy speciality is simulation of logistic installations, like ports, airports, warehouses, factories, etc. \r\nI am the author of several open source software projects, including salabim (discrete event simulation), peek (debugging and benchmarking), istr (treats strings as if they were numbers). See www.salabim.org/foss for details.",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/YWN3NE_7s1xkW8.jpg",
-            "answers": []
-        },
-        "GENJKT": {
-            "code": "GENJKT",
-            "name": "Samir Akarioh",
-            "biography": "I'm Samir Akarioh, developer advocate at Scalingo. I work on cloud platforms and DevOps tools with a simple goal: to make developers' lives easier and systems more reliable. I enjoy sharing concrete feedback, talking about automation and best practices, and engaging with the tech community on pragmatic, field-oriented topics.",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/GENJKT_CkiTBEA.jpg",
             "answers": []
         },
         "EBVFMQ": {
