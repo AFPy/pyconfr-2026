@@ -106,6 +106,10 @@ Thanks to them to welcome us here
 
 <div align="center"><img src="../img/Alma.svg" style="width: 15em;" /></div>
 
+##  
+
+<div align="center"><img src="../img/Botify.svg" style="width: 15em;" /></div>
+
 ## Thanks to all sponsors
 
 <div align="center"><img src="../img/all_sponsors.svg" style="width: 20em;" /></div>
