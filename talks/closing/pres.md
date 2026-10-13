@@ -14,6 +14,12 @@
 
 ## Sans oublier nos prestataires
 
+- Food trucks
+- Petits déjeuners
+- SPOT
+
+## Sans oublier nos prestataires
+
 <div align="center"><img src="../img/raffut.png" style="width: 10em;" /></div>
 
 ## À propos de la captation
