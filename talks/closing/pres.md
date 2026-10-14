@@ -14,9 +14,7 @@
 
 ## Sans oublier nos prestataires
 
-- Food trucks
-- Petits déjeuners
-- SPOT
+<div align="center"><img src="../img/food.svg" style="width: 15em;" /></div>
 
 ## Sans oublier nos prestataires
 
@@ -30,6 +28,9 @@
 ## Sondage de satisfaction
 
 - Un sondage de satisfaction est en ligne pour recueillir vos avis
+    - https://XXX.com
+
+<div align="right"><img src="../img/satisfaction_qrcode.svg" style="width: 7em;" /></div>
 
 ## Merci à vous tou·te·s
 
