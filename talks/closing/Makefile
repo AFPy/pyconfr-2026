@@ -5,4 +5,4 @@ HTML := $(SRC:.md=.html)
 all: $(HTML)
 
 %.html: %.md
-	mdtoreveal $< -o $@
+	../../.venv/bin/mdtoreveal $< -o $@
