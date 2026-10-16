@@ -924,7 +924,7 @@
                 },
                 "26": {
                     "code": "STTTTG",
-                    "title": "Data Platform : 250 microservices, 7 To par jour\u2026 et pourtant tout est en Python",
+                    "title": "Data Platform : 250 microservices, 7 To par semaine\u2026 et pourtant tout est en Python",
                     "speakers": [
                         {
                             "code": "XBPHBU",
@@ -947,7 +947,7 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Construire une Data Platform \u00e0 l'\u00e9chelle ne n\u00e9cessite pas forc\u00e9ment une multitude d'outils. Notre plateforme traite 7 To de donn\u00e9es et plus d'un million d'\u00e9v\u00e9nements par jour, int\u00e8gre 40 sources de donn\u00e9es et expose plus de 250 objets de donn\u00e9es... tout en reposant principalement sur Python.\r\n\r\nDans ce retour d'exp\u00e9rience, je montrerai comment nous avons utilis\u00e9 Python pour construire les briques d'une plateforme de donn\u00e9es moderne :\r\n- une architecture orient\u00e9e \u00e9v\u00e9nements pour remplacer les traitements batch lorsque cela est pertinent ;\r\n- l'ensemble des transformations de donn\u00e9es en python ;\r\n- le suivi de la qualit\u00e9 de donn\u00e9es en python\r\n- un mod\u00e8le de stockage garantissant l'organisation et la gouvernance des donn\u00e9es dans le temps ;\r\n- des data contracts ; \r\n- un catalogue de donn\u00e9es custom d\u00e9velopp\u00e9 en python ;\r\n- une anonymisation contextualis\u00e9e permettant de pr\u00e9server la valeur m\u00e9tier des donn\u00e9es ;\r\ndes composants techniques r\u00e9utilisables qui imposent naturellement les bonnes pratiques aux \u00e9quipes.\r\n\r\nL'objectif est de partager les choix d'architecture, les abstractions Python et les compromis qui nous ont permis de faire grandir une plateforme de donn\u00e9es tout en restant simple \u00e0 faire \u00e9voluer.",
+                    "description": "Construire une Data Platform \u00e0 l'\u00e9chelle ne n\u00e9cessite pas forc\u00e9ment une multitude d'outils. Notre plateforme traite 7 To de donn\u00e9es et plus d'un million d'\u00e9v\u00e9nements par semaine, int\u00e8gre 40 sources de donn\u00e9es et expose plus de 250 objets de donn\u00e9es... tout en reposant principalement sur Python.\r\n\r\nDans ce retour d'exp\u00e9rience, je montrerai comment nous avons utilis\u00e9 Python pour construire les briques d'une plateforme de donn\u00e9es moderne :\r\n- une architecture orient\u00e9e \u00e9v\u00e9nements pour remplacer les traitements batch lorsque cela est pertinent ;\r\n- l'ensemble des transformations de donn\u00e9es en python ;\r\n- le suivi de la qualit\u00e9 de donn\u00e9es en python\r\n- un mod\u00e8le de stockage garantissant l'organisation et la gouvernance des donn\u00e9es dans le temps ;\r\n- des data contracts ; \r\n- un catalogue de donn\u00e9es custom d\u00e9velopp\u00e9 en python ;\r\n- une anonymisation contextualis\u00e9e permettant de pr\u00e9server la valeur m\u00e9tier des donn\u00e9es ;\r\ndes composants techniques r\u00e9utilisables qui imposent naturellement les bonnes pratiques aux \u00e9quipes.\r\n\r\nL'objectif est de partager les choix d'architecture, les abstractions Python et les compromis qui nous ont permis de faire grandir une plateforme de donn\u00e9es tout en restant simple \u00e0 faire \u00e9voluer.",
                     "duration": 55,
                     "slot_count": 1,
                     "content_locale": "fr",
