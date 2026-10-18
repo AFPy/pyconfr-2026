@@ -71,7 +71,7 @@ that provide us mails, domain names, servers and graphics
     - Be nice and respectful to everyone
     - Full version of the CoC can be found on [pycon.fr](https://pycon.fr)
 
-You can contact the diversity team directly by email ([diversite@afpy.org](mailto:diversite@afpy.org)) or phone (+33 ) for any issue you may encounter
+You can contact the diversity team directly by email ([diversite@afpy.org](mailto:diversite@afpy.org)) or phone (+33 7 80 97 46 71) for any issue you may encounter
 
 ## Video recording
 
