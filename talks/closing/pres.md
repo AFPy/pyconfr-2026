@@ -28,7 +28,7 @@
 ## Sondage de satisfaction
 
 - Un sondage de satisfaction est en ligne pour recueillir vos avis
-    - https://XXX.com
+    - [framaforms.org/pyconfr-2026-sondage-de-satisfaction-satisfactory-survey-1792528436](https://framaforms.org/pyconfr-2026-sondage-de-satisfaction-satisfactory-survey-1792528436)
 
 <div align="right"><img src="../img/satisfaction_qrcode.svg" style="width: 7em;" /></div>
 

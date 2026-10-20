@@ -185,6 +185,9 @@ You can contact the diversity team directly by email ([diversite@afpy.org](mailt
 - We always need people to help, coordinate talks and welcome visitors
     - Especially tomorrow morning during the general meeting
 - Come talk to us if you want to volunteer
+    - [discuss.afpy.org/t/appel-a-volontaires-pyconfr-2026-call-for-volunteers](https://discuss.afpy.org/t/appel-a-volontaires-pyconfr-2026-call-for-volunteers/3296)
+
+<div align="right"><img src="../img/benevoles_qrcode.svg" style="width: 5em;" /></div>
 
 ## Practical information
 
