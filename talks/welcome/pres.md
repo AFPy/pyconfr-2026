@@ -126,6 +126,10 @@ You can contact the diversity team directly by email ([diversite@afpy.org](mailt
 
 ##  
 
+<div align="center"><img src="../img/EuroPython Society.svg" style="width: 15em;" /></div>
+
+##  
+
 <div align="center"><img src="../img/Mergify.svg" style="width: 15em;" /></div>
 
 ##  
