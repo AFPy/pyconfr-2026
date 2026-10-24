@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4654,
+                            "id": 4782,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4656,
+                            "id": 4784,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4663,
+                            "id": 4789,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4658,
+                            "id": 4788,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4664,
+                            "id": 4786,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4661,
+                            "id": 4790,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4662,
+                            "id": 4791,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4660,
+                            "id": 4792,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4659,
+                            "id": 4787,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4671,
+                            "id": 4797,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4672,
+                            "id": 4798,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4670,
+                            "id": 4799,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4669,
+                            "id": 4800,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4674,
+                            "id": 4802,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1208,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4681,
+                            "id": 4807,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1290,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4679,
+                            "id": 4809,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1372,7 +1372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4680,
+                            "id": 4808,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1467,7 +1467,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4689,
+                            "id": 4817,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1549,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4692,
+                            "id": 4820,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1578,6 +1578,88 @@
                             "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
                             "answer_file": null,
                             "submission": "97AJBB",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 16,
+                                    "answer": {
+                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
+                "28": {
+                    "code": "DLRSVC",
+                    "title": "Debugging with peek",
+                    "speakers": [
+                        {
+                            "code": "YWN3NE",
+                            "name": "Ruud van der Ham",
+                            "biography": "I started programming in the 70s. I have done a lot of coding in Basic. Algol, Fortran, PL/1, assembler, Pascal, C and -of course- Python.\r\nMy speciality is simulation of logistic installations, like ports, airports, warehouses, factories, etc. \r\nI am the author of several open source software projects, including salabim (discrete event simulation), peek (debugging and benchmarking), istr (treats strings as if they were numbers). See www.salabim.org/foss for details.",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/YWN3NE_7s1xkW8.jpg",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 22,
+                        "name": {
+                            "en": "Short talk",
+                            "fr": "Conf\u00e9rence courte"
+                        },
+                        "default_duration": 25,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Debugging often starts with a handful of print() statements, but they quickly become repetitive, hard to read, and difficult to manage.\r\n\r\nThe open source package *peek* provides a much more convenient way to inspect and benchmark Python code. Instead of writing: \r\n```\r\nprint(f\"test {a=} {b=} {a+b=}\")\r\n```\r\nyou can simply write:\r\n```\r\npeek(\"test\", a, b, a + b)\r\n```\r\nAny expression can be passed to *peek*, which automatically displays both the expression and its value. Beyond that, peek offers many features that make debugging more effective, such as\r\n* include the line number and function name\r\n* add colors to make debug output easier to scan\r\n* prepend a configurable prefix to a message\r\n* pretty-print complex data structures\r\n* display timestamps and elapsed time\r\n* enable or disable output using configurable filters, similar to logging levels\r\n\r\n*peek* also includes lightweight benchmarking. For example:\r\n```\r\nwith peek.timer():\r\n    time.sleep(1)\r\n```\r\n\r\nautomatically reports how long the enclosed code took to execute.\r\nConfiguration options such as colors, prefixes, output width, and other settings can be stored in a TOML file, making it easy to customize peek for different projects.\r\n\r\nThis talk will be a live demonstration of *peek*, where I will debug and benchmark real Python code, showing how *peek* can simplify everyday development and make debugging both faster and more enjoyable.\r\n\r\n*peek* can be found at www.salabim.org/peek.",
+                    "duration": 25,
+                    "slot_count": 1,
+                    "content_locale": "en",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 4904,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-10-31T14:00:00+01:00",
+                            "end": "2026-10-31T14:25:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 477,
+                            "question": 4,
+                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                            "answer_file": null,
+                            "submission": "DLRSVC",
                             "review": null,
                             "person": null,
                             "options": [
@@ -1631,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4690,
+                            "id": 4819,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1713,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4693,
+                            "id": 4818,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1795,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4688,
+                            "id": 4816,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1850,15 +1932,15 @@
             "860": {},
             "870": {
                 "28": {
-                    "code": "87JHSB",
-                    "title": "What is happening with my microservices?",
+                    "code": "3JHBZY",
+                    "title": "Fusing Python with Java using GraalPy and Micronaut",
                     "speakers": [
                         {
-                            "code": "XK3T7F",
-                            "name": "Israel Blancas Alvarez",
-                            "biography": "From Granada (Spain). Google Developer Expert in Google Cloud and GDG Organizer. Always trying to learn and sharing with the community.\r\n\r\nI spend my time working on the OpenTelemetry project! Do you want to learn more? Ping me!",
+                            "code": "SQURVP",
+                            "name": "Graeme Rocher",
+                            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
                             "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/XK3T7F_40hE8Q9.JPG",
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
                             "answers": []
                         }
                     ],
@@ -1874,14 +1956,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Observability is the ability to gain insights into the internal state of a system by analyzing its external outputs. It provides developers and SREs with the necessary tools to understand how their applications behave in production and empowers them to detect and resolve issues more efficiently. In this talk, we will dive into the principles and best practices of observability and its impact on application development and operations.\r\n\r\nWhat will we talk about?\r\n* Introduction to Observability\r\n* The Three Pillars of Observability\r\n* Instrumentation and Data Collection\r\n* Tools and projects related to observability\r\n* Practical example\r\n\r\nBy attending this talk, participants will gain a solid understanding of the principles of observability and its role in enhancing the quality, performance, and debuggability of their applications. They will walk away with practical knowledge and actionable insights to implement observability in their own projects and environments.\r\n\r\nThis session is designed for medium-level developers and site reliability engineers (SREs) who want to gain a deeper understanding of observability and leverage its benefits in their projects.",
+                    "description": "Python is an excellent language for building APIs quickly, but once services grow, teams often run into familiar limits: tight coupling to the Python runtime, packaging friction,\r\n  dependency drift, and deployment complexity. In this talk, we\u2019ll explore a different path: using GraalPy and Micronaut to build Python services that can directly benefit from the Java\r\n  ecosystem without giving up Python.\r\n\r\nI\u2019ll show how Micronaut provides a modern application model for Python developers who want the ergonomics they expect from frameworks like FastAPI, but with a stronger focus on startup\r\n  time, memory efficiency, and scalability. We\u2019ll look at how Python code can run alongside Java libraries in the same application, how dependency injection and compile-time optimizations\r\n  reduce runtime overhead, and why this matters when you need to serve real traffic reliably.\r\n\r\nWe\u2019ll also cover the deployment story. Instead of juggling multiple runtime layers, container tweaks, and ad hoc process orchestration, this approach can produce a simpler, more\r\n  predictable artifact that is easier to ship and operate in production. That makes it attractive both for teams building small services that need to stay lean, and for larger systems that\r\n  need to scale without losing clarity.\r\n\r\n  If you build APIs in Python and want better performance, a cleaner path to production, and access to a much larger library ecosystem, this talk will show you what becomes possible when\r\n  Python and Java work together.",
                     "duration": 55,
                     "slot_count": 1,
                     "content_locale": "en",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4701,
+                            "id": 4896,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1905,19 +1987,19 @@
                     ],
                     "answers": [
                         {
-                            "id": 498,
+                            "id": 479,
                             "question": 4,
-                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
                             "answer_file": null,
-                            "submission": "87JHSB",
+                            "submission": "3JHBZY",
                             "review": null,
                             "person": null,
                             "options": [
                                 {
-                                    "id": 16,
+                                    "id": 15,
                                     "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
                                     },
                                     "position": 0
                                 }
@@ -1963,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4698,
+                            "id": 4826,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2045,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4700,
+                            "id": 4824,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2127,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4699,
+                            "id": 4827,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2216,7 +2298,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4708,
+                            "id": 4835,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2298,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4709,
+                            "id": 4832,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2380,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4707,
+                            "id": 4833,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2462,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4706,
+                            "id": 4834,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2551,7 +2633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4714,
+                            "id": 4840,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2633,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4715,
+                            "id": 4841,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2715,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4716,
+                            "id": 4842,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2767,7 +2849,7 @@
                 },
                 "27": {
                     "code": "ZZL8CZ",
-                    "title": "Claude, Copilot & Cie : ce que les LLM changent vraiment dans une base de code Python",
+                    "title": "D\u00e9veloppement agentique : l'ann\u00e9e qui a boulevers\u00e9 notre base de code",
                     "speakers": [
                         {
                             "code": "KWWRHU",
@@ -2790,14 +2872,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Retour d\u2019exp\u00e9rience, pas d\u00e9mo. On a laiss\u00e9 des LLM (Claude et autres) \u00e9crire, refactorer et tester du Python en production pendant un an. Cette conf\u00e9rence raconte concr\u00e8tement ce que \u00e7a change.\r\n\r\n- O\u00f9 les LLM sont r\u00e9ellement bons en Python (boilerplate, tests, migrations, refactors m\u00e9caniques) et o\u00f9 ils d\u00e9rapent (typage subtil, effets de bord, d\u00e9pendances, \u00ab hallucination \u00bb d\u2019API).\r\n- L\u2019effet sur la relecture : le goulot d\u2019\u00e9tranglement se d\u00e9place de \u00ab \u00e9crire \u00bb vers \u00ab v\u00e9rifier \u00bb. Volume de PR en hausse, revue humaine sous pression.\r\n- Les garde-fous qui tiennent : typage strict, tests, CI solide, et une file de merge pour garder main vert quand le d\u00e9bit de PR explose.\r\n- Ce qu\u2019on ferait diff\u00e9remment.",
+                    "description": "Apr\u00e8s plus de dix ans \u00e0 \u00e9crire du Python, l'ann\u00e9e 2026 a boulevers\u00e9 mon travail.\r\n\r\nCe retour d'exp\u00e9rience revient sur notre passage au d\u00e9veloppement agentique : les challenges qu'on a d\u00fb relever, ce qu'on a chang\u00e9 pour y r\u00e9pondre, et l'impact sur notre base de code.\r\n\r\n\u00c9tape par \u00e9tape, avec de vraies donn\u00e9es et des cas concrets.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4717,
+                            "id": 4843,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2823,17 +2905,17 @@
                         {
                             "id": 462,
                             "question": 4,
-                            "answer": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis",
+                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
                             "answer_file": null,
                             "submission": "ZZL8CZ",
                             "review": null,
                             "person": null,
                             "options": [
                                 {
-                                    "id": 15,
+                                    "id": 16,
                                     "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
                                     },
                                     "position": 0
                                 }
@@ -2888,7 +2970,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 4719,
+                            "id": 4845,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2982,7 +3064,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4720,
+                            "id": 4846,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3071,7 +3153,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4721,
+                            "id": 4847,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3160,7 +3242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4725,
+                            "id": 4849,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3242,7 +3324,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4727,
+                            "id": 4851,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3324,7 +3406,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4726,
+                            "id": 4850,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3406,7 +3488,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4724,
+                            "id": 4853,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3488,7 +3570,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4723,
+                            "id": 4852,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3574,7 +3656,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4733,
+                            "id": 4860,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3656,7 +3738,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4732,
+                            "id": 4858,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3746,7 +3828,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4735,
+                            "id": 4861,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3828,7 +3910,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4734,
+                            "id": 4859,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3925,7 +4007,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4741,
+                            "id": 4868,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4007,7 +4089,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4740,
+                            "id": 4866,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4089,7 +4171,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4742,
+                            "id": 4867,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4189,7 +4271,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4751,
+                            "id": 4878,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4279,7 +4361,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4753,
+                            "id": 4875,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4361,7 +4443,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4750,
+                            "id": 4880,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4443,7 +4525,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4752,
+                            "id": 4877,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4525,7 +4607,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4749,
+                            "id": 4879,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4615,7 +4697,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4754,
+                            "id": 4876,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4704,7 +4786,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4759,
+                            "id": 4885,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4786,7 +4868,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4762,
+                            "id": 4887,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4868,7 +4950,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4761,
+                            "id": 4886,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4950,7 +5032,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4760,
+                            "id": 4888,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5004,88 +5086,6 @@
             "910": {},
             "920": {},
             "930": {
-                "28": {
-                    "code": "3JHBZY",
-                    "title": "Fusing Python with Java using GraalPy and Micronaut",
-                    "speakers": [
-                        {
-                            "code": "SQURVP",
-                            "name": "Graeme Rocher",
-                            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 26,
-                        "name": {
-                            "en": "Long talk",
-                            "fr": "Conf\u00e9rence longue"
-                        },
-                        "default_duration": 55,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Python is an excellent language for building APIs quickly, but once services grow, teams often run into familiar limits: tight coupling to the Python runtime, packaging friction,\r\n  dependency drift, and deployment complexity. In this talk, we\u2019ll explore a different path: using GraalPy and Micronaut to build Python services that can directly benefit from the Java\r\n  ecosystem without giving up Python.\r\n\r\nI\u2019ll show how Micronaut provides a modern application model for Python developers who want the ergonomics they expect from frameworks like FastAPI, but with a stronger focus on startup\r\n  time, memory efficiency, and scalability. We\u2019ll look at how Python code can run alongside Java libraries in the same application, how dependency injection and compile-time optimizations\r\n  reduce runtime overhead, and why this matters when you need to serve real traffic reliably.\r\n\r\nWe\u2019ll also cover the deployment story. Instead of juggling multiple runtime layers, container tweaks, and ad hoc process orchestration, this approach can produce a simpler, more\r\n  predictable artifact that is easier to ship and operate in production. That makes it attractive both for teams building small services that need to stay lean, and for larger systems that\r\n  need to scale without losing clarity.\r\n\r\n  If you build APIs in Python and want better performance, a cleaner path to production, and access to a much larger library ecosystem, this talk will show you what becomes possible when\r\n  Python and Java work together.",
-                    "duration": 55,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 4767,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T15:30:00+01:00",
-                            "end": "2026-11-01T16:25:00+01:00",
-                            "description": null,
-                            "duration": 55
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 479,
-                            "question": 4,
-                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
-                            "answer_file": null,
-                            "submission": "3JHBZY",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 15,
-                                    "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "25": {
                     "code": "7WBTU7",
                     "title": "\u00c9crire un analyseur de types en Python",
@@ -5118,7 +5118,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4768,
+                            "id": 4894,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5200,7 +5200,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4769,
+                            "id": 4895,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5282,7 +5282,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4770,
+                            "id": 4893,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5331,11 +5331,218 @@
                     "anonymised_data": "{}",
                     "assigned_reviewers": [],
                     "is_anonymised": false
+                },
+                "28": {
+                    "code": "RVPGJP",
+                    "title": "To be confirmed",
+                    "speakers": [],
+                    "submission_type": {
+                        "id": 22,
+                        "name": {
+                            "en": "Short talk",
+                            "fr": "Conf\u00e9rence courte"
+                        },
+                        "default_duration": 25,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "accepted",
+                    "description": "To be confirmed",
+                    "duration": 25,
+                    "slot_count": 3,
+                    "content_locale": "en",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 4900,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-11-01T15:30:00+01:00",
+                            "end": "2026-11-01T15:55:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        },
+                        {
+                            "id": 4901,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-11-01T16:00:00+01:00",
+                            "end": "2026-11-01T16:25:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        },
+                        {
+                            "id": 4899,
+                            "room": null,
+                            "start": null,
+                            "end": null,
+                            "description": null,
+                            "duration": 25
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 566,
+                            "question": 4,
+                            "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
+                            "answer_file": null,
+                            "submission": "RVPGJP",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 14,
+                                    "answer": {
+                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
+                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
                 }
             },
             "940": {},
             "950": {},
-            "960": {},
+            "960": {
+                "28": {
+                    "code": "RVPGJP",
+                    "title": "To be confirmed",
+                    "speakers": [],
+                    "submission_type": {
+                        "id": 22,
+                        "name": {
+                            "en": "Short talk",
+                            "fr": "Conf\u00e9rence courte"
+                        },
+                        "default_duration": 25,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "accepted",
+                    "description": "To be confirmed",
+                    "duration": 25,
+                    "slot_count": 3,
+                    "content_locale": "en",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 4900,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-11-01T15:30:00+01:00",
+                            "end": "2026-11-01T15:55:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        },
+                        {
+                            "id": 4901,
+                            "room": {
+                                "id": 28,
+                                "name": {
+                                    "en": "PATUEK",
+                                    "fr": "PATUEK"
+                                },
+                                "description": {
+                                    "en": "English track room",
+                                    "fr": "Salle de conf\u00e9rence en anglais"
+                                },
+                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
+                                "guid": null,
+                                "capacity": 137,
+                                "position": 1
+                            },
+                            "start": "2026-11-01T16:00:00+01:00",
+                            "end": "2026-11-01T16:25:00+01:00",
+                            "description": null,
+                            "duration": 25
+                        },
+                        {
+                            "id": 4899,
+                            "room": null,
+                            "start": null,
+                            "end": null,
+                            "description": null,
+                            "duration": 25
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 566,
+                            "question": 4,
+                            "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
+                            "answer_file": null,
+                            "submission": "RVPGJP",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 14,
+                                    "answer": {
+                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
+                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                }
+            },
             "970": {},
             "980": {},
             "990": {
@@ -5371,7 +5578,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4772,
+                            "id": 4898,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5476,7 +5683,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4649,
+                            "id": 4776,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5498,7 +5705,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4650,
+                            "id": 4781,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5580,7 +5787,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4648,
+                            "id": 4774,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5602,7 +5809,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4653,
+                            "id": 4778,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5684,7 +5891,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4646,
+                            "id": 4775,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5706,7 +5913,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4651,
+                            "id": 4779,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5788,7 +5995,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4647,
+                            "id": 4777,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5810,7 +6017,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4652,
+                            "id": 4780,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5952,7 +6159,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4649,
+                            "id": 4776,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5974,7 +6181,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4650,
+                            "id": 4781,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6056,7 +6263,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4648,
+                            "id": 4774,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6078,7 +6285,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4653,
+                            "id": 4778,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6160,7 +6367,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4646,
+                            "id": 4775,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6182,7 +6389,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4651,
+                            "id": 4779,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6264,7 +6471,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4647,
+                            "id": 4777,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6286,7 +6493,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4652,
+                            "id": 4780,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6851,12 +7058,12 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/IMG_20240619_1452422_YM2hYrE.jpg",
             "answers": []
         },
-        "XK3T7F": {
-            "code": "XK3T7F",
-            "name": "Israel Blancas Alvarez",
-            "biography": "From Granada (Spain). Google Developer Expert in Google Cloud and GDG Organizer. Always trying to learn and sharing with the community.\r\n\r\nI spend my time working on the OpenTelemetry project! Do you want to learn more? Ping me!",
+        "SQURVP": {
+            "code": "SQURVP",
+            "name": "Graeme Rocher",
+            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
             "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/XK3T7F_40hE8Q9.JPG",
+            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
             "answers": []
         },
         "KU3XGA": {
@@ -7177,14 +7384,6 @@
             "biography": "Software engineer with a strong interest in designing effective, modular, and scalable solutions. I fight for simplicity and well-designed products.",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/A3NJGW_VVTA1gv.jpeg",
-            "answers": []
-        },
-        "SQURVP": {
-            "code": "SQURVP",
-            "name": "Graeme Rocher",
-            "biography": "Graeme Rocher is the architect and lead of Micronaut at Oracle and works daily with the GraalPy team at Oracle. He has traditionally presented at Java conferences and is the creator of multiple frameworks in the Java ecosystem like Grails and Micronaut.\r\n\r\nGraeme has a long history with dynamic languages and a love of Python. He has been heavily involved in dynamic languages in the Java ecosystem like Groovy, Jython and GraalPy.\r\n\r\nGraeme lives in San Sebasti\u00e1n, Spain (30 minutes from Biarritz by car!).",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/SQURVP_lHTgdaS.png",
             "answers": []
         },
         "UGZPGE": {
