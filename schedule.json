@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4914,
+                            "id": 5044,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4916,
+                            "id": 5046,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4921,
+                            "id": 5053,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4918,
+                            "id": 5052,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4923,
+                            "id": 5048,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4920,
+                            "id": 5051,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4924,
+                            "id": 5054,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4919,
+                            "id": 5050,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4922,
+                            "id": 5049,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4929,
+                            "id": 5060,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4932,
+                            "id": 5059,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4931,
+                            "id": 5062,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4930,
+                            "id": 5061,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4934,
+                            "id": 5064,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1208,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4940,
+                            "id": 5069,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1290,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4941,
+                            "id": 5071,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1372,7 +1372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4939,
+                            "id": 5070,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1467,7 +1467,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4950,
+                            "id": 5078,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1549,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4953,
+                            "id": 5082,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1631,7 +1631,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4948,
+                            "id": 5079,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1713,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4952,
+                            "id": 5080,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1795,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4951,
+                            "id": 5081,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1877,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4949,
+                            "id": 5083,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1963,7 +1963,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4959,
+                            "id": 5089,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2045,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4958,
+                            "id": 5088,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2127,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4961,
+                            "id": 5090,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2209,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4960,
+                            "id": 5091,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2298,7 +2298,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4966,
+                            "id": 5098,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2380,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4969,
+                            "id": 5099,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2462,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4968,
+                            "id": 5096,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2544,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4967,
+                            "id": 5097,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2633,7 +2633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4975,
+                            "id": 5107,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2715,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4976,
+                            "id": 5105,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2797,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4974,
+                            "id": 5106,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2879,7 +2879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4977,
+                            "id": 5104,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2970,7 +2970,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 4979,
+                            "id": 5109,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3064,7 +3064,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4980,
+                            "id": 5110,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3153,7 +3153,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4981,
+                            "id": 5111,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3242,7 +3242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4983,
+                            "id": 5115,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3324,7 +3324,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4986,
+                            "id": 5114,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3406,7 +3406,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4987,
+                            "id": 5116,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3488,7 +3488,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4984,
+                            "id": 5117,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3570,7 +3570,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4985,
+                            "id": 5113,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3656,7 +3656,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4992,
+                            "id": 5123,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3738,7 +3738,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4995,
+                            "id": 5124,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3828,7 +3828,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4993,
+                            "id": 5125,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3910,7 +3910,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4994,
+                            "id": 5122,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4007,7 +4007,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5000,
+                            "id": 5130,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4089,7 +4089,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5002,
+                            "id": 5132,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4171,7 +4171,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5001,
+                            "id": 5131,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4271,7 +4271,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5012,
+                            "id": 5141,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4361,7 +4361,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5014,
+                            "id": 5143,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4443,7 +4443,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5010,
+                            "id": 5139,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4525,7 +4525,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5009,
+                            "id": 5142,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4607,7 +4607,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5011,
+                            "id": 5144,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4697,7 +4697,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5013,
+                            "id": 5140,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4786,7 +4786,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5020,
+                            "id": 5149,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4868,7 +4868,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5019,
+                            "id": 5152,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4950,7 +4950,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5021,
+                            "id": 5151,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5032,7 +5032,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5022,
+                            "id": 5150,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5118,7 +5118,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5028,
+                            "id": 5160,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5200,7 +5200,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5029,
+                            "id": 5157,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5282,7 +5282,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5030,
+                            "id": 5159,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5331,202 +5331,11 @@
                     "anonymised_data": "{}",
                     "assigned_reviewers": [],
                     "is_anonymised": false
-                },
-                "28": {
-                    "code": "RVPGJP",
-                    "title": "To be confirmed",
-                    "speakers": [],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "accepted",
-                    "description": "To be confirmed",
-                    "duration": 25,
-                    "slot_count": 2,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 5032,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T15:30:00+01:00",
-                            "end": "2026-11-01T15:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        },
-                        {
-                            "id": 5035,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T16:00:00+01:00",
-                            "end": "2026-11-01T16:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 566,
-                            "question": 4,
-                            "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
-                            "answer_file": null,
-                            "submission": "RVPGJP",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 14,
-                                    "answer": {
-                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
-                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
                 }
             },
             "940": {},
             "950": {},
-            "960": {
-                "28": {
-                    "code": "RVPGJP",
-                    "title": "To be confirmed",
-                    "speakers": [],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "accepted",
-                    "description": "To be confirmed",
-                    "duration": 25,
-                    "slot_count": 2,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 5032,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T15:30:00+01:00",
-                            "end": "2026-11-01T15:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        },
-                        {
-                            "id": 5035,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T16:00:00+01:00",
-                            "end": "2026-11-01T16:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 566,
-                            "question": 4,
-                            "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
-                            "answer_file": null,
-                            "submission": "RVPGJP",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 14,
-                                    "answer": {
-                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
-                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                }
-            },
+            "960": {},
             "970": {},
             "980": {},
             "990": {
@@ -5562,7 +5371,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5034,
+                            "id": 5164,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5667,7 +5476,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4908,
+                            "id": 5037,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5689,7 +5498,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4911,
+                            "id": 5042,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5740,110 +5549,6 @@
                     "is_anonymised": false
                 },
                 "29": {
-                    "code": "J7GABJ",
-                    "title": "AnyBlok",
-                    "speakers": [
-                        {
-                            "code": "QUCGWT",
-                            "name": "Jean-S\u00e9bastien Suzanne",
-                            "biography": "",
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 30,
-                        "name": {
-                            "en": "Sprint",
-                            "fr": "Sprint"
-                        },
-                        "default_duration": 420,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "AnyBlok est un framework applicatif Python hautement modulaire. Nous souhaitons concevoir et int\u00e9grer un syst\u00e8me nativement g\u00e9r\u00e9 de d\u00e9clencheurs (triggers) pour orchestrer le calcul automatique et r\u00e9actif des champs",
-                    "duration": 420,
-                    "slot_count": 2,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 4906,
-                            "room": {
-                                "id": 29,
-                                "name": {
-                                    "en": "LANG6",
-                                    "fr": "LANG6"
-                                },
-                                "description": {
-                                    "en": "Sprint & workshop room",
-                                    "fr": "Salle d'atelier"
-                                },
-                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 4
-                            },
-                            "start": "2026-10-29T10:00:00+01:00",
-                            "end": "2026-10-29T17:00:00+01:00",
-                            "description": null,
-                            "duration": 420
-                        },
-                        {
-                            "id": 4913,
-                            "room": {
-                                "id": 29,
-                                "name": {
-                                    "en": "LANG6",
-                                    "fr": "LANG6"
-                                },
-                                "description": {
-                                    "en": "Sprint & workshop room",
-                                    "fr": "Salle d'atelier"
-                                },
-                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 4
-                            },
-                            "start": "2026-10-30T10:00:00+01:00",
-                            "end": "2026-10-30T17:00:00+01:00",
-                            "description": null,
-                            "duration": 420
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 535,
-                            "question": 4,
-                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
-                            "answer_file": null,
-                            "submission": "J7GABJ",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 16,
-                                    "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "30": {
                     "code": "QWNNM8",
                     "title": "WitnessAngel - Faisons de la cryptographie sous Micropython",
                     "speakers": [
@@ -5875,21 +5580,21 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4907,
+                            "id": 5038,
                             "room": {
-                                "id": 30,
+                                "id": 29,
                                 "name": {
-                                    "en": "LANG7",
-                                    "fr": "LANG7"
+                                    "en": "LANG6",
+                                    "fr": "LANG6"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
+                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
                                 "guid": null,
-                                "capacity": 24,
-                                "position": 5
+                                "capacity": 40,
+                                "position": 4
                             },
                             "start": "2026-10-29T10:00:00+01:00",
                             "end": "2026-10-29T17:00:00+01:00",
@@ -5897,21 +5602,21 @@
                             "duration": 420
                         },
                         {
-                            "id": 4912,
+                            "id": 5040,
                             "room": {
-                                "id": 30,
+                                "id": 29,
                                 "name": {
-                                    "en": "LANG7",
-                                    "fr": "LANG7"
+                                    "en": "LANG6",
+                                    "fr": "LANG6"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
+                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
                                 "guid": null,
-                                "capacity": 24,
-                                "position": 5
+                                "capacity": 40,
+                                "position": 4
                             },
                             "start": "2026-10-30T10:00:00+01:00",
                             "end": "2026-10-30T17:00:00+01:00",
@@ -5947,7 +5652,7 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
-                "31": {
+                "30": {
                     "code": "WBHLNR",
                     "title": "Evals framework for Information Retrieval Systems",
                     "speakers": [
@@ -5979,21 +5684,21 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4909,
+                            "id": 5039,
                             "room": {
-                                "id": 31,
+                                "id": 30,
                                 "name": {
-                                    "en": "LANG8",
-                                    "fr": "LANG8"
+                                    "en": "LANG7",
+                                    "fr": "LANG7"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "b7ce7d35-c0bc-51f2-853a-3c7239c73a0e",
+                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
                                 "guid": null,
                                 "capacity": 24,
-                                "position": 6
+                                "position": 5
                             },
                             "start": "2026-10-29T10:00:00+01:00",
                             "end": "2026-10-29T17:00:00+01:00",
@@ -6001,21 +5706,21 @@
                             "duration": 420
                         },
                         {
-                            "id": 4910,
+                            "id": 5041,
                             "room": {
-                                "id": 31,
+                                "id": 30,
                                 "name": {
-                                    "en": "LANG8",
-                                    "fr": "LANG8"
+                                    "en": "LANG7",
+                                    "fr": "LANG7"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "b7ce7d35-c0bc-51f2-853a-3c7239c73a0e",
+                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
                                 "guid": null,
                                 "capacity": 24,
-                                "position": 6
+                                "position": 5
                             },
                             "start": "2026-10-30T10:00:00+01:00",
                             "end": "2026-10-30T17:00:00+01:00",
@@ -6143,7 +5848,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4908,
+                            "id": 5037,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6165,7 +5870,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 4911,
+                            "id": 5042,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6216,110 +5921,6 @@
                     "is_anonymised": false
                 },
                 "29": {
-                    "code": "J7GABJ",
-                    "title": "AnyBlok",
-                    "speakers": [
-                        {
-                            "code": "QUCGWT",
-                            "name": "Jean-S\u00e9bastien Suzanne",
-                            "biography": "",
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 30,
-                        "name": {
-                            "en": "Sprint",
-                            "fr": "Sprint"
-                        },
-                        "default_duration": 420,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "AnyBlok est un framework applicatif Python hautement modulaire. Nous souhaitons concevoir et int\u00e9grer un syst\u00e8me nativement g\u00e9r\u00e9 de d\u00e9clencheurs (triggers) pour orchestrer le calcul automatique et r\u00e9actif des champs",
-                    "duration": 420,
-                    "slot_count": 2,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 4906,
-                            "room": {
-                                "id": 29,
-                                "name": {
-                                    "en": "LANG6",
-                                    "fr": "LANG6"
-                                },
-                                "description": {
-                                    "en": "Sprint & workshop room",
-                                    "fr": "Salle d'atelier"
-                                },
-                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 4
-                            },
-                            "start": "2026-10-29T10:00:00+01:00",
-                            "end": "2026-10-29T17:00:00+01:00",
-                            "description": null,
-                            "duration": 420
-                        },
-                        {
-                            "id": 4913,
-                            "room": {
-                                "id": 29,
-                                "name": {
-                                    "en": "LANG6",
-                                    "fr": "LANG6"
-                                },
-                                "description": {
-                                    "en": "Sprint & workshop room",
-                                    "fr": "Salle d'atelier"
-                                },
-                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 4
-                            },
-                            "start": "2026-10-30T10:00:00+01:00",
-                            "end": "2026-10-30T17:00:00+01:00",
-                            "description": null,
-                            "duration": 420
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 535,
-                            "question": 4,
-                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
-                            "answer_file": null,
-                            "submission": "J7GABJ",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 16,
-                                    "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "30": {
                     "code": "QWNNM8",
                     "title": "WitnessAngel - Faisons de la cryptographie sous Micropython",
                     "speakers": [
@@ -6351,21 +5952,21 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4907,
+                            "id": 5038,
                             "room": {
-                                "id": 30,
+                                "id": 29,
                                 "name": {
-                                    "en": "LANG7",
-                                    "fr": "LANG7"
+                                    "en": "LANG6",
+                                    "fr": "LANG6"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
+                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
                                 "guid": null,
-                                "capacity": 24,
-                                "position": 5
+                                "capacity": 40,
+                                "position": 4
                             },
                             "start": "2026-10-29T10:00:00+01:00",
                             "end": "2026-10-29T17:00:00+01:00",
@@ -6373,21 +5974,21 @@
                             "duration": 420
                         },
                         {
-                            "id": 4912,
+                            "id": 5040,
                             "room": {
-                                "id": 30,
+                                "id": 29,
                                 "name": {
-                                    "en": "LANG7",
-                                    "fr": "LANG7"
+                                    "en": "LANG6",
+                                    "fr": "LANG6"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
+                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
                                 "guid": null,
-                                "capacity": 24,
-                                "position": 5
+                                "capacity": 40,
+                                "position": 4
                             },
                             "start": "2026-10-30T10:00:00+01:00",
                             "end": "2026-10-30T17:00:00+01:00",
@@ -6423,7 +6024,7 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
-                "31": {
+                "30": {
                     "code": "WBHLNR",
                     "title": "Evals framework for Information Retrieval Systems",
                     "speakers": [
@@ -6455,21 +6056,21 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 4909,
+                            "id": 5039,
                             "room": {
-                                "id": 31,
+                                "id": 30,
                                 "name": {
-                                    "en": "LANG8",
-                                    "fr": "LANG8"
+                                    "en": "LANG7",
+                                    "fr": "LANG7"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "b7ce7d35-c0bc-51f2-853a-3c7239c73a0e",
+                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
                                 "guid": null,
                                 "capacity": 24,
-                                "position": 6
+                                "position": 5
                             },
                             "start": "2026-10-29T10:00:00+01:00",
                             "end": "2026-10-29T17:00:00+01:00",
@@ -6477,21 +6078,21 @@
                             "duration": 420
                         },
                         {
-                            "id": 4910,
+                            "id": 5041,
                             "room": {
-                                "id": 31,
+                                "id": 30,
                                 "name": {
-                                    "en": "LANG8",
-                                    "fr": "LANG8"
+                                    "en": "LANG7",
+                                    "fr": "LANG7"
                                 },
                                 "description": {
                                     "en": "Sprint & workshop room",
                                     "fr": "Salle d'atelier"
                                 },
-                                "uuid": "b7ce7d35-c0bc-51f2-853a-3c7239c73a0e",
+                                "uuid": "6bfb0e86-79a8-5eee-9644-445cd986ac5f",
                                 "guid": null,
                                 "capacity": 24,
-                                "position": 6
+                                "position": 5
                             },
                             "start": "2026-10-30T10:00:00+01:00",
                             "end": "2026-10-30T17:00:00+01:00",
@@ -6747,8 +6348,7 @@
                     "allDay": false
                 }
             ],
-            "in_conferences": true,
-            "in_sprints": true
+            "in_conferences": true
         },
         {
             "id": 32,
