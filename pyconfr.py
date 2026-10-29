@@ -3,7 +3,7 @@ from pathlib import Path
 
 from babel.dates import format_date, format_time, format_timedelta
 from datetime import date, time, timedelta
-from flask import Flask, Response, render_template, url_for
+from flask import Flask, Response, render_template, url_for, redirect
 from flask_frozen import Freezer
 from flask_weasyprint import render_pdf
 from markdown2 import Markdown
@@ -84,6 +84,11 @@ def talks(lang, category):
         f'{lang}/talks.jinja2.html', lang=lang, page_name='talks',
         category=category, title=TALK_CATEGORIES[category]['name'][lang],
         schedule=SCHEDULE, categories=TALK_CATEGORIES)
+
+
+@app.route(f'/{YEAR}/<lang>/sprints.html')
+def sprints(lang):
+    return redirect(f'/{YEAR}/{lang}/talks/sprint.html')
 
 
 @app.route(f'/{YEAR}/<lang>/full-schedule.html')
