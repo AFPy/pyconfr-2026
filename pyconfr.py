@@ -105,7 +105,8 @@ def pdf_schedule(lang):
 
 @app.route(f'/{YEAR}/<lang>/calendar.ics')
 def calendar(lang):
-    ics = render_template('calendar.jinja2.ics', lang=lang, schedule=SCHEDULE)
+    ics = render_template(
+        'calendar.jinja2.ics', lang=lang, schedule=SCHEDULE, year=YEAR)
     return Response(ics, mimetype='text/calendar')
 
 
