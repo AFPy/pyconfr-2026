@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-NAME:PyConFR 2025
+NAME:PyConFR {{ year }}
 PRODID:-//PyConFR//NONSGML PyConFR//{{ lang | upper }}
 {%- for day, hours in schedule.schedule.items() -%}
   {%- for minutes, talks in hours.items() -%}
