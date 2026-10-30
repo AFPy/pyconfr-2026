@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5429,
+                            "id": 5684,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -93,15 +93,15 @@
             "570": {},
             "580": {
                 "25": {
-                    "code": "88J8YP",
-                    "title": "Le mot esquive, l'instrument tranche : autonomie strat\u00e9gique, souverainet\u00e9 num\u00e9rique et l'\u00e9preuve de la cyber",
+                    "code": "S3H7WV",
+                    "title": "Pl\u00e9ni\u00e8re surprise",
                     "speakers": [
                         {
-                            "code": "YCGAZD",
-                            "name": "Rayna Stamboliyska",
-                            "biography": "Fondatrice et CEO de RS Strategy",
+                            "code": "8RFSMY",
+                            "name": "AFPy",
+                            "biography": null,
                             "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/YCGAZD_5bp8rhc.jpg",
+                            "avatar_url": "",
                             "answers": []
                         }
                     ],
@@ -117,14 +117,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "\u00ab\u00a0Autonomie strat\u00e9gique \u00bb et \u00ab souverainet\u00e9 num\u00e9rique \u00bb sont devenus des mots-valises que le d\u00e9bat public traite en synonymes. Or, ils ne le sont pas. Le premier vient de la politique de d\u00e9fense et d\u00e9signe une capacit\u00e9 d'agir dans un monde interd\u00e9pendant, sans viser l'autarcie. Le second vient du march\u00e9 et du r\u00e9glementaire, et d\u00e9signe un contr\u00f4le, sur les infrastructures comme sur les fournisseurs. Cette conf\u00e9rence part de ce brouillage pour en exposer les effets et la fonction, plut\u00f4t que pour arbitrer entre les d\u00e9finitions.\r\n\r\nLe flou est fonctionnel. Un vocabulaire vague permet \u00e0 des projets incompatibles (politique industrielle nationale, agenda r\u00e9glementaire europ\u00e9en, protection des droits, contr\u00f4le s\u00e9curitaire) de faire coalition sous une m\u00eame banni\u00e8re. Sous les deux mots se logent au moins cinq tensions distinctes, \u00e0 commencer par celle qui s\u00e9pare la capacit\u00e9 (pouvoir faire) du contr\u00f4le (pouvoir d\u00e9cider) : un \u00c9tat peut \u00eatre souverain en droit et incapable en pratique.\r\n\r\nLa cyber est le lieu o\u00f9 ce flou devient co\u00fbteux, parce que les dispositifs tranchent l\u00e0 o\u00f9 les mots esquivent : un produit est certifi\u00e9 ou il ne l'est pas, une vuln\u00e9rabilit\u00e9 est divulgu\u00e9e ou retenue, un fournisseur est exclu ou maintenu. La r\u00e9vision du Cybersecurity Act (CSA2) sert de d\u00e9monstration. Un seul texte se d\u00e9ploie sur trois axes qui ne disent pas la m\u00eame chose (mont\u00e9e en capacit\u00e9 d'ENISA, pouvoir de certification, exclusion des fournisseurs \u00e0 haut risque), ce qui explique que ceux qui le d\u00e9fendent d\u00e9fendent rarement la m\u00eame chose.",
+                    "description": "Venez et profitez",
                     "duration": 45,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5431,
+                            "id": 5686,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -148,11 +148,11 @@
                     ],
                     "answers": [
                         {
-                            "id": 563,
+                            "id": 570,
                             "question": 4,
                             "answer": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9...",
                             "answer_file": null,
-                            "submission": "88J8YP",
+                            "submission": "S3H7WV",
                             "review": null,
                             "person": null,
                             "options": [
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5437,
+                            "id": 5688,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5439,
+                            "id": 5691,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5436,
+                            "id": 5694,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5433,
+                            "id": 5689,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5438,
+                            "id": 5690,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5434,
+                            "id": 5693,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5435,
+                            "id": 5692,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5447,
+                            "id": 5701,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5445,
+                            "id": 5699,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5444,
+                            "id": 5700,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5446,
+                            "id": 5702,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5449,
+                            "id": 5704,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1208,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5456,
+                            "id": 5709,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1290,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5454,
+                            "id": 5711,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1372,7 +1372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5455,
+                            "id": 5710,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1467,7 +1467,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5467,
+                            "id": 5718,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1549,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5466,
+                            "id": 5719,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1631,7 +1631,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5468,
+                            "id": 5722,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1713,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5463,
+                            "id": 5720,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1795,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5464,
+                            "id": 5723,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1877,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5465,
+                            "id": 5721,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1963,7 +1963,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5475,
+                            "id": 5731,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2045,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5474,
+                            "id": 5729,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2127,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5476,
+                            "id": 5730,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2209,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5473,
+                            "id": 5728,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2298,7 +2298,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5483,
+                            "id": 5737,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2380,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5484,
+                            "id": 5738,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2462,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5481,
+                            "id": 5739,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2544,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5482,
+                            "id": 5736,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2633,7 +2633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5492,
+                            "id": 5746,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2715,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5489,
+                            "id": 5745,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2797,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5490,
+                            "id": 5747,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2879,7 +2879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5491,
+                            "id": 5744,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2970,7 +2970,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 5494,
+                            "id": 5749,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3064,7 +3064,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5495,
+                            "id": 5750,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3153,7 +3153,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5496,
+                            "id": 5751,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3242,7 +3242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5500,
+                            "id": 5757,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3299,7 +3299,7 @@
                         {
                             "code": "7PC3SF",
                             "name": "\u00c9loi Rivard",
-                            "biography": "D\u00e9veloppeur depuis presque 20 ans, et sp\u00e9cialis\u00e9 en Python depuis 15 ans, je m'int\u00e9resse particuli\u00e8rement aux protocoles d'authentification et de provisionnement (OAuth2 et OpenID Connect, SICM)\r\n\r\nJe suis associ\u00e9 \u00e0 Yaal Coop, une coop\u00e9rative de pythonistes \u00e0 Bordeaux.",
+                            "biography": "D\u00e9veloppeur depuis presque 20 ans, et sp\u00e9cialis\u00e9 en Python depuis 15 ans, je m'int\u00e9resse particuli\u00e8rement aux protocoles d'authentification et de provisionnement (OAuth2 et OpenID Connect, SICM)\r\n\r\nJe suis mainteneur de plusieurs biblioth\u00e8ques Python sur ces sujets : [Authlib](https://authlib.org/), [python-scim](https://github.com/python-scim) et [Canaille](https://canaille.readthedocs.io/) mais aussi de projets plus g\u00e9n\u00e9ralistes comme [WTForms](https://github.com/pallets-eco/wtforms).\r\n\r\nJe suis associ\u00e9 \u00e0 Yaal Coop, une coop\u00e9rative de pythonistes \u00e0 Bordeaux.",
                             "submissions": [],
                             "avatar_url": "https://cfp.pycon.fr/media/avatars/7PC3SF_ymN5yKU.jpg",
                             "answers": []
@@ -3317,14 +3317,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Et si on \u00e9crivait des formulaires web dynamiques - comboboxes avec auto-compl\u00e9tion dynamique, champs qui se remplissent tout seuls, aper\u00e7u markdown en direct etc. - enti\u00e8rement en Python, sans \u00e9crire de JavaScript, ni m\u00eame de htmx ?\r\n\r\nwtforms-htmx rend \u00e7a possible en s'appuyant sur htmx, et WTForms, une v\u00e9n\u00e9rable et agnostique biblioth\u00e8que de formulaires.\r\n\r\nJe fais une d\u00e9mo de plusieurs cas d'usage concrets, puis on fait une courte pr\u00e9sentation de WTForms, et on regarde comment g\u00e9n\u00e9rer ces interactions en quelques lignes avec wtforms-htmx, et comment elle garantit que tout fonctionne aussi sans JavaScript.",
+                    "description": "Et si on \u00e9crivait des formulaires web dynamiques - comboboxes avec auto-compl\u00e9tion dynamique, champs qui se remplissent tout seuls, aper\u00e7u markdown en direct etc. - enti\u00e8rement en Python, sans \u00e9crire de JavaScript, ni m\u00eame de htmx ?\r\n\r\n[wtforms-htmx](https://wtforms-htmx.readthedocs.io/) rend \u00e7a possible en s'appuyant sur [htmx](https://htmx.org/), et [WTForms](wtforms.readthedocs.io/), une v\u00e9n\u00e9rable et agnostique biblioth\u00e8que de formulaires.\r\n\r\nJe fais une d\u00e9mo de plusieurs cas d'usage concrets, puis on fait une courte pr\u00e9sentation de WTForms, et on regarde comment g\u00e9n\u00e9rer ces interactions en quelques lignes avec wtforms-htmx, et comment elle garantit que tout fonctionne aussi sans JavaScript.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5499,
+                            "id": 5755,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3406,7 +3406,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5501,
+                            "id": 5753,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3488,7 +3488,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5498,
+                            "id": 5754,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3570,7 +3570,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5502,
+                            "id": 5756,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3656,7 +3656,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5510,
+                            "id": 5763,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3738,7 +3738,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5508,
+                            "id": 5765,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3828,7 +3828,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5509,
+                            "id": 5764,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3910,7 +3910,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5507,
+                            "id": 5762,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3967,96 +3967,6 @@
             "730": {},
             "740": {},
             "750": {
-                "28": {
-                    "code": "GPDP8U",
-                    "title": "One Prompt, Fifty Coroutines: What AI Agents Teach Us About Async Python",
-                    "speakers": [
-                        {
-                            "code": "DS3RQY",
-                            "name": "Aditi Gupta",
-                            "biography": "Aditi Gupta is a Software Engineer at Disney+ Hotstar, working on high-scale distributed systems serving millions of users. Her work focuses on performance, reliability, and observability under high-concurrency conditions.\r\nShe has experience in cloud-native technologies, including containerisation, microservices architecture, and Kubernetes-based orchestration. Her interests span across distributed systems, cloud-native platforms, and AI/ML-driven workflows with current focus on applying distributed systems and observability principles to AI-driven workflows - making agentic systems more traceable, debuggable, and production-ready.\r\nA specialist in Kubernetes orchestration and cloud-native reliability, she bridges AI-driven workflows and production observability - making agentic systems traceable, debuggable, and enterprise-ready. A recurring speaker at KubeCon NA and Open Source Summit, she presents on system behavior, complex workflow tracing, and debugging massive-scale cloud failures.",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/DS3RQY_zZ02UdN.jpeg",
-                            "answers": []
-                        },
-                        {
-                            "code": "W3SCUY",
-                            "name": "Shuva Jyoti Kar",
-                            "biography": "Shuva is a Principal Engineer at Palo Alto Networks, architecting secure enterprise AI platforms. An author of two upcoming books: Engineering the Data Agent Control Plane (O'Reilly) and Agent Skills in Action (Manning), he has also been an open-source contributor/maintainer; his work bridges experimental AI and 'Day 2' production reality. He is a ClickHouse Community Champion, Confluent Catalyst, and speaker at multiple Kubecon and Open Source Summits on scalable, zero-trust data architectures.",
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Large language models spend surprisingly little time executing Python code. Most of an AI agent's lifetime is spent waiting for model responses, tool calls, vector databases, APIs, and sometimes even humans. Modern AI applications are fundamentally I/O-bound systems, making Python's asynchronous runtime one of the most important tools for building responsive, scalable software.\r\nIn this session, we'll build a functional AI agent and use it to explore the async programming patterns that power modern Python applications. As the agent evolves from making a single model call to coordinating multiple tools and concurrent workflows, we'll introduce practical techniques including asyncio. TaskGroup, structured concurrency, semaphores, cancellation, timeouts, streaming responses, and execution context with contextvars. Each concept will be demonstrated in the context of solving a real engineering problem rather than as an isolated language feature.\r\nAlthough AI agents provide the motivating example, this is fundamentally a talk about Python. The concurrency patterns we'll explore apply equally to FastAPI services, asynchronous APIs, background workers, data pipelines, and distributed applications. Along the way, we'll discuss common pitfalls, performance trade-offs, and practical techniques for writing concurrent code that is both responsive and maintainable.\r\nYou'll leave with a practical mental model of Python's asynchronous runtime and a toolkit of reusable patterns you can immediately apply to any modern I/O-bound Python application, whether it uses AI or not.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 5515,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T12:30:00+01:00",
-                            "end": "2026-11-01T12:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 513,
-                            "question": 4,
-                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
-                            "answer_file": null,
-                            "submission": "GPDP8U",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 15,
-                                    "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "25": {
                     "code": "LWZU39",
                     "title": "Comment modifier sa base de donn\u00e9es sans interruption de service",
@@ -4089,7 +3999,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5516,
+                            "id": 5770,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4171,7 +4081,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5517,
+                            "id": 5771,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4271,7 +4181,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5526,
+                            "id": 5781,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4361,7 +4271,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5524,
+                            "id": 5780,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4443,7 +4353,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5529,
+                            "id": 5783,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4525,7 +4435,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5525,
+                            "id": 5778,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4607,7 +4517,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5527,
+                            "id": 5782,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4697,7 +4607,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5528,
+                            "id": 5779,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4786,7 +4696,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5537,
+                            "id": 5791,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4868,7 +4778,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5536,
+                            "id": 5790,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4950,7 +4860,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5535,
+                            "id": 5788,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5032,7 +4942,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5534,
+                            "id": 5789,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5118,7 +5028,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5542,
+                            "id": 5795,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5200,7 +5110,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5541,
+                            "id": 5797,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5282,7 +5192,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5543,
+                            "id": 5796,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5371,7 +5281,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5545,
+                            "id": 5799,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5476,7 +5386,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5422,
+                            "id": 5677,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5498,7 +5408,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5425,
+                            "id": 5683,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5580,7 +5490,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5419,
+                            "id": 5678,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5602,7 +5512,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5427,
+                            "id": 5679,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5684,7 +5594,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5420,
+                            "id": 5675,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5706,7 +5616,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5426,
+                            "id": 5680,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5788,7 +5698,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5421,
+                            "id": 5674,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5810,7 +5720,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5428,
+                            "id": 5682,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5892,7 +5802,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5423,
+                            "id": 5676,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -5914,7 +5824,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5424,
+                            "id": 5681,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6056,7 +5966,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5422,
+                            "id": 5677,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6078,7 +5988,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5425,
+                            "id": 5683,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6160,7 +6070,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5419,
+                            "id": 5678,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6182,7 +6092,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5427,
+                            "id": 5679,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6232,6 +6142,87 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
+                "33": {
+                    "code": "BSQK8U",
+                    "title": "Hyperflask, framework web full stack pour simplifier et acc\u00e9l\u00e9rer le dev web",
+                    "speakers": [
+                        {
+                            "code": "SWBGYE",
+                            "name": "Maxime Bouroumeau-Fuseau",
+                            "biography": "D\u00e9veloppeur web full-stack et co-fondateur de Kantree",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/SWBGYE_opn4OS4.jpg",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 30,
+                        "name": {
+                            "en": "Sprint",
+                            "fr": "Sprint"
+                        },
+                        "default_duration": 420,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Introduction du framework et travail sur l\u2019ajout d\u2019une interface d\u2019administration et d\u2019outils pour d\u00e9velopper vos des agents",
+                    "duration": 420,
+                    "slot_count": 1,
+                    "content_locale": "en",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 5800,
+                            "room": {
+                                "id": 33,
+                                "name": {
+                                    "fr": "UR"
+                                },
+                                "description": {
+                                    "en": "Sprint room",
+                                    "fr": "Salle de sprint"
+                                },
+                                "uuid": "fafd7bff-2d0a-582d-abc4-66c5b774f81c",
+                                "guid": null,
+                                "capacity": 24,
+                                "position": null
+                            },
+                            "start": "2026-10-30T10:00:00+01:00",
+                            "end": "2026-10-30T17:00:00+01:00",
+                            "description": null,
+                            "duration": 420
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 571,
+                            "question": 4,
+                            "answer": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir",
+                            "answer_file": null,
+                            "submission": "BSQK8U",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 16,
+                                    "answer": {
+                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
+                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
                 "29": {
                     "code": "QWNNM8",
                     "title": "WitnessAngel - Faisons de la cryptographie sous Micropython",
@@ -6264,7 +6255,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5420,
+                            "id": 5675,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6286,7 +6277,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5426,
+                            "id": 5680,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6368,7 +6359,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5421,
+                            "id": 5674,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6390,7 +6381,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5428,
+                            "id": 5682,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6472,7 +6463,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5423,
+                            "id": 5676,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6494,7 +6485,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5424,
+                            "id": 5681,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6811,7 +6802,8 @@
                     "end": "2026-10-31T00:00:00+01:00",
                     "allDay": false
                 }
-            ]
+            ],
+            "in_sprints": true
         },
         {
             "id": 34,
@@ -6908,12 +6900,12 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/schtroumpf_flat_rounded_big_md8PJUj.png",
             "answers": []
         },
-        "YCGAZD": {
-            "code": "YCGAZD",
-            "name": "Rayna Stamboliyska",
-            "biography": "Fondatrice et CEO de RS Strategy",
+        "8RFSMY": {
+            "code": "8RFSMY",
+            "name": "AFPy",
+            "biography": null,
             "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/YCGAZD_5bp8rhc.jpg",
+            "avatar_url": "",
             "answers": []
         },
         "8RHDWT": {
@@ -7164,14 +7156,6 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/AGUFP9_DJtqv7E.jpg",
             "answers": []
         },
-        "8RFSMY": {
-            "code": "8RFSMY",
-            "name": "AFPy",
-            "biography": null,
-            "submissions": [],
-            "avatar_url": "",
-            "answers": []
-        },
         "PSTZTH": {
             "code": "PSTZTH",
             "name": "Laurent Direr",
@@ -7183,7 +7167,7 @@
         "7PC3SF": {
             "code": "7PC3SF",
             "name": "\u00c9loi Rivard",
-            "biography": "D\u00e9veloppeur depuis presque 20 ans, et sp\u00e9cialis\u00e9 en Python depuis 15 ans, je m'int\u00e9resse particuli\u00e8rement aux protocoles d'authentification et de provisionnement (OAuth2 et OpenID Connect, SICM)\r\n\r\nJe suis associ\u00e9 \u00e0 Yaal Coop, une coop\u00e9rative de pythonistes \u00e0 Bordeaux.",
+            "biography": "D\u00e9veloppeur depuis presque 20 ans, et sp\u00e9cialis\u00e9 en Python depuis 15 ans, je m'int\u00e9resse particuli\u00e8rement aux protocoles d'authentification et de provisionnement (OAuth2 et OpenID Connect, SICM)\r\n\r\nJe suis mainteneur de plusieurs biblioth\u00e8ques Python sur ces sujets : [Authlib](https://authlib.org/), [python-scim](https://github.com/python-scim) et [Canaille](https://canaille.readthedocs.io/) mais aussi de projets plus g\u00e9n\u00e9ralistes comme [WTForms](https://github.com/pallets-eco/wtforms).\r\n\r\nJe suis associ\u00e9 \u00e0 Yaal Coop, une coop\u00e9rative de pythonistes \u00e0 Bordeaux.",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/7PC3SF_ymN5yKU.jpg",
             "answers": []
@@ -7248,22 +7232,6 @@
             "code": "DR3RTG",
             "name": "Denis Vivi\u00e8s",
             "biography": null,
-            "submissions": [],
-            "avatar_url": "",
-            "answers": []
-        },
-        "DS3RQY": {
-            "code": "DS3RQY",
-            "name": "Aditi Gupta",
-            "biography": "Aditi Gupta is a Software Engineer at Disney+ Hotstar, working on high-scale distributed systems serving millions of users. Her work focuses on performance, reliability, and observability under high-concurrency conditions.\r\nShe has experience in cloud-native technologies, including containerisation, microservices architecture, and Kubernetes-based orchestration. Her interests span across distributed systems, cloud-native platforms, and AI/ML-driven workflows with current focus on applying distributed systems and observability principles to AI-driven workflows - making agentic systems more traceable, debuggable, and production-ready.\r\nA specialist in Kubernetes orchestration and cloud-native reliability, she bridges AI-driven workflows and production observability - making agentic systems traceable, debuggable, and enterprise-ready. A recurring speaker at KubeCon NA and Open Source Summit, she presents on system behavior, complex workflow tracing, and debugging massive-scale cloud failures.",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/DS3RQY_zZ02UdN.jpeg",
-            "answers": []
-        },
-        "W3SCUY": {
-            "code": "W3SCUY",
-            "name": "Shuva Jyoti Kar",
-            "biography": "Shuva is a Principal Engineer at Palo Alto Networks, architecting secure enterprise AI platforms. An author of two upcoming books: Engineering the Data Agent Control Plane (O'Reilly) and Agent Skills in Action (Manning), he has also been an open-source contributor/maintainer; his work bridges experimental AI and 'Day 2' production reality. He is a ClickHouse Community Champion, Confluent Catalyst, and speaker at multiple Kubecon and Open Source Summits on scalable, zero-trust data architectures.",
             "submissions": [],
             "avatar_url": "",
             "answers": []
