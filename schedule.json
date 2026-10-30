@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5939,
+                            "id": 6068,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -124,7 +124,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5941,
+                            "id": 6070,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5947,
+                            "id": 6078,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5949,
+                            "id": 6076,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5945,
+                            "id": 6074,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5944,
+                            "id": 6075,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5943,
+                            "id": 6072,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5946,
+                            "id": 6073,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5948,
+                            "id": 6077,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5954,
+                            "id": 6083,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5956,
+                            "id": 6086,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5957,
+                            "id": 6084,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5955,
+                            "id": 6085,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5959,
+                            "id": 6088,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1208,7 +1208,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5964,
+                            "id": 6094,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1290,7 +1290,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5965,
+                            "id": 6093,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1372,7 +1372,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5966,
+                            "id": 6095,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1467,7 +1467,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5977,
+                            "id": 6106,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1549,7 +1549,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5973,
+                            "id": 6102,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1631,7 +1631,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5975,
+                            "id": 6107,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1713,7 +1713,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5974,
+                            "id": 6105,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1795,7 +1795,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5976,
+                            "id": 6104,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1877,7 +1877,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5978,
+                            "id": 6103,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1963,7 +1963,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5983,
+                            "id": 6112,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2045,7 +2045,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5984,
+                            "id": 6113,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2127,7 +2127,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5985,
+                            "id": 6114,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2209,7 +2209,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5986,
+                            "id": 6115,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2298,7 +2298,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5993,
+                            "id": 6123,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2380,7 +2380,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5991,
+                            "id": 6120,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2462,7 +2462,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5994,
+                            "id": 6122,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2544,7 +2544,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5992,
+                            "id": 6121,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2633,7 +2633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6000,
+                            "id": 6130,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2715,7 +2715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6002,
+                            "id": 6129,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2797,7 +2797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6001,
+                            "id": 6131,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2879,7 +2879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5999,
+                            "id": 6128,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2970,7 +2970,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 6004,
+                            "id": 6133,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3064,7 +3064,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6005,
+                            "id": 6134,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3153,7 +3153,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6006,
+                            "id": 6135,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3242,7 +3242,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6009,
+                            "id": 6138,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3324,7 +3324,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6012,
+                            "id": 6141,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3406,7 +3406,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6010,
+                            "id": 6137,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3488,7 +3488,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6011,
+                            "id": 6139,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3570,7 +3570,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6008,
+                            "id": 6140,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3656,7 +3656,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6020,
+                            "id": 6148,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3738,7 +3738,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6017,
+                            "id": 6146,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3828,7 +3828,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6018,
+                            "id": 6149,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3910,7 +3910,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6019,
+                            "id": 6147,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3999,7 +3999,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6025,
+                            "id": 6154,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4081,7 +4081,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6026,
+                            "id": 6155,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4181,7 +4181,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6037,
+                            "id": 6162,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4271,7 +4271,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6033,
+                            "id": 6165,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4353,7 +4353,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6036,
+                            "id": 6166,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4435,7 +4435,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6034,
+                            "id": 6164,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4517,7 +4517,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6038,
+                            "id": 6163,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -4607,7 +4607,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6035,
+                            "id": 6167,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4696,7 +4696,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6043,
+                            "id": 6175,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -4778,7 +4778,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6045,
+                            "id": 6173,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4860,7 +4860,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6046,
+                            "id": 6174,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4942,7 +4942,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6044,
+                            "id": 6172,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5028,7 +5028,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6052,
+                            "id": 6180,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5110,7 +5110,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6050,
+                            "id": 6179,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5192,7 +5192,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6051,
+                            "id": 6181,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5281,7 +5281,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6054,
+                            "id": 6183,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5386,7 +5386,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5930,
+                            "id": 6056,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5408,7 +5408,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5937,
+                            "id": 6062,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5490,7 +5490,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5932,
+                            "id": 6059,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5512,7 +5512,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5933,
+                            "id": 6065,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5594,7 +5594,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6055,
+                            "id": 6058,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -5615,7 +5615,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5936,
+                            "id": 6067,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -5664,6 +5664,108 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
+                "34": {
+                    "code": "H9DH7V",
+                    "title": "Restore ton PC : ta machine enti\u00e8re dans un script pyinfra",
+                    "speakers": [
+                        {
+                            "code": "Z83GGB",
+                            "name": "Lo\u00efc Tosser",
+                            "biography": "Bonjour ! Je suis Lo\u00efc Tosser, alias wowi42, un geek fran\u00e7ais passionn\u00e9 de tech, de systems engineering et de powerlifting. Je r\u00e9unis une combinaison singuli\u00e8re de comp\u00e9tences en IT, s\u00e9curit\u00e9, infrastructure, automatisation et data streaming.\r\n\r\nJ'ai commenc\u00e9 mon parcours en sortant dipl\u00f4m\u00e9 de l'une des meilleures \u00e9coles d'informatique d'Europe, avant de me lancer dans une aventure internationale avec un programme d'\u00e9change d'un an dans la premi\u00e8re universit\u00e9 de t\u00e9l\u00e9communications de Russie. Cela m'a conduit aux \u00c9mirats arabes unis, o\u00f9 j'occupe des postes de CTO pour des startups et des institutions gouvernementales depuis plus de 12 ans.\r\n\r\nJe crois fermement \u00e0 la force de l'open source et j'ai contribu\u00e9 \u00e0 des projets comme PyInfra, Arch, Alpine, Python et Django. J'aime travailler avec des technologies telles que FreeBSD, Alpine Linux, PostgreSQL et bien d'autres. Quand je ne code pas, vous me trouverez \u00e0 la salle \u00e0 soulever des trucs lourds ou \u00e0 \u00e9crire sur la tech sur mon blog. J'ai toujours plaisir \u00e0 \u00e9changer avec d'autres passionn\u00e9s de tech, alors n'h\u00e9sitez pas \u00e0 me contacter pour discuter de tout, de l'automatisation au powerlifting !\r\n\r\nEt n'oubliez pas : le savoir, c'est le pouvoir ! \ud83d\udcaa\ud83c\udf10",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/Z83GGB_8byTeSA.jpg",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 30,
+                        "name": {
+                            "en": "Sprint",
+                            "fr": "Sprint"
+                        },
+                        "default_duration": 420,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Disque mort, laptop perdu, nouvelle machine : combien de temps pour retrouver TON environnement ? Si la r\u00e9ponse fait peur, ce sprint est pour toi.\r\n\r\nL'id\u00e9e : encoder toute sa machine dans pyinfra, l'outil d'automatisation en pur Python, sans YAML ni agent. Dotfiles, config shell, outils CLI, polices, environnements de dev : tout devient du Python versionn\u00e9. Et tout se passe en userland, sans droits admin : uv, ~/.local, systemctl --user, ports hauts.\r\nPour tester sans risque, on restaure dans des conteneurs rootless sacrifiables. La boucle de travail du sprint : \u00e9cris, d\u00e9truis, restaure, recommence. Et le grand final : une course de restauration, chacun d\u00e9truit son environnement de test et le reconstruit en une commande. Le plus rapide gagne, le plus complet aussi.\r\n\r\nAu programme : prise en main de pyinfra (connecteurs @local et @docker, op\u00e9rations, mode --dry), strat\u00e9gies de sauvegarde de sa config, secrets et gestion des cl\u00e9s, et chacun repart avec SON script de restauration, pr\u00eat pour le jour o\u00f9 sa machine rendra l'\u00e2me. Ce jour-l\u00e0, tu seras la seule personne calme dans la pi\u00e8ce.\r\n\r\nTous niveaux bienvenus.\r\nPr\u00e9requis : un laptop avec Linux (ou une VM) et Python.\r\nAucun droit admin n\u00e9cessaire.",
+                    "duration": 420,
+                    "slot_count": 2,
+                    "content_locale": "fr",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 6184,
+                            "room": {
+                                "id": 34,
+                                "name": {
+                                    "fr": "SU"
+                                },
+                                "description": {
+                                    "en": "Sprint room",
+                                    "fr": "Salle de sprint"
+                                },
+                                "uuid": "d43de80f-d751-540d-bfba-5a153ca2996c",
+                                "guid": null,
+                                "capacity": 22,
+                                "position": null
+                            },
+                            "start": "2026-10-29T10:00:00+01:00",
+                            "end": "2026-10-29T17:00:00+01:00",
+                            "description": null,
+                            "duration": 420
+                        },
+                        {
+                            "id": 6185,
+                            "room": {
+                                "id": 34,
+                                "name": {
+                                    "fr": "SU"
+                                },
+                                "description": {
+                                    "en": "Sprint room",
+                                    "fr": "Salle de sprint"
+                                },
+                                "uuid": "d43de80f-d751-540d-bfba-5a153ca2996c",
+                                "guid": null,
+                                "capacity": 22,
+                                "position": null
+                            },
+                            "start": "2026-10-30T10:00:00+01:00",
+                            "end": "2026-10-30T17:00:00+01:00",
+                            "description": null,
+                            "duration": 420
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 572,
+                            "question": 4,
+                            "answer": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis",
+                            "answer_file": null,
+                            "submission": "H9DH7V",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 15,
+                                    "answer": {
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
                 "29": {
                     "code": "QWNNM8",
                     "title": "WitnessAngel - Faisons de la cryptographie sous Micropython",
@@ -5696,7 +5798,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5929,
+                            "id": 6057,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5718,7 +5820,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5938,
+                            "id": 6063,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5800,7 +5902,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5928,
+                            "id": 6060,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5822,7 +5924,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5934,
+                            "id": 6066,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5904,7 +6006,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5931,
+                            "id": 6061,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -5926,7 +6028,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5935,
+                            "id": 6064,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6068,7 +6170,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5930,
+                            "id": 6056,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6090,7 +6192,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5937,
+                            "id": 6062,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6172,7 +6274,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5932,
+                            "id": 6059,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6194,7 +6296,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5933,
+                            "id": 6065,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6276,7 +6378,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6055,
+                            "id": 6058,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -6297,7 +6399,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5936,
+                            "id": 6067,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -6346,6 +6448,108 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
+                "34": {
+                    "code": "H9DH7V",
+                    "title": "Restore ton PC : ta machine enti\u00e8re dans un script pyinfra",
+                    "speakers": [
+                        {
+                            "code": "Z83GGB",
+                            "name": "Lo\u00efc Tosser",
+                            "biography": "Bonjour ! Je suis Lo\u00efc Tosser, alias wowi42, un geek fran\u00e7ais passionn\u00e9 de tech, de systems engineering et de powerlifting. Je r\u00e9unis une combinaison singuli\u00e8re de comp\u00e9tences en IT, s\u00e9curit\u00e9, infrastructure, automatisation et data streaming.\r\n\r\nJ'ai commenc\u00e9 mon parcours en sortant dipl\u00f4m\u00e9 de l'une des meilleures \u00e9coles d'informatique d'Europe, avant de me lancer dans une aventure internationale avec un programme d'\u00e9change d'un an dans la premi\u00e8re universit\u00e9 de t\u00e9l\u00e9communications de Russie. Cela m'a conduit aux \u00c9mirats arabes unis, o\u00f9 j'occupe des postes de CTO pour des startups et des institutions gouvernementales depuis plus de 12 ans.\r\n\r\nJe crois fermement \u00e0 la force de l'open source et j'ai contribu\u00e9 \u00e0 des projets comme PyInfra, Arch, Alpine, Python et Django. J'aime travailler avec des technologies telles que FreeBSD, Alpine Linux, PostgreSQL et bien d'autres. Quand je ne code pas, vous me trouverez \u00e0 la salle \u00e0 soulever des trucs lourds ou \u00e0 \u00e9crire sur la tech sur mon blog. J'ai toujours plaisir \u00e0 \u00e9changer avec d'autres passionn\u00e9s de tech, alors n'h\u00e9sitez pas \u00e0 me contacter pour discuter de tout, de l'automatisation au powerlifting !\r\n\r\nEt n'oubliez pas : le savoir, c'est le pouvoir ! \ud83d\udcaa\ud83c\udf10",
+                            "submissions": [],
+                            "avatar_url": "https://cfp.pycon.fr/media/avatars/Z83GGB_8byTeSA.jpg",
+                            "answers": []
+                        }
+                    ],
+                    "submission_type": {
+                        "id": 30,
+                        "name": {
+                            "en": "Sprint",
+                            "fr": "Sprint"
+                        },
+                        "default_duration": 420,
+                        "deadline": null,
+                        "requires_access_code": false
+                    },
+                    "tags": [],
+                    "state": "confirmed",
+                    "description": "Disque mort, laptop perdu, nouvelle machine : combien de temps pour retrouver TON environnement ? Si la r\u00e9ponse fait peur, ce sprint est pour toi.\r\n\r\nL'id\u00e9e : encoder toute sa machine dans pyinfra, l'outil d'automatisation en pur Python, sans YAML ni agent. Dotfiles, config shell, outils CLI, polices, environnements de dev : tout devient du Python versionn\u00e9. Et tout se passe en userland, sans droits admin : uv, ~/.local, systemctl --user, ports hauts.\r\nPour tester sans risque, on restaure dans des conteneurs rootless sacrifiables. La boucle de travail du sprint : \u00e9cris, d\u00e9truis, restaure, recommence. Et le grand final : une course de restauration, chacun d\u00e9truit son environnement de test et le reconstruit en une commande. Le plus rapide gagne, le plus complet aussi.\r\n\r\nAu programme : prise en main de pyinfra (connecteurs @local et @docker, op\u00e9rations, mode --dry), strat\u00e9gies de sauvegarde de sa config, secrets et gestion des cl\u00e9s, et chacun repart avec SON script de restauration, pr\u00eat pour le jour o\u00f9 sa machine rendra l'\u00e2me. Ce jour-l\u00e0, tu seras la seule personne calme dans la pi\u00e8ce.\r\n\r\nTous niveaux bienvenus.\r\nPr\u00e9requis : un laptop avec Linux (ou une VM) et Python.\r\nAucun droit admin n\u00e9cessaire.",
+                    "duration": 420,
+                    "slot_count": 2,
+                    "content_locale": "fr",
+                    "resources": [],
+                    "slots": [
+                        {
+                            "id": 6184,
+                            "room": {
+                                "id": 34,
+                                "name": {
+                                    "fr": "SU"
+                                },
+                                "description": {
+                                    "en": "Sprint room",
+                                    "fr": "Salle de sprint"
+                                },
+                                "uuid": "d43de80f-d751-540d-bfba-5a153ca2996c",
+                                "guid": null,
+                                "capacity": 22,
+                                "position": null
+                            },
+                            "start": "2026-10-29T10:00:00+01:00",
+                            "end": "2026-10-29T17:00:00+01:00",
+                            "description": null,
+                            "duration": 420
+                        },
+                        {
+                            "id": 6185,
+                            "room": {
+                                "id": 34,
+                                "name": {
+                                    "fr": "SU"
+                                },
+                                "description": {
+                                    "en": "Sprint room",
+                                    "fr": "Salle de sprint"
+                                },
+                                "uuid": "d43de80f-d751-540d-bfba-5a153ca2996c",
+                                "guid": null,
+                                "capacity": 22,
+                                "position": null
+                            },
+                            "start": "2026-10-30T10:00:00+01:00",
+                            "end": "2026-10-30T17:00:00+01:00",
+                            "description": null,
+                            "duration": 420
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": 572,
+                            "question": 4,
+                            "answer": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis",
+                            "answer_file": null,
+                            "submission": "H9DH7V",
+                            "review": null,
+                            "person": null,
+                            "options": [
+                                {
+                                    "id": 15,
+                                    "answer": {
+                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
+                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
+                                    },
+                                    "position": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "pending_state": null,
+                    "is_featured": false,
+                    "access_code": null,
+                    "anonymised_data": "{}",
+                    "assigned_reviewers": [],
+                    "is_anonymised": false
+                },
                 "29": {
                     "code": "QWNNM8",
                     "title": "WitnessAngel - Faisons de la cryptographie sous Micropython",
@@ -6378,7 +6582,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5929,
+                            "id": 6057,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6400,7 +6604,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5938,
+                            "id": 6063,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6482,7 +6686,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5928,
+                            "id": 6060,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6504,7 +6708,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5934,
+                            "id": 6066,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6586,7 +6790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 5931,
+                            "id": 6061,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6608,7 +6812,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 5935,
+                            "id": 6064,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6948,7 +7152,8 @@
                     "end": "2026-10-31T00:00:00+01:00",
                     "allDay": false
                 }
-            ]
+            ],
+            "in_sprints": true
         },
         {
             "id": 35,
