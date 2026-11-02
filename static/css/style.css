@@ -546,8 +546,10 @@ aside.subtitle {
   padding: 0;
 
   table {
+    --spacing: 0.5rem;
+
     border-collapse: separate;
-    border-spacing: 0.5rem;
+    border-spacing: var(--spacing);
     table-layout: fixed;
     width: 100%;
 
@@ -695,37 +697,33 @@ aside.subtitle {
       justify-content: center;
       position: absolute;
       text-shadow: 0 0 0.15em var(--main-color);
+      width: calc(400% + 0.9 * 3 * var(--spacing));
     }
   }
 
   #saturday-breakfast div {
     background-image: url(../images/breakfast.webp);
-    height: calc(8rem / 3 * 2 + 0.5rem);
-    width: calc(400% + 0.9 * 3 * 0.5rem);
+    height: calc(8rem / 3 * 2 + var(--spacing));
   }
 
   #sunday-breakfast div {
     background-image: url(../images/breakfast.webp);
-    height: calc(8rem / 3 * 3 + 2 * 0.5rem);
-    width: calc(400% + 0.9 * 3 * 0.5rem);
+    height: calc(8rem / 3 * 3 + 2 * var(--spacing));
   }
 
   #saturday-lunch div {
     background-image: url(../images/lunch.webp);
-    height: calc(8rem / 3 * 9 + 8 * 0.5rem);
-    width: calc(400% + 0.9 * 3 * 0.5rem);
+    height: calc(8rem / 3 * 9 + 8 * var(--spacing));
   }
 
   #sunday-lunch div {
     background-image: url(../images/lunch.webp);
-    height: calc(8rem / 3 * 6 + 5 * 0.5rem);
-    width: calc(400% + 0.9 * 3 * 0.5rem);
+    height: calc(8rem / 3 * 6 + 5 * var(--spacing));
   }
 
   #saturday-snack div {
     background-image: url(../images/snack.webp);
-    height: calc(8rem + 2 * 0.5rem);
-    width: calc(400% + 0.9 * 3 * 0.5rem);
+    height: calc(8rem + 2 * var(--spacing));
   }
 }
 
@@ -906,7 +904,8 @@ aside.subtitle {
     }
 
     table {
-      border-spacing: 0;
+      --spacing: 0.2mm;
+
       font-size: 8.65pt;
 
       thead {
@@ -923,6 +922,8 @@ aside.subtitle {
         }
 
         &.day th {
+          background: none;
+          color: black;
           padding-bottom: 0;
           transform: translate(0 -4em);
         }
@@ -937,6 +938,7 @@ aside.subtitle {
       }
 
       td {
+        box-shadow: none;
         line-height: 1.15;
         padding: 0 0.5em 2.2em 0.5em;
 
@@ -944,20 +946,21 @@ aside.subtitle {
           outline: 0.1mm solid var(--popup-color);
         }
       }
+    }
 
-      div {
-        height: 3.5em !important;
-        justify-content: flex-start;
-        width: 400%;
+    div {
+      justify-content: flex-start;
+    }
 
-        #saturday-lunch & {
-          height: 7em !important;
-        }
+    #saturday-lunch div {
+      height: 7em;
+    }
 
-        #saturday-breakfast &, #sunday-lunch & {
-          height: 2.5em !important;
-        }
-      }
+    #saturday-breakfast div,
+    #saturday-snack div,
+    #sunday-breakfast div,
+    #sunday-lunch div {
+      height: 2.5em;
     }
   }
 }
