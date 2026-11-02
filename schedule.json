@@ -36,7 +36,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6068,
+                            "id": 6330,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -94,7 +94,7 @@
             "580": {
                 "25": {
                     "code": "S3H7WV",
-                    "title": "Pl\u00e9ni\u00e8re surprise",
+                    "title": "Quiz AFPy surprise",
                     "speakers": [
                         {
                             "code": "8RFSMY",
@@ -117,14 +117,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Venez et profitez",
+                    "description": "Petit quiz organis\u00e9 par l'\u00e9quipe de l'AFPy \u00e0 propos de l'association, de la PyConFR, et bien s\u00fbr de Python\u00a0!",
                     "duration": 45,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6070,
+                            "id": 6332,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -212,7 +212,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6078,
+                            "id": 6340,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -294,7 +294,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6076,
+                            "id": 6334,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -376,7 +376,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6074,
+                            "id": 6339,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -458,7 +458,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6075,
+                            "id": 6336,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -540,7 +540,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6072,
+                            "id": 6337,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -622,7 +622,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6073,
+                            "id": 6338,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -704,7 +704,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6077,
+                            "id": 6335,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -790,7 +790,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6083,
+                            "id": 6348,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -872,7 +872,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6086,
+                            "id": 6345,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -954,7 +954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6084,
+                            "id": 6346,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1036,7 +1036,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6085,
+                            "id": 6347,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1122,7 +1122,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6088,
+                            "id": 6350,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1205,10 +1205,12 @@
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "en",
-                    "resources": [],
+                    "resources": [
+                        87
+                    ],
                     "slots": [
                         {
-                            "id": 6094,
+                            "id": 6355,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1290,7 +1292,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6093,
+                            "id": 6357,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1372,7 +1374,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6095,
+                            "id": 6356,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1467,7 +1469,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6106,
+                            "id": 6369,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -1549,7 +1551,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6102,
+                            "id": 6364,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -1631,7 +1633,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6107,
+                            "id": 6367,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -1713,7 +1715,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6105,
+                            "id": 6366,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -1795,7 +1797,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6104,
+                            "id": 6365,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -1877,7 +1879,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6103,
+                            "id": 6368,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -1963,7 +1965,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6112,
+                            "id": 6374,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2045,7 +2047,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6113,
+                            "id": 6377,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2127,7 +2129,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6114,
+                            "id": 6375,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2209,7 +2211,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6115,
+                            "id": 6376,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2298,7 +2300,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6123,
+                            "id": 6384,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2348,88 +2350,6 @@
                     "assigned_reviewers": [],
                     "is_anonymised": false
                 },
-                "26": {
-                    "code": "K9RV3S",
-                    "title": "Made by community",
-                    "speakers": [
-                        {
-                            "code": "UVTMPS",
-                            "name": "Steve Yonkeu",
-                            "biography": "Steve Yonkeu is a senior backend and platform engineer based in Cameroon. He is a PSF Fellow, a Microsoft MVP, and a member of the Django Software Foundation. He founded Python Cameroon and Django Cameroon, co-organizes PyCon Africa, and has spoken at PyCon US. He works daily with Python, PostgreSQL, and Kubernetes.",
-                            "submissions": [],
-                            "avatar_url": "",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Mes premiers ateliers Django, je les ai donn\u00e9s \u00e0 Bamenda, dans une r\u00e9gion travers\u00e9e par une crise sociopolitique. Des salles emprunt\u00e9es, un vid\u00e9oprojecteur qui marchait une fois sur deux, des sessions annul\u00e9es pour des raisons qui n'avaient rien \u00e0 voir avec la tech. Personne ne me l'avait demand\u00e9. Je partageais ce que je venais d'apprendre la semaine d'avant.\r\n\r\nAujourd'hui je suis PSF Fellow, Microsoft MVP, membre de la Django Software Foundation, j'ai fond\u00e9 Python Cameroun et Django Cameroun, et j'ai parl\u00e9 \u00e0 la PyCon US. Entre les deux, aucun plan de carri\u00e8re. Des meetups, des talks rat\u00e9s, des ateliers o\u00f9 trois personnes se pr\u00e9sentent, et une communaut\u00e9 qui a continu\u00e9 \u00e0 me faire confiance.\r\n\r\nDans ce talk, je raconte ce chemin sans filtre. Ce que parler en public et animer des ateliers construit vraiment, en comp\u00e9tences comme en r\u00e9seau, ce que \u00e7a co\u00fbte, et pourquoi il reste ouvert \u00e0 n'importe qui dans cette salle.\r\n\r\nJe suis un produit de la communaut\u00e9.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 6120,
-                            "room": {
-                                "id": 26,
-                                "name": {
-                                    "en": "BASENDERIE",
-                                    "fr": "BASENDERIE"
-                                },
-                                "description": {
-                                    "en": "Conference room",
-                                    "fr": "Salle de conf\u00e9rence"
-                                },
-                                "uuid": "eb0808da-c7a5-50f0-aa7f-d43f9d07da58",
-                                "guid": null,
-                                "capacity": 50,
-                                "position": 2
-                            },
-                            "start": "2026-10-31T15:30:00+01:00",
-                            "end": "2026-10-31T15:55:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 501,
-                            "question": 4,
-                            "answer": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
-                            "answer_file": null,
-                            "submission": "K9RV3S",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 14,
-                                    "answer": {
-                                        "en": "Non-technical / Ecosystem - Management, wellness, ethics, society...",
-                                        "fr": "Non-technique / \u00c9cosyst\u00e8me - Management, bien-\u00eatre, \u00e9thique, soci\u00e9t\u00e9..."
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "28": {
                     "code": "PZWG9Q",
                     "title": "Linux with Python Super Powers",
@@ -2462,7 +2382,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6122,
+                            "id": 6383,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2544,7 +2464,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6121,
+                            "id": 6382,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2633,7 +2553,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6130,
+                            "id": 6390,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -2715,7 +2635,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6129,
+                            "id": 6389,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -2797,7 +2717,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6131,
+                            "id": 6392,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -2879,7 +2799,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6128,
+                            "id": 6391,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -2970,7 +2890,7 @@
                     ],
                     "slots": [
                         {
-                            "id": 6133,
+                            "id": 6394,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3064,7 +2984,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6134,
+                            "id": 6395,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3153,7 +3073,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6135,
+                            "id": 6396,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3242,7 +3162,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6138,
+                            "id": 6399,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3324,7 +3244,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6141,
+                            "id": 6402,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3406,7 +3326,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6137,
+                            "id": 6398,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -3488,7 +3408,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6139,
+                            "id": 6400,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3570,7 +3490,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6140,
+                            "id": 6401,
                             "room": {
                                 "id": 28,
                                 "name": {
@@ -3656,7 +3576,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6148,
+                            "id": 6408,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -3738,7 +3658,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6146,
+                            "id": 6407,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -3767,96 +3687,6 @@
                             "answer": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis",
                             "answer_file": null,
                             "submission": "83VKV3",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 15,
-                                    "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "28": {
-                    "code": "MEAQWP",
-                    "title": "Python In Special Educational Needs and Disabilities Settings",
-                    "speakers": [
-                        {
-                            "code": "KXKTKY",
-                            "name": "Kayode Abiodun Oladapo",
-                            "biography": "Kayode Abiodun Oladapo is a seasoned data scientist and a computer science lecturer with over a decade of experience in teaching and research. He lectures at McPherson University, where he specialises in information systems and data science. He is presently a research associate and data analyst with the Connect Institute and Achieve Together in the United Kingdom, a freelancer for FORCE11 (The Future of Research Communications and e-Scholarship). He is the founder and hub agent (global) for Python Starters Hub, and the founder of myHoodora social network app.\r\n\r\nHe does research in information systems, data science, machine learning, learning analytics, and education management. A member of the Nigeria Computer Society (NCS), the Computer Professional (Registration Council of Nigeria) - CPN, and the Association of Computing Machinery (ACM) and an associate member of the Society for Forensic Accounting and Fraud Prevention. He has served as the Acting Director, ICT-RMU and the acting Head of Department, Computer Science, College of Computing, McPherson University.\r\n\r\nHe is actively involved in mentoring students in Python for data science and community services. He is the campus adopter for Data Science Nigeria, McPherson University, as well as the Campus Guidance for PyClub McPherson University, and a member of the EuroPython Society. He oversees the affairs of Python Starter Hub for beginners in Python programming.\r\n\r\nAs an advocate for innovative learning and emerging technologies, Oladapo has led various national and international workshops on data science and artificial intelligence. He has mentored dozens of undergraduate and postgraduate students and has published research papers in peer-reviewed journals.\r\n\r\nVisit: https://sites.google.com/view/kayodeabiodunoladapo/",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/KXKTKY_Wer2nVN.jpeg",
-                            "answers": []
-                        },
-                        {
-                            "code": "GUETU3",
-                            "name": "Oluwakemi Jacobs",
-                            "biography": "Jacobs Oluwakemi is an educator committed to exploring the use of Python in data science, machine learning, and artificial intelligence for teaching and learning. Passionate about special needs learners and with the rise in the number of learners with disabilities to read and write in Nigeria (dyslexia), she desires to impact learners more to read, write, and attain academic excellence using the Python programming language",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/GUETU3_8isWFdu.png",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 26,
-                        "name": {
-                            "en": "Long talk",
-                            "fr": "Conf\u00e9rence longue"
-                        },
-                        "default_duration": 55,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Many individuals who are aspiring to learn how to code specifically Python, especially those with special educational needs or disabilities (SEND) and those from underrepresented communities, faces difficulties in learning as the available resources do not account for those with diverse learning needs, as a result this makes aspiring learners to struggle with complex syntax, information overload, lack of availability to special needs learning content, and no or low engagement due to abstract examples. \r\nThis session will explore how Python can be taught and used as a tool for inclusion, showing practical activities to create accessible resources and strategies that can be used in teaching Python to aspiring individuals with SEND, as these will make learning Python participative and encourage learning. \r\nThe attendees will leave with a clear understanding of inclusive design principles and resources that can be, and have been, built and identified in supporting the teaching of Python to SEND learners. \r\nThis talk is for educators, mentors, the Python community, and anyone interested in making Python education more inclusive.",
-                    "duration": 55,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 6149,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T11:30:00+01:00",
-                            "end": "2026-11-01T12:25:00+01:00",
-                            "description": null,
-                            "duration": 55
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 516,
-                            "question": 4,
-                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
-                            "answer_file": null,
-                            "submission": "MEAQWP",
                             "review": null,
                             "person": null,
                             "options": [
@@ -3910,7 +3740,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6147,
+                            "id": 6409,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -3992,14 +3822,14 @@
                     },
                     "tags": [],
                     "state": "confirmed",
-                    "description": "Les modifications des sch\u00e9mas des bases relationnelles peuvent \u00eatre compliqu\u00e9es si l'on veut garder un service avec du traffic et sans interruption.\r\nLa pr\u00e9sentation a pour but d'expliquer ce qui peut causer des interruptions de service et ce que l'on peut mettre en place pour les \u00e9viter.",
+                    "description": "Les modifications des sch\u00e9mas des bases relationnelles peuvent \u00eatre compliqu\u00e9es si l'on veut garder un service avec du traffic et sans interruption.\r\nLa pr\u00e9sentation a pour but d'expliquer ce qui peut causer des interruptions de service et ce que l'on peut mettre en place pour les \u00e9viter - parlons transactions et locks.",
                     "duration": 25,
                     "slot_count": 1,
                     "content_locale": "fr",
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6154,
+                            "id": 6415,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4081,7 +3911,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6155,
+                            "id": 6414,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4181,7 +4011,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6162,
+                            "id": 6425,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4271,7 +4101,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6165,
+                            "id": 6422,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -4353,7 +4183,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6166,
+                            "id": 6424,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4435,7 +4265,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6164,
+                            "id": 6423,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -4484,178 +4314,6 @@
                     "anonymised_data": "{}",
                     "assigned_reviewers": [],
                     "is_anonymised": false
-                },
-                "29": {
-                    "code": "PCTMJU",
-                    "title": "Automatisez la qualit\u00e9 et le formatage de votre code Python avec Ruff",
-                    "speakers": [
-                        {
-                            "code": "NPY7ZD",
-                            "name": "Malick BA",
-                            "biography": "Ing\u00e9nieur en Syst\u00e8mes Distribu\u00e9s, Certified Data Engineer & Data Scientist",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/NPY7ZD_ZHdSqFr.png",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 29,
-                        "name": {
-                            "en": "Workshop",
-                            "fr": "Atelier"
-                        },
-                        "default_duration": 145,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Marre des linters lents et des configurations complexes qui ralentissent votre flux de travail ? D\u00e9couvrez Ruff, l'outil r\u00e9volutionnaire \u00e9crit en Rust qui transforme la maintenance du code Python. Con\u00e7u pour remplacer simultan\u00e9ment Flake8, Black, isort et des dizaines d'autres extensions, Ruff analyse et corrige votre code \u00e0 une vitesse fulgurante.Cet atelier pratique vous guidera dans la transition vers un outillage moderne, performant et unifi\u00e9.",
-                    "duration": 145,
-                    "slot_count": 1,
-                    "content_locale": "fr",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 6163,
-                            "room": {
-                                "id": 29,
-                                "name": {
-                                    "en": "LANG6",
-                                    "fr": "LANG6"
-                                },
-                                "description": {
-                                    "en": "Sprint & workshop room",
-                                    "fr": "Salle d'atelier"
-                                },
-                                "uuid": "3af26c29-bdae-5023-a022-c26560f38880",
-                                "guid": null,
-                                "capacity": 40,
-                                "position": 4
-                            },
-                            "start": "2026-11-01T14:00:00+01:00",
-                            "end": "2026-11-01T16:25:00+01:00",
-                            "description": null,
-                            "duration": 145
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 511,
-                            "question": 4,
-                            "answer": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis",
-                            "answer_file": null,
-                            "submission": "PCTMJU",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 15,
-                                    "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
-                "28": {
-                    "code": "PRFTXS",
-                    "title": "while not done: From Prompt Engineering to Loop Engineering",
-                    "speakers": [
-                        {
-                            "code": "NWKN3R",
-                            "name": "Fasal Shah",
-                            "biography": "Fasal Shah is a Principal AI Engineer at Red Hat with over 11 years of experience building production AI systems using Python. His work focuses on LLMs, AI agents, retrieval-augmented generation (RAG), and scalable enterprise AI platforms. He is passionate about open source and enjoys sharing practical insights on building reliable, production-ready AI applications with Python.",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/NWKN3R_KF0vnj8.png",
-                            "answers": []
-                        },
-                        {
-                            "code": "MXFNCS",
-                            "name": "Soham Dutta",
-                            "biography": "Soham is a **Principal Engineer at Red Hat**, where he builds **agentic AI systems** that survive the jump from demo to production. Based in **Bangalore**, he owns the full stack, from **React front ends** through **vLLM serving on Kubernetes**, with **reliability, observability, and security** built in from day one.\r\n\r\nSoham's production work, from enabling AI for **multi-tenant data infrastructure** to **open-source agentic templates** now running across Red Hat's Data & AI organization, reflects a rare cross-domain fluency across **backend engineering, security, and AI/ML**.\r\n\r\nA published author and speaker, Soham cuts through the hype on what it actually takes to run AI at scale: **closing the demo-to-production gap**, **taming cascading failures in multi-agent systems**, and applying the engineering discipline that turns fragile prototypes into systems you can trust.",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/MXFNCS_IR9fbMS.jpg",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 26,
-                        "name": {
-                            "en": "Long talk",
-                            "fr": "Conf\u00e9rence longue"
-                        },
-                        "default_duration": 55,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Strip away the marketing and an AI agent is a plain Python loop: call a model, run a tool, look at the result, decide whether to go again. In 2026 that loop got a grand name, \u201cloop engineering,\u201d and a bold claim attached: stop writing prompts, start designing the loops that prompt your agents for you. Some very credible people say it changes how we build software. Others say it is a cron job wearing a hat.\r\n\r\nThis talk treats that as an engineering question, not a hype cycle. Two of us argue it out: one builds the strongest case for stacking loops, the other plays the skeptic. Along the way we show, in plain standard-library Python with no framework, what each layer of a loop actually is: the agent loop, a verification loop that grades its own output, an event-driven trigger, and the \u201cself-improving\u201d loop that rewrites its own instructions. Then we count the cost. \r\n\r\nThe real payload of this talk is the three things the hype skips: runaway token bills, comprehension debt (code shipped faster than anyone can understand it), and rubrics that confidently make the agent worse. You\u2019ll be able to decide when a loop earns its keep, and when one plain function call and a human review would have shipped sooner. And a demo to top it all up.",
-                    "duration": 55,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 6167,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T14:00:00+01:00",
-                            "end": "2026-11-01T14:55:00+01:00",
-                            "description": null,
-                            "duration": 55
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 534,
-                            "question": 4,
-                            "answer": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                            "answer_file": null,
-                            "submission": "PRFTXS",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 16,
-                                    "answer": {
-                                        "en": "Intermediate / Practical - Requires basic knowledge for a deeper dive",
-                                        "fr": "Interm\u00e9diaire / Pratique - N\u00e9cessite des connaissances de base pour approfondir"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
                 }
             },
             "850": {},
@@ -4664,88 +4322,6 @@
             "880": {},
             "890": {},
             "900": {
-                "28": {
-                    "code": "9GCMCG",
-                    "title": "Python Learning that fits Teen Life",
-                    "speakers": [
-                        {
-                            "code": "XXVDMW",
-                            "name": "Jael Oladapo",
-                            "biography": "I am a teenager of 15 years old with passionate about python programming and community after my first python conference in Nigeria (PyCon Nigeria 2025) before my relocation to the United Kingdom as i see the future of Python programming is in the teenager like me. I will appreciate the opportunity for teenagers to contribute to Python Community.",
-                            "submissions": [],
-                            "avatar_url": "https://cfp.pycon.fr/media/avatars/XXVDMW_zAsJkPD.jpg",
-                            "answers": []
-                        }
-                    ],
-                    "submission_type": {
-                        "id": 22,
-                        "name": {
-                            "en": "Short talk",
-                            "fr": "Conf\u00e9rence courte"
-                        },
-                        "default_duration": 25,
-                        "deadline": null,
-                        "requires_access_code": false
-                    },
-                    "tags": [],
-                    "state": "confirmed",
-                    "description": "Coding often looks boring or challenging at the beginning, but the more we code, the more it becomes interesting, and we hope to be better in it. From my background, schools don\u2019t always teach the exciting ways for us to learn coding, which makes many teenagers of my age not realise how simple Python programming can assist them in real life and day-to-day activities. Also, the adults within the Python community don\u2019t know that the future of Python programming depends on bringing new and young beginners like me into the community at an early stage, so this session discusses how teenagers can use their communication interests in learning Python.\r\n\r\nLearning Python at a young age can expose us to various skills and help us develop our reasoning, as teenagers face a lot of distractions today through social media chats. Showing how Python can be learned through simple chat interactions makes Python programming more accessible and friendly.\r\n\r\nAs a teenager and beginner myself, I have an idea of how teenagers chat regularly on phones and applications, so chatting can also be a way of learning Python, so schools and communities like Python can discover this method to introduce Python to teenagers as a beginner. Python doesn\u2019t need to be scary; it can feel like chatting with a friend who explains things step by step. By combining Python with conversational learning, we can remove fear, build confidence, and make coding a normal part of teenage life.\r\n\r\nThis session will expose how teenagers can use simple conversation in WhatsApp to ask questions and learn Python as a chat. The audience will understand the tools and techniques for introducing Python to young people in a way that fits their communication style and how conversational learning makes Python more fun and less intimidating.",
-                    "duration": 25,
-                    "slot_count": 1,
-                    "content_locale": "en",
-                    "resources": [],
-                    "slots": [
-                        {
-                            "id": 6175,
-                            "room": {
-                                "id": 28,
-                                "name": {
-                                    "en": "PATUEK",
-                                    "fr": "PATUEK"
-                                },
-                                "description": {
-                                    "en": "English track room",
-                                    "fr": "Salle de conf\u00e9rence en anglais"
-                                },
-                                "uuid": "431684d4-2d37-5979-b49b-ed57c5d34575",
-                                "guid": null,
-                                "capacity": 137,
-                                "position": 1
-                            },
-                            "start": "2026-11-01T15:00:00+01:00",
-                            "end": "2026-11-01T15:25:00+01:00",
-                            "description": null,
-                            "duration": 25
-                        }
-                    ],
-                    "answers": [
-                        {
-                            "id": 452,
-                            "question": 4,
-                            "answer": "Beginner / Discovery - Introduction with no prior knowledge required",
-                            "answer_file": null,
-                            "submission": "9GCMCG",
-                            "review": null,
-                            "person": null,
-                            "options": [
-                                {
-                                    "id": 15,
-                                    "answer": {
-                                        "en": "Beginner / Discovery - Introduction with no prior knowledge required",
-                                        "fr": "D\u00e9butant / D\u00e9couverte - Introduction sans aucun pr\u00e9requis"
-                                    },
-                                    "position": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "pending_state": null,
-                    "is_featured": false,
-                    "access_code": null,
-                    "anonymised_data": "{}",
-                    "assigned_reviewers": [],
-                    "is_anonymised": false
-                },
                 "27": {
                     "code": "DL3YR7",
                     "title": "asyncio en prod pendant 5 ans : les pi\u00e8ges qu'on aurait aim\u00e9 conna\u00eetre",
@@ -4778,7 +4354,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6173,
+                            "id": 6432,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -4860,7 +4436,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6174,
+                            "id": 6431,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -4942,7 +4518,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6172,
+                            "id": 6430,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5028,7 +4604,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6180,
+                            "id": 6436,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5110,7 +4686,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6179,
+                            "id": 6437,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5192,7 +4768,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6181,
+                            "id": 6438,
                             "room": {
                                 "id": 26,
                                 "name": {
@@ -5281,7 +4857,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6183,
+                            "id": 6440,
                             "room": {
                                 "id": 25,
                                 "name": {
@@ -5386,7 +4962,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6056,
+                            "id": 6321,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5408,7 +4984,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6062,
+                            "id": 6324,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -5490,7 +5066,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6059,
+                            "id": 6318,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5512,7 +5088,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6065,
+                            "id": 6325,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -5594,7 +5170,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6058,
+                            "id": 6317,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -5615,7 +5191,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6067,
+                            "id": 6327,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -5696,7 +5272,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6184,
+                            "id": 6316,
                             "room": {
                                 "id": 34,
                                 "name": {
@@ -5717,7 +5293,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6185,
+                            "id": 6328,
                             "room": {
                                 "id": 34,
                                 "name": {
@@ -5798,7 +5374,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6057,
+                            "id": 6322,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5820,7 +5396,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6063,
+                            "id": 6323,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -5902,7 +5478,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6060,
+                            "id": 6319,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -5924,7 +5500,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6066,
+                            "id": 6329,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6006,7 +5582,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6061,
+                            "id": 6320,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6028,7 +5604,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6064,
+                            "id": 6326,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6170,7 +5746,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6056,
+                            "id": 6321,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6192,7 +5768,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6062,
+                            "id": 6324,
                             "room": {
                                 "id": 27,
                                 "name": {
@@ -6274,7 +5850,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6059,
+                            "id": 6318,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6296,7 +5872,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6065,
+                            "id": 6325,
                             "room": {
                                 "id": 31,
                                 "name": {
@@ -6378,7 +5954,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6058,
+                            "id": 6317,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -6399,7 +5975,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6067,
+                            "id": 6327,
                             "room": {
                                 "id": 33,
                                 "name": {
@@ -6480,7 +6056,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6184,
+                            "id": 6316,
                             "room": {
                                 "id": 34,
                                 "name": {
@@ -6501,7 +6077,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6185,
+                            "id": 6328,
                             "room": {
                                 "id": 34,
                                 "name": {
@@ -6582,7 +6158,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6057,
+                            "id": 6322,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6604,7 +6180,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6063,
+                            "id": 6323,
                             "room": {
                                 "id": 29,
                                 "name": {
@@ -6686,7 +6262,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6060,
+                            "id": 6319,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6708,7 +6284,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6066,
+                            "id": 6329,
                             "room": {
                                 "id": 30,
                                 "name": {
@@ -6790,7 +6366,7 @@
                     "resources": [],
                     "slots": [
                         {
-                            "id": 6061,
+                            "id": 6320,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -6812,7 +6388,7 @@
                             "duration": 420
                         },
                         {
-                            "id": 6064,
+                            "id": 6326,
                             "room": {
                                 "id": 32,
                                 "name": {
@@ -7420,14 +6996,6 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/DDMNFT_dKBd7Kp.jpg",
             "answers": []
         },
-        "UVTMPS": {
-            "code": "UVTMPS",
-            "name": "Steve Yonkeu",
-            "biography": "Steve Yonkeu is a senior backend and platform engineer based in Cameroon. He is a PSF Fellow, a Microsoft MVP, and a member of the Django Software Foundation. He founded Python Cameroon and Django Cameroon, co-organizes PyCon Africa, and has spoken at PyCon US. He works daily with Python, PostgreSQL, and Kubernetes.",
-            "submissions": [],
-            "avatar_url": "",
-            "answers": []
-        },
         "TBHWTV": {
             "code": "TBHWTV",
             "name": "Alvaro Leiva",
@@ -7540,22 +7108,6 @@
             "avatar_url": "https://cfp.pycon.fr/media/avatars/SWBGYE_opn4OS4.jpg",
             "answers": []
         },
-        "KXKTKY": {
-            "code": "KXKTKY",
-            "name": "Kayode Abiodun Oladapo",
-            "biography": "Kayode Abiodun Oladapo is a seasoned data scientist and a computer science lecturer with over a decade of experience in teaching and research. He lectures at McPherson University, where he specialises in information systems and data science. He is presently a research associate and data analyst with the Connect Institute and Achieve Together in the United Kingdom, a freelancer for FORCE11 (The Future of Research Communications and e-Scholarship). He is the founder and hub agent (global) for Python Starters Hub, and the founder of myHoodora social network app.\r\n\r\nHe does research in information systems, data science, machine learning, learning analytics, and education management. A member of the Nigeria Computer Society (NCS), the Computer Professional (Registration Council of Nigeria) - CPN, and the Association of Computing Machinery (ACM) and an associate member of the Society for Forensic Accounting and Fraud Prevention. He has served as the Acting Director, ICT-RMU and the acting Head of Department, Computer Science, College of Computing, McPherson University.\r\n\r\nHe is actively involved in mentoring students in Python for data science and community services. He is the campus adopter for Data Science Nigeria, McPherson University, as well as the Campus Guidance for PyClub McPherson University, and a member of the EuroPython Society. He oversees the affairs of Python Starter Hub for beginners in Python programming.\r\n\r\nAs an advocate for innovative learning and emerging technologies, Oladapo has led various national and international workshops on data science and artificial intelligence. He has mentored dozens of undergraduate and postgraduate students and has published research papers in peer-reviewed journals.\r\n\r\nVisit: https://sites.google.com/view/kayodeabiodunoladapo/",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/KXKTKY_Wer2nVN.jpeg",
-            "answers": []
-        },
-        "GUETU3": {
-            "code": "GUETU3",
-            "name": "Oluwakemi Jacobs",
-            "biography": "Jacobs Oluwakemi is an educator committed to exploring the use of Python in data science, machine learning, and artificial intelligence for teaching and learning. Passionate about special needs learners and with the rise in the number of learners with disabilities to read and write in Nigeria (dyslexia), she desires to impact learners more to read, write, and attain academic excellence using the Python programming language",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/GUETU3_8isWFdu.png",
-            "answers": []
-        },
         "DR3RTG": {
             "code": "DR3RTG",
             "name": "Denis Vivi\u00e8s",
@@ -7626,38 +7178,6 @@
             "biography": "Staff Engineer @ [Napta](https://www.napta.io), je code en Python depuis mes 12 ans. \r\n\r\nPassionn\u00e9 de ce language et son \u00e9cosyst\u00e8me, je le connais sur le bout des doigts et y [contribue \u00e0 ma petite \u00e9chelle](https://github.com/loic-simon).",
             "submissions": [],
             "avatar_url": "https://cfp.pycon.fr/media/avatars/FMJQY8_40k4VS9.jpg",
-            "answers": []
-        },
-        "NPY7ZD": {
-            "code": "NPY7ZD",
-            "name": "Malick BA",
-            "biography": "Ing\u00e9nieur en Syst\u00e8mes Distribu\u00e9s, Certified Data Engineer & Data Scientist",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/NPY7ZD_ZHdSqFr.png",
-            "answers": []
-        },
-        "NWKN3R": {
-            "code": "NWKN3R",
-            "name": "Fasal Shah",
-            "biography": "Fasal Shah is a Principal AI Engineer at Red Hat with over 11 years of experience building production AI systems using Python. His work focuses on LLMs, AI agents, retrieval-augmented generation (RAG), and scalable enterprise AI platforms. He is passionate about open source and enjoys sharing practical insights on building reliable, production-ready AI applications with Python.",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/NWKN3R_KF0vnj8.png",
-            "answers": []
-        },
-        "MXFNCS": {
-            "code": "MXFNCS",
-            "name": "Soham Dutta",
-            "biography": "Soham is a **Principal Engineer at Red Hat**, where he builds **agentic AI systems** that survive the jump from demo to production. Based in **Bangalore**, he owns the full stack, from **React front ends** through **vLLM serving on Kubernetes**, with **reliability, observability, and security** built in from day one.\r\n\r\nSoham's production work, from enabling AI for **multi-tenant data infrastructure** to **open-source agentic templates** now running across Red Hat's Data & AI organization, reflects a rare cross-domain fluency across **backend engineering, security, and AI/ML**.\r\n\r\nA published author and speaker, Soham cuts through the hype on what it actually takes to run AI at scale: **closing the demo-to-production gap**, **taming cascading failures in multi-agent systems**, and applying the engineering discipline that turns fragile prototypes into systems you can trust.",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/MXFNCS_IR9fbMS.jpg",
-            "answers": []
-        },
-        "XXVDMW": {
-            "code": "XXVDMW",
-            "name": "Jael Oladapo",
-            "biography": "I am a teenager of 15 years old with passionate about python programming and community after my first python conference in Nigeria (PyCon Nigeria 2025) before my relocation to the United Kingdom as i see the future of Python programming is in the teenager like me. I will appreciate the opportunity for teenagers to contribute to Python Community.",
-            "submissions": [],
-            "avatar_url": "https://cfp.pycon.fr/media/avatars/XXVDMW_zAsJkPD.jpg",
             "answers": []
         },
         "CHP3XL": {
